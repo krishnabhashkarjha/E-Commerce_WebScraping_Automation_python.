@@ -1,0 +1,85 @@
+2020-04-13 10:43:25,809 INFO: Folder created For NordstromPortal.
+2020-04-13 10:43:49,896 INFO: Successfully Login to NuFace
+2020-04-13 10:44:19,585 INFO: Successfully Report Downloaded for dept 276
+2020-04-13 10:44:22,591 INFO: Successfully Report Rename for dept 276
+2020-04-13 10:44:22,596 INFO: Successfully Report Move in there Respective dept  276
+2020-04-13 10:44:29,005 INFO: Successfully Logout from NuFace
+2020-04-13 10:44:51,940 INFO: Successfully Login to NuFace
+2020-04-13 10:45:21,785 INFO: Successfully Report Downloaded for dept 32
+2020-04-13 10:45:24,795 INFO: Successfully Report Rename for dept 32
+2020-04-13 10:45:24,943 INFO: Successfully Report Move in there Respective dept  32
+2020-04-13 10:45:31,277 INFO: Successfully Logout from NuFace
+2020-04-13 10:45:31,277 INFO:  Done With NuFace. None
+2020-04-13 10:46:17,287 INFO: Successfully Login to NewBalanceAthleticShoe
+2020-04-13 10:46:46,953 INFO: Successfully Report Downloaded for dept 37 - WOMENS ACTIVE SHOES-NewBalance
+2020-04-13 10:46:49,963 INFO: Successfully Report Rename for dept 37
+2020-04-13 10:46:49,968 INFO: Successfully Report Move in there Respective dept  37
+2020-04-13 10:47:21,655 INFO: Successfully Report Downloaded for dept 123 - MENS ACTIVE SHOES-NewBalance
+2020-04-13 10:47:24,662 INFO: Successfully Report Rename for dept 123
+2020-04-13 10:47:24,664 INFO: Successfully Report Move in there Respective dept  123
+2020-04-13 10:47:56,161 INFO: Successfully Report Downloaded for dept 54 - KIDS SHOES-NewBalance
+2020-04-13 10:47:59,172 INFO: Successfully Report Rename for dept 54
+2020-04-13 10:47:59,174 INFO: Successfully Report Move in there Respective dept  54
+2020-04-13 10:48:31,075 INFO: Successfully Report Downloaded for dept 16 - ACTIVEWEAR-NewBalance
+2020-04-13 10:48:34,087 INFO: Successfully Report Rename for dept 16
+2020-04-13 10:48:34,091 INFO: Successfully Report Move in there Respective dept  16
+2020-04-13 10:49:05,515 INFO: Successfully Report Downloaded for dept 588 - M ACTIVE/OUTERWER-NewBalance
+2020-04-13 10:49:08,522 INFO: Successfully Report Rename for dept 588
+2020-04-13 10:49:08,527 INFO: Successfully Report Move in there Respective dept  588
+2020-04-13 10:49:14,914 INFO: Successfully Logout from NewBalanceAthleticShoe
+2020-04-13 10:49:14,915 INFO:  Done With NewBalance. None
+2020-04-13 10:49:14,915 INFO:  Done With LanaUnlimited. None
+2020-04-13 10:49:39,523 INFO: Successfully Login to WOLVERINE
+2020-04-13 10:50:09,238 INFO: Successfully Report Downloaded for dept 127 - MENS TREND SHOES-Wolverine
+2020-04-13 10:50:12,245 INFO: Successfully Report Rename for dept 127
+2020-04-13 10:50:12,249 INFO: Successfully Report Move in there Respective dept  127
+2020-04-13 10:50:43,903 INFO: Successfully Report Downloaded for dept 191 - SP MENS UT/LUXURY SHOES2-Wolverine
+2020-04-13 10:50:46,914 INFO: Successfully Report Rename for dept 191
+2020-04-13 10:50:46,920 INFO: Successfully Report Move in there Respective dept  191
+2020-04-13 10:51:18,516 INFO: Successfully Report Downloaded for dept 192 - SP WOMENS UT SHOES-Wolverine
+2020-04-13 10:51:18,518 ERROR: Exception: list index out of range
+2020-04-13 10:51:18,519 ERROR: Exception:max() arg is an empty sequence
+2020-04-13 10:51:50,109 INFO: Successfully Report Downloaded for dept 525 - COMFORT SHOES-Wolverine
+2020-04-13 10:51:53,131 INFO: Successfully Report Rename for dept 525
+2020-04-13 10:51:53,136 INFO: Successfully Report Move in there Respective dept  525
+2020-04-13 10:51:59,474 INFO: Successfully Logout from WOLVERINE
+2020-04-13 10:52:24,740 INFO: Successfully Login to WOLVERINE
+2020-04-13 10:52:54,621 INFO: Successfully Report Downloaded for dept 103 - SP WOMENS ACTIVE SHOES-Wolverine
+2020-04-13 10:52:57,625 INFO: Successfully Report Rename for dept 103
+2020-04-13 10:52:57,630 INFO: Successfully Report Move in there Respective dept  103
+2020-04-13 10:53:29,363 INFO: Successfully Report Downloaded for dept 123 - MENS ACTIVE SHOES-Wolverine
+2020-04-13 10:53:32,368 INFO: Successfully Report Rename for dept 123
+2020-04-13 10:53:32,373 INFO: Successfully Report Move in there Respective dept  123
+2020-04-13 10:55:59,709 INFO: Folder created For NordstromPortal.
+2020-04-13 10:55:59,709 ERROR: Exception:local variable 'exception' referenced before assignment
+2020-04-13 10:55:59,710 INFO: Download Complete for NordstromPortal
+2020-04-13 10:56:26,693 INFO: Folder created For NordstromPortal.
+2020-04-13 10:56:26,695 ERROR: Exception:local variable 'exception' referenced before assignment
+2020-04-13 10:56:26,695 INFO: Download Complete for NordstromPortal
+2020-04-13 10:56:36,630 INFO: Folder created For NordstromPortal.
+2020-04-13 10:56:36,631 ERROR: Exception:local variable 'exception' referenced before assignment
+2020-04-13 10:56:36,631 INFO: Download Complete for NordstromPortal
+2020-04-13 10:57:29,009 INFO: Folder created For NordstromPortal.
+2020-04-13 10:58:48,638 INFO: Folder created For NordstromPortal.
+2020-04-13 11:00:10,185 ERROR: Exception:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.163)
+
+2020-04-13 11:00:10,188 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.163)
+
+2020-04-13 11:00:10,191 ERROR: Exception: list index out of range
+2020-04-13 11:00:10,195 ERROR: Exception:max() arg is an empty sequence
+2020-04-13 11:00:13,208 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.163)
+
+2020-04-13 11:00:13,210 ERROR: Exception: list index out of range
+2020-04-13 11:00:13,211 ERROR: Exception:max() arg is an empty sequence
+2020-04-13 11:00:32,128 INFO: Folder created For NordstromPortal.
+2020-04-13 11:04:21,315 INFO: Successfully Login to WOLVERINE
+2020-04-13 11:06:07,685 ERROR: Exception: Message: 
+
+2020-04-13 11:06:07,685 ERROR: Exception: list index out of range
+2020-04-13 11:06:07,687 ERROR: Exception:max() arg is an empty sequence

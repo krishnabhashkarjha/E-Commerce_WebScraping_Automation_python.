@@ -1,0 +1,126 @@
+2019-03-01 11:53:15,611 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-01 11:53:18,916 INFO: Successful Connection
+2019-03-01 11:53:18,916 INFO: Login in to DC4 Prod
+2019-03-01 11:53:19,121 INFO: Refreshing access_token
+2019-03-01 11:53:21,446 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-01 11:53:23,245 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-01 11:53:46,173 INFO: Refreshing access_token
+2019-03-01 11:53:47,331 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-01 11:53:48,994 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-01 11:57:00,176 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'HSN Dro...
+                      ^
+
+2019-03-01 12:01:14,315 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Bed Bat...
+                      ^
+
+2019-03-01 12:01:14,324 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Bed Bath & Beyond) already exists.
+
+2019-03-01 12:05:32,164 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'ACE Har...
+                      ^
+
+2019-03-01 12:05:32,170 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(ACE Hardware) already exists.
+
+2019-03-01 12:08:56,370 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Harmon ...
+                      ^
+
+2019-03-01 12:08:56,376 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Harmon Stores) already exists.
+
+2019-03-01 12:13:10,859 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Costco'
+                      ^
+
+2019-03-01 12:13:10,868 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Costco) already exists.
+
+2019-03-01 14:38:38,072 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-01 14:38:45,879 INFO: Successful Connection
+2019-03-01 14:38:45,879 INFO: Login in to DC4 Prod
+2019-03-01 14:38:46,088 INFO: Refreshing access_token
+2019-03-01 14:38:47,079 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-01 14:38:47,991 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-01 14:39:03,270 INFO: Refreshing access_token
+2019-03-01 14:39:04,029 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-01 14:39:04,592 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-01 14:43:14,925 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Bed Bat...
+                      ^
+
+2019-03-01 14:43:14,931 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Bed Bath & Beyond) already exists.
+
+2019-03-01 14:47:11,827 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Neiman ...
+                      ^
+
+2019-03-01 14:47:11,835 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Neiman Marcus Group) already exists.
+
+2019-03-01 14:51:29,927 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Macys'
+                      ^
+
+2019-03-01 14:51:29,934 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Macys) already exists.
+
+2019-03-01 14:55:57,269 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Bergdor...
+                      ^
+
+2019-03-01 15:00:06,435 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Oversto...
+                      ^
+
+2019-03-01 15:00:06,441 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Overstockdotcom SOFS) already exists.
+
+2019-03-01 15:03:56,727 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'ACE Har...
+                      ^
+
+2019-03-01 15:03:56,735 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(ACE Hardware) already exists.
+
+2019-03-01 15:08:13,821 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Walmart...
+                      ^
+
+2019-03-01 15:12:53,716 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'GNC Inc...
+                      ^
+
+2019-03-01 15:12:53,725 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(GNC Inc) already exists.
+
+2019-03-01 15:17:48,735 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Bed Bat...
+                      ^
+
+2019-03-01 15:17:48,743 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Bed Bath & Beyond Canada) already exists.
+
+2019-03-01 15:22:14,944 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Bed Bat...
+                      ^
+
+2019-03-01 15:22:14,951 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Bed Bath & Beyond) already exists.
+
+2019-03-01 15:26:14,586 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Amazon ...
+                      ^
+
+2019-03-01 15:26:14,596 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Amazon Warehouse Canada) already exists.
+
+2019-03-01 15:29:48,187 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Amazon ...
+                      ^
+
+2019-03-01 15:30:49,807 INFO: Resetting dropped connection: sheets.googleapis.com

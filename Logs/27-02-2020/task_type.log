@@ -1,0 +1,37 @@
+2020-02-27 14:53:56,616 INFO: Folder created For DomoPortal.
+2020-02-27 14:54:02,829 INFO: Successfully SignIN To HydroFlask.
+2020-02-27 14:55:53,943 INFO: Download sales Report Successfully for Basspro.
+2020-02-27 14:55:57,261 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-27 14:57:39,450 INFO: Download sales Report Successfully for Cabelas.
+2020-02-27 14:57:42,466 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-02-27 14:59:13,921 INFO: Download Inventory Report Successfully for Basspro.
+2020-02-27 14:59:16,938 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-02-27 15:00:48,958 INFO: Download Inventory Report Successfully for Cabelas.
+2020-02-27 15:00:51,975 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-02-27 15:00:54,510 INFO: Successfully Signout.
+2020-02-27 15:00:54,511 INFO:  DONE WITH HydroFlask.None
+2020-02-27 15:00:56,357 INFO: Successfully SignIN To LifeIsGood.
+2020-02-27 15:02:38,123 INFO: Download sales Report Successfully for Basspro.
+2020-02-27 15:02:41,140 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-27 15:04:24,877 INFO: Download sales Report Successfully for Cabelas.
+2020-02-27 15:04:27,894 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-02-27 15:06:01,114 INFO: Download Inventory Report Successfully for Basspro.
+2020-02-27 15:06:04,134 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-02-27 15:07:37,213 INFO: Download Inventory Report Successfully for Cabelas.
+2020-02-27 15:07:40,278 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-02-27 15:07:43,103 INFO: Successfully Signout.
+2020-02-27 15:07:43,103 INFO:  DONE WITH LifeIsGood.None
+2020-02-27 15:07:43,104 INFO: Download Complete for Domo Portal
+2020-02-27 15:10:08,843 INFO: Folder created For DomoPortal.
+2020-02-27 15:10:15,691 INFO: Successfully SignIN To KeenFootwear.
+2020-02-27 15:11:58,286 INFO: Download sales Report Successfully for Basspro.
+2020-02-27 15:12:01,307 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-27 15:13:44,436 INFO: Download sales Report Successfully for Cabelas.
+2020-02-27 15:13:47,460 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-02-27 15:15:20,845 INFO: Download Inventory Report Successfully for Basspro.
+2020-02-27 15:15:23,902 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-02-27 15:16:56,134 INFO: Download Inventory Report Successfully for Cabelas.
+2020-02-27 15:16:59,338 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-02-27 15:17:01,970 INFO: Successfully Signout.
+2020-02-27 15:17:01,971 INFO:  DONE WITH KEEN FOOTWEAR.None
+2020-02-27 15:17:01,972 INFO: Download Complete for Domo Portal

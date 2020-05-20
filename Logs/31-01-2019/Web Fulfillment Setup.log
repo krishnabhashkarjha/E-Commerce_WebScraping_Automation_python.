@@ -1,0 +1,75 @@
+2019-01-31 11:19:54,114 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:19:57,343 INFO: Successful Connection
+2019-01-31 11:19:57,343 INFO: Login in to DC4 Prod
+2019-01-31 11:19:57,618 INFO: Refreshing access_token
+2019-01-31 11:19:59,642 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:20:01,430 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:20:24,099 ERROR: Error in Login.login(). Sheet name not found
+2019-01-31 11:23:33,371 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:23:35,343 INFO: Successful Connection
+2019-01-31 11:23:35,348 INFO: Login in to DC4 Prod
+2019-01-31 11:23:35,510 INFO: Refreshing access_token
+2019-01-31 11:23:37,110 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:23:38,908 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:23:59,310 ERROR: Error in Login.login(). Sheet name not found
+2019-01-31 11:26:25,408 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:26:27,814 INFO: Successful Connection
+2019-01-31 11:26:27,814 INFO: Login in to DC4 Prod
+2019-01-31 11:26:27,970 INFO: Refreshing access_token
+2019-01-31 11:26:29,767 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:26:31,239 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:26:53,574 ERROR: Error in Login.login(). Sheet name not found
+2019-01-31 11:28:10,248 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:28:12,779 INFO: Successful Connection
+2019-01-31 11:28:12,779 INFO: Login in to DC4 Prod
+2019-01-31 11:28:12,935 INFO: Refreshing access_token
+2019-01-31 11:28:14,503 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:28:16,122 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:29:31,136 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:29:33,550 INFO: Successful Connection
+2019-01-31 11:29:33,550 INFO: Login in to DC4 Prod
+2019-01-31 11:29:33,701 INFO: Refreshing access_token
+2019-01-31 11:29:35,278 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:29:36,607 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:39:42,669 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:39:45,215 INFO: Successful Connection
+2019-01-31 11:39:45,215 INFO: Login in to DC4 Prod
+2019-01-31 11:39:45,356 INFO: Refreshing access_token
+2019-01-31 11:39:47,272 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:39:49,218 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:43:25,631 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:43:28,193 INFO: Successful Connection
+2019-01-31 11:43:28,193 INFO: Login in to DC4 Prod
+2019-01-31 11:43:28,388 INFO: Refreshing access_token
+2019-01-31 11:43:30,255 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:43:31,980 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:44:35,179 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:44:37,610 INFO: Successful Connection
+2019-01-31 11:44:37,611 INFO: Login in to DC4 Prod
+2019-01-31 11:44:37,757 INFO: Refreshing access_token
+2019-01-31 11:44:39,331 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:44:40,886 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:47:33,906 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:47:36,443 INFO: Successful Connection
+2019-01-31 11:47:36,443 INFO: Login in to DC4 Prod
+2019-01-31 11:47:36,614 INFO: Refreshing access_token
+2019-01-31 11:47:38,472 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:47:39,801 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:48:27,297 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:48:29,856 INFO: Successful Connection
+2019-01-31 11:48:29,856 INFO: Login in to DC4 Prod
+2019-01-31 11:48:30,023 INFO: Refreshing access_token
+2019-01-31 11:48:31,618 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:48:33,268 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:54:07,525 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:54:10,132 INFO: Successful Connection
+2019-01-31 11:54:10,132 INFO: Login in to DC4 Prod
+2019-01-31 11:54:10,272 INFO: Refreshing access_token
+2019-01-31 11:54:12,164 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:54:13,824 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-31 11:57:45,222 INFO: Executing Script Web Fulfillment Setup
+2019-01-31 11:57:47,868 INFO: Successful Connection
+2019-01-31 11:57:47,868 INFO: Login in to DC4 Prod
+2019-01-31 11:57:48,031 INFO: Refreshing access_token
+2019-01-31 11:57:49,589 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-31 11:57:50,942 INFO: Starting new HTTPS connection (1): sheets.googleapis.com

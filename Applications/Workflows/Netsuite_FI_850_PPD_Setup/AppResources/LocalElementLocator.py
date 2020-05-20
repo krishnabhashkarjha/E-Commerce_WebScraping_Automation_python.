@@ -1,0 +1,11 @@
+PO02 = 'standards.sip.v7.po.conversion.v7m2r0.poRsxWrite'
+PO24 = 'standards.rsx.v7.m2.r0.po.conversion.v7m4r0.poRsxWrite'
+PO45 = 'standards.rsx.v7.m4.r0.po.conversion.v7m5r0.ord.ordRsxWrite'
+PO56 = 'standards.rsx.v7.m5.r0.ord.conversion.v7m6r0.ordRsxWrite'
+PO67 = 'standards.rsx.v7.m6.r0.ord.conversion.v7m7r0.ordRsxWrite'
+PO76 = 'standards.rsx.v7.m7.r0.ord.conversion.v7m6r0.ordRsxWrite'
+PO65 = 'standards.rsx.v7.m6.r0.ord.conversion.v7m5r0.ordRsxWrite'
+PO54 = 'standards.rsx.v7.m5.r0.ord.conversion.v7m4r0.po.poRsxWrite'
+PO42 = 'standards.rsx.v7.m4.r0.po.conversion.v7m2r0.poRsxWrite'
+PO20 = 'standards.rsx.v7.m2.r0.po.conversion.v7.poSipWrite'
+

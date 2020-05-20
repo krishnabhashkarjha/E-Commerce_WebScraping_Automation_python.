@@ -1,0 +1,35 @@
+2019-03-14 11:22:32,472 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-14 11:22:36,328 INFO: Successful Connection
+2019-03-14 11:22:36,329 INFO: Login in to DC4 Prod
+2019-03-14 11:22:36,537 INFO: Refreshing access_token
+2019-03-14 11:22:38,899 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-14 11:22:40,753 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-14 11:23:07,870 INFO: Refreshing access_token
+2019-03-14 11:23:09,254 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-14 11:23:10,701 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-14 11:25:58,996 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Frys El...
+                      ^
+
+2019-03-14 11:25:59,011 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Frys Electronics) already exists.
+
+2019-03-14 11:27:18,755 INFO: Resetting dropped connection: sheets.googleapis.com
+2019-03-14 16:07:12,204 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-14 16:07:14,711 INFO: Successful Connection
+2019-03-14 16:07:14,711 INFO: Login in to DC4 Prod
+2019-03-14 16:07:14,885 INFO: Refreshing access_token
+2019-03-14 16:07:16,887 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-14 16:07:18,515 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-14 16:07:42,046 INFO: Refreshing access_token
+2019-03-14 16:07:43,241 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-14 16:07:44,581 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-14 16:43:59,648 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-14 16:44:02,306 INFO: Successful Connection
+2019-03-14 16:44:02,306 INFO: Login in to DC4 Prod
+2019-03-14 16:44:02,469 INFO: Refreshing access_token
+2019-03-14 16:44:04,344 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-14 16:44:05,999 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-14 16:44:29,738 INFO: Refreshing access_token
+2019-03-14 16:44:30,894 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-14 16:44:32,637 INFO: Starting new HTTPS connection (1): sheets.googleapis.com

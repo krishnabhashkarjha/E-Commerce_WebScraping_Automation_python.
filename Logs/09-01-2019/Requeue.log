@@ -1,0 +1,31 @@
+2019-01-09 14:41:31,615 INFO: Executing Script Reueue
+2019-01-09 14:41:34,178 INFO: Login in to DC4 Prod
+2019-01-09 14:41:34,334 INFO: Refreshing access_token
+2019-01-09 14:41:36,240 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-09 14:41:37,852 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-09 14:49:52,875 INFO: Executing Script Reueue
+2019-01-09 14:49:55,251 INFO: Login in to DC4 Prod
+2019-01-09 14:49:55,435 INFO: Refreshing access_token
+2019-01-09 14:49:57,328 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-09 14:49:59,172 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-09 14:52:41,534 INFO: Executing Script Reueue
+2019-01-09 14:52:43,967 INFO: Login in to DC4 Prod
+2019-01-09 14:52:44,145 INFO: Refreshing access_token
+2019-01-09 14:52:45,749 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-09 14:52:47,130 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-09 14:56:20,803 INFO: Executing Script Reueue
+2019-01-09 14:56:23,389 INFO: Login in to DC4 Prod
+2019-01-09 14:56:23,560 INFO: Refreshing access_token
+2019-01-09 14:56:25,438 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-09 14:56:26,966 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-09 14:58:33,633 INFO: Executing Script Reueue
+2019-01-09 14:58:35,901 INFO: Login in to DC4 Prod
+2019-01-09 14:58:36,074 INFO: Refreshing access_token
+2019-01-09 14:58:37,738 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-09 14:58:39,058 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-09 15:01:18,706 INFO: Executing Script Reueue
+2019-01-09 15:01:21,085 INFO: Login in to DC4 Prod
+2019-01-09 15:01:21,246 INFO: Refreshing access_token
+2019-01-09 15:01:23,097 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-09 15:01:24,652 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-09 15:05:54,009 INFO: Resetting dropped connection: sheets.googleapis.com

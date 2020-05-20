@@ -1,0 +1,26 @@
+2019-03-12 11:03:15,282 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-12 11:03:18,826 INFO: Successful Connection
+2019-03-12 11:03:18,826 INFO: Login in to DC4 Prod
+2019-03-12 11:03:19,014 INFO: Refreshing access_token
+2019-03-12 11:03:21,118 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-12 11:03:22,946 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-12 11:03:45,860 INFO: Refreshing access_token
+2019-03-12 11:03:46,997 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-12 11:03:48,266 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-12 11:45:30,829 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-12 11:45:33,385 INFO: Successful Connection
+2019-03-12 11:45:33,386 INFO: Login in to DC4 Prod
+2019-03-12 11:45:33,548 INFO: Refreshing access_token
+2019-03-12 11:45:35,446 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-12 11:45:37,031 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-12 11:45:59,963 INFO: Refreshing access_token
+2019-03-12 11:46:01,107 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-12 11:46:02,495 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-12 11:56:56,774 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Kroger'
+                      ^
+
+2019-03-12 11:56:56,786 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Kroger) already exists.
+
+2019-03-12 11:58:32,863 INFO: Resetting dropped connection: sheets.googleapis.com

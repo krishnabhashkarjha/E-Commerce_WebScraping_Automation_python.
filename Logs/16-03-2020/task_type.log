@@ -1,0 +1,800 @@
+2020-03-16 10:53:40,703 INFO: Folder created For DomoPortal.
+2020-03-16 10:53:48,417 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-03-16 10:55:29,841 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 10:55:33,167 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 10:57:14,668 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 10:57:17,685 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 11:00:44,725 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 11:00:47,898 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 11:04:12,712 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 11:04:15,731 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 11:04:18,768 INFO: Successfully Signout.
+2020-03-16 11:04:18,768 INFO:  DONE WITH COLUMBIA SPORTWEAR.None
+2020-03-16 11:04:20,733 INFO: Successfully SignIN To StrikeKingLures.
+2020-03-16 11:06:07,162 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 11:06:10,181 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 11:07:57,309 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 11:08:00,326 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 11:09:33,096 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 11:09:36,203 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 11:11:09,502 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 11:11:12,523 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 11:11:14,845 INFO: Successfully Signout.
+2020-03-16 11:11:14,846 INFO:  DONE WITH StrikeKingLures.None
+2020-03-16 11:11:17,054 INFO: Successfully SignIN To LewsFishingTackle.
+2020-03-16 11:13:01,873 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 11:13:04,896 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 11:14:48,592 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 11:14:51,609 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 11:16:24,711 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 11:16:27,731 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 11:17:59,691 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 11:18:02,709 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 11:18:05,078 INFO: Successfully Signout.
+2020-03-16 11:18:05,079 INFO:  DONE WITH LewsFishingTackle.None
+2020-03-16 11:18:05,079 INFO: Download Complete for Domo Portal
+2020-03-16 11:56:55,524 INFO: Folder created For DomoPortal.
+2020-03-16 11:57:03,349 INFO: Successfully SignIN To VistaOutdoors.
+2020-03-16 11:58:48,863 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 11:58:51,883 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 12:00:34,719 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 12:00:37,736 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 12:02:09,639 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 12:02:12,702 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 12:03:44,367 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 12:03:47,385 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 12:03:49,568 INFO: Successfully Signout.
+2020-03-16 12:03:49,568 INFO:  DONE WITH ATK.None
+2020-03-16 12:03:52,163 INFO: Successfully SignIN To KeenFootwear.
+2020-03-16 12:05:40,661 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 12:05:43,678 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 12:07:29,068 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 12:07:32,085 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 12:09:04,201 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 12:09:07,419 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 12:10:40,679 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 12:10:43,707 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 12:10:46,049 INFO: Successfully Signout.
+2020-03-16 12:10:46,049 INFO:  DONE WITH KEEN FOOTWEAR.None
+2020-03-16 12:10:48,188 INFO: Successfully SignIN To NorthFace.
+2020-03-16 12:12:33,157 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 12:12:36,175 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 12:14:19,338 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 12:14:22,359 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 12:15:54,380 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 12:15:57,401 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 12:17:30,409 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 12:17:33,429 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 12:17:36,667 INFO: Successfully Signout.
+2020-03-16 12:17:36,667 INFO:  DONE WITH NORTH FACE.None
+2020-03-16 12:17:38,652 INFO: Successfully SignIN To Crocs.
+2020-03-16 12:19:24,225 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 12:19:27,243 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 12:21:12,039 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 12:21:15,058 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 12:22:46,801 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 12:22:49,819 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 12:24:21,791 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 12:24:24,810 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 12:24:29,554 INFO: Successfully Signout.
+2020-03-16 12:24:29,554 INFO:  DONE WITH CROCS.None
+2020-03-16 12:24:31,303 INFO: Successfully SignIN To Beretta.
+2020-03-16 12:26:17,753 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 12:26:20,772 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 12:28:08,182 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 12:28:11,203 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 12:29:42,986 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 12:29:46,006 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 12:31:18,083 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 12:31:21,100 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 12:31:23,122 INFO: Successfully Signout.
+2020-03-16 12:31:23,123 INFO:  DONE WITH BERETTA.None
+2020-03-16 12:31:25,273 INFO: Successfully SignIN To PureFishing.
+2020-03-16 12:33:12,443 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 12:33:15,837 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 12:35:00,099 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 12:35:14,246 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 12:37:15,422 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 12:37:18,443 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 12:38:51,417 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 12:38:54,473 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 12:38:58,104 INFO: Successfully Signout.
+2020-03-16 12:38:58,104 INFO:  DONE WITH PUREFISHING.None
+2020-03-16 12:39:00,114 INFO: Successfully SignIN To Yeti.
+2020-03-16 12:40:43,884 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 12:40:58,311 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 12:43:00,389 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 12:43:03,408 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 12:44:49,956 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 12:44:52,977 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 12:46:24,551 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 12:46:27,571 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 12:46:30,058 INFO: Successfully Signout.
+2020-03-16 12:46:30,059 INFO:  DONE WITH YETI.None
+2020-03-16 12:46:31,845 INFO: Successfully SignIN To PelicanProducts.
+2020-03-16 12:48:26,591 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 12:48:29,611 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 12:50:14,316 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 12:50:17,336 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 12:52:38,242 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 12:52:42,984 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 12:54:49,715 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 12:54:52,733 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 12:54:55,022 INFO: Successfully Signout.
+2020-03-16 12:54:55,022 INFO:  DONE WITH PELICANPRODUCTS.None
+2020-03-16 12:54:57,167 INFO: Successfully SignIN To GFiveOutdoors.
+2020-03-16 12:56:42,302 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 12:56:45,321 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 12:58:29,464 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 12:58:32,482 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 13:00:12,556 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 13:00:15,575 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 13:01:52,894 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 13:01:55,913 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 13:02:00,214 INFO: Successfully Signout.
+2020-03-16 13:02:00,214 INFO:  DONE WITH GFIVEOUTDOORS.None
+2020-03-16 13:02:02,247 INFO: Successfully SignIN To LacrosseFootwear.
+2020-03-16 13:03:48,202 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 13:03:51,224 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 13:05:36,790 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 13:05:39,810 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 13:07:11,661 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 13:07:14,682 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 13:08:47,307 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 13:08:50,325 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 13:08:52,244 INFO: Successfully Signout.
+2020-03-16 13:08:52,244 INFO:  DONE WITH LACROSSEFOOTWEAR.None
+2020-03-16 13:08:54,084 INFO: Successfully SignIN To UnderArmour.
+2020-03-16 13:10:38,225 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 13:10:41,243 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 13:11:24,998 INFO: Message: element not interactable
+  (Session info: chrome=80.0.3987.132)
+
+2020-03-16 13:11:27,459 INFO: Successfully Signout.
+2020-03-16 13:11:27,460 INFO:  DONE WITH UNDERARMOUR.Message: element not interactable
+  (Session info: chrome=80.0.3987.132)
+
+2020-03-16 13:11:29,208 INFO: Successfully SignIN To GerberLegendaryBlades.
+2020-03-16 13:13:13,723 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 13:13:16,744 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 13:15:02,049 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 13:15:05,068 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 13:16:36,485 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 13:16:39,505 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 13:18:13,491 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 13:18:16,608 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 13:18:19,085 INFO: Successfully Signout.
+2020-03-16 13:18:19,086 INFO:  DONE WITH GERLEGENDARYBLADES.None
+2020-03-16 13:18:20,724 INFO: Successfully SignIN To SITKAGear.
+2020-03-16 13:20:06,866 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 13:20:09,884 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 13:29:09,572 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 13:29:09,589 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+SALES+DETAIL+SKU+STORE+DAY.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\CABELASDOMO_SITKA_SALES_20200314.csv'
+2020-03-16 13:29:09,590 ERROR: Exception:max() arg is an empty sequence
+2020-03-16 13:29:09,590 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 13:30:48,394 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 13:30:51,413 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 13:32:23,508 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 13:32:26,533 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 13:32:29,352 INFO: Successfully Signout.
+2020-03-16 13:32:29,353 INFO:  DONE WITH SITKAGEAR.None
+2020-03-16 13:32:31,058 INFO: Successfully SignIN To CarlZeiss.
+2020-03-16 13:34:13,608 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 13:34:16,633 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 13:35:57,102 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 13:36:00,126 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 13:37:34,297 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 13:37:37,315 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 13:39:09,254 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 13:39:12,273 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 13:39:14,619 INFO: Successfully Signout.
+2020-03-16 13:39:14,620 INFO:  DONE WITH CarlZeiss.None
+2020-03-16 13:39:17,358 INFO: Successfully SignIN To Kimber.
+2020-03-16 13:41:01,743 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 13:41:04,797 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 13:42:53,081 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 13:42:56,101 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 13:44:28,248 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 13:44:31,309 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 13:46:07,182 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 13:46:10,233 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 13:46:12,963 INFO: Successfully Signout.
+2020-03-16 13:46:12,963 INFO:  DONE WITH KIMBER.None
+2020-03-16 13:46:15,836 INFO: Successfully SignIN To Wolverine.
+2020-03-16 13:48:12,617 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 13:48:15,671 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 13:50:10,435 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 13:50:13,486 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 13:51:48,859 INFO: partial file download.
+2020-03-16 13:51:48,861 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 13:51:48,911 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\BASSPRODOMO_WOLVERINE_INVENTORY_20200314.csv'
+2020-03-16 13:51:52,510 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv.crdownload'
+2020-03-16 13:51:52,510 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 13:53:38,387 INFO: partial file download.
+2020-03-16 13:53:38,388 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 13:53:41,482 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL (1).csv.crdownload'
+2020-03-16 13:53:41,482 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 13:53:47,799 INFO: Successfully Signout.
+2020-03-16 13:53:47,799 INFO:  DONE WITH WOLVERINE.None
+2020-03-16 13:53:49,724 INFO: Successfully SignIN To GearAid.
+2020-03-16 13:55:44,419 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 13:55:47,469 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 13:57:42,161 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 13:57:45,208 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 13:59:20,741 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 13:59:23,801 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 14:01:24,745 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 14:01:27,797 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 14:01:30,715 INFO: Successfully Signout.
+2020-03-16 14:01:30,715 INFO:  DONE WITH GEARAIDINC.None
+2020-03-16 14:01:33,901 INFO: Successfully SignIN To GildanApparel.
+2020-03-16 14:03:27,293 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 14:03:30,342 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 14:05:23,409 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 14:05:26,451 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 14:07:04,221 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 14:07:07,257 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 14:08:42,934 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 14:08:45,983 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 14:08:50,259 INFO: Successfully Signout.
+2020-03-16 14:08:50,259 INFO:  DONE WITH GILDANAPPAREL.None
+2020-03-16 14:08:52,505 INFO: Successfully SignIN To MtnOps.
+2020-03-16 14:10:43,605 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 14:10:46,648 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 14:12:39,073 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 14:12:42,131 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 14:14:16,774 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 14:14:19,814 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 14:15:54,665 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 14:15:57,715 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 14:16:00,607 INFO: Successfully Signout.
+2020-03-16 14:16:00,607 INFO:  DONE WITH MTNOPS.None
+2020-03-16 14:16:03,393 INFO: Successfully SignIN To VistaOutdoor.
+2020-03-16 14:17:58,602 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 14:18:01,748 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 14:19:55,366 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 14:19:58,702 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 14:21:33,916 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 14:21:36,988 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 14:23:11,825 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 14:23:15,212 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 14:23:18,777 INFO: Successfully Signout.
+2020-03-16 14:23:18,777 INFO:  DONE WITH VISTAOUTDOOR.None
+2020-03-16 14:23:24,689 INFO: Successfully SignIN To AmericanAccessoriesInc.
+2020-03-16 14:25:24,932 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 14:25:27,978 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 14:27:20,105 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 14:27:23,175 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 14:28:57,765 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 14:29:00,823 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 14:30:35,692 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 14:30:38,817 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 14:30:43,457 INFO: Successfully Signout.
+2020-03-16 14:30:43,457 INFO:  DONE WITH AMERICANACCESSORIESINC.None
+2020-03-16 14:30:46,032 INFO: Successfully SignIN To BenchmadeKnifeCo.
+2020-03-16 14:32:36,888 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 14:32:39,920 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 14:34:30,430 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 14:34:33,478 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 14:36:16,149 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 14:36:19,201 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 14:37:53,772 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 14:37:56,830 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 14:37:59,957 INFO: Successfully Signout.
+2020-03-16 14:37:59,958 INFO:  DONE WITH BENCHMADEKNIFECO.None
+2020-03-16 14:38:02,978 INFO: Successfully SignIN To Chums.
+2020-03-16 14:39:57,208 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 14:40:00,260 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 14:41:52,149 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 14:41:55,215 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 14:43:29,964 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 14:43:33,021 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 14:45:07,654 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 14:45:10,699 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 14:45:13,540 INFO: Successfully Signout.
+2020-03-16 14:45:13,541 INFO:  DONE WITH CHUMS.None
+2020-03-16 14:45:16,017 INFO: Successfully SignIN To DrewBradyCompanyInc.
+2020-03-16 14:47:05,027 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 14:47:08,086 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 14:49:05,824 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 14:49:08,866 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 14:50:44,958 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 14:50:48,015 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 14:52:24,201 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 14:52:27,262 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 14:52:29,882 INFO: Successfully Signout.
+2020-03-16 14:52:29,883 INFO:  DONE WITH DREWBRADYCOMPANYINC.None
+2020-03-16 14:52:33,082 INFO: Successfully SignIN To TervisTumbler.
+2020-03-16 14:54:28,541 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 14:54:31,586 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 14:56:24,772 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 14:56:27,817 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 14:58:02,226 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 14:58:05,273 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 14:59:40,932 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 14:59:43,974 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 14:59:48,234 INFO: Successfully Signout.
+2020-03-16 14:59:48,234 INFO:  DONE WITH TERVISTUMBLER.None
+2020-03-16 14:59:53,057 INFO: Successfully SignIN To BuckGardnerCalls.
+2020-03-16 15:01:49,882 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 15:01:52,934 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 15:03:43,618 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 15:03:46,664 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 15:05:22,012 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 15:05:25,073 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 15:07:00,649 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 15:07:03,678 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 15:07:06,305 INFO: Successfully Signout.
+2020-03-16 15:07:06,305 INFO:  DONE WITH BUCKGARDNERCALLS.None
+2020-03-16 15:07:09,924 INFO: Successfully SignIN To Energizer.
+2020-03-16 15:09:05,213 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 15:09:08,240 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 15:10:57,500 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 15:11:00,523 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 15:12:34,478 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 15:12:37,511 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 15:14:13,886 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 15:14:16,928 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 15:14:20,119 INFO: Successfully Signout.
+2020-03-16 15:14:20,119 INFO:  DONE WITH ENERGIZER.None
+2020-03-16 15:14:21,945 INFO: Successfully SignIN To IndustrialRevolution.
+2020-03-16 15:16:14,922 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 15:16:17,972 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 15:18:07,508 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 15:18:10,563 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 15:19:45,182 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 15:19:48,230 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 15:21:22,174 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 15:21:25,209 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 15:21:27,779 INFO: Successfully Signout.
+2020-03-16 15:21:27,780 INFO:  DONE WITH INDUSTRIALREVOLUTION.None
+2020-03-16 15:21:29,655 INFO: Successfully SignIN To Camelback.
+2020-03-16 15:23:16,477 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 15:23:19,520 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 15:25:07,822 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 15:25:10,881 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 15:26:50,900 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 15:26:53,931 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 15:28:29,321 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 15:28:32,365 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 15:28:34,669 INFO: Successfully Signout.
+2020-03-16 15:28:34,670 INFO:  DONE WITH CAMELBACK.None
+2020-03-16 15:28:36,772 INFO: Successfully SignIN To Carhartt.
+2020-03-16 15:30:31,408 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 15:30:34,464 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 15:32:22,231 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 15:32:25,261 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 15:34:01,573 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 15:34:05,205 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 15:35:40,067 INFO: partial file download.
+2020-03-16 15:35:40,069 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 15:35:40,126 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\CABELASDOMO_CARHARTT_INVENTORY_20200314.csv'
+2020-03-16 15:35:43,171 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv.crdownload'
+2020-03-16 15:35:43,171 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 15:36:05,752 INFO: Successfully Signout.
+2020-03-16 15:36:05,752 INFO:  DONE WITH Carhartt.None
+2020-03-16 15:36:22,833 INFO: Successfully SignIN To AriatInternational.
+2020-03-16 15:38:33,263 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 15:38:36,298 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 15:40:30,905 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 15:40:33,965 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 15:46:32,186 INFO: Folder created For DomoPortal.
+2020-03-16 15:46:50,623 INFO: Successfully SignIN To UnderArmour.
+2020-03-16 15:48:58,197 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 15:49:01,522 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 15:50:58,621 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 15:51:01,677 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 15:52:40,071 INFO: partial file download.
+2020-03-16 15:52:40,073 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 15:52:40,122 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\BASSPRODOMO_UNDERARMOUR_INVENTORY_20200314.csv'
+2020-03-16 15:52:43,154 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv.crdownload'
+2020-03-16 15:52:43,156 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 15:58:37,511 INFO: Folder created For DomoPortal.
+2020-03-16 15:58:47,665 INFO: Successfully SignIN To UnderArmour.
+2020-03-16 16:01:20,038 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 16:01:23,712 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 16:03:24,691 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 16:03:27,710 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 16:05:47,073 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 16:05:50,130 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 16:08:06,538 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 16:08:09,558 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 16:08:12,852 INFO: Successfully Signout.
+2020-03-16 16:08:12,852 INFO:  DONE WITH UNDERARMOUR.None
+2020-03-16 16:08:15,444 INFO: Successfully SignIN To Wolverine.
+2020-03-16 16:10:15,684 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 16:10:18,707 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 16:12:20,860 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 16:12:23,878 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 16:14:36,304 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 16:14:39,338 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 16:16:53,264 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 16:16:56,286 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 16:16:58,317 INFO: Successfully Signout.
+2020-03-16 16:16:58,317 INFO:  DONE WITH WOLVERINE.None
+2020-03-16 16:17:00,312 INFO: Successfully SignIN To Carhartt.
+2020-03-16 16:19:04,915 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 16:19:07,934 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 16:21:10,778 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 16:21:13,797 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 16:23:26,755 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 16:23:29,773 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 16:25:43,344 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 16:25:46,363 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 16:25:48,386 INFO: Successfully Signout.
+2020-03-16 16:25:48,386 INFO:  DONE WITH Carhartt.None
+2020-03-16 16:25:50,077 INFO: Successfully SignIN To AriatInternational.
+2020-03-16 16:27:48,964 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 16:27:51,984 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 16:29:51,036 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 16:29:54,054 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 16:32:06,881 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 16:32:09,901 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 16:34:22,236 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 16:34:25,253 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 16:34:27,580 INFO: Successfully Signout.
+2020-03-16 16:34:27,580 INFO:  DONE WITH AriatInternationalAriatInternational.None
+2020-03-16 16:34:29,266 INFO: Successfully SignIN To HydroFlask.
+2020-03-16 16:36:31,498 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 16:36:34,517 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 16:38:35,081 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 16:38:38,099 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 16:40:50,584 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 16:40:53,607 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 16:43:05,699 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 16:43:08,719 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 16:43:10,837 INFO: Successfully Signout.
+2020-03-16 16:43:10,838 INFO:  DONE WITH HydroFlask.None
+2020-03-16 16:43:12,504 INFO: Successfully SignIN To LifeIsGood.
+2020-03-16 16:45:10,422 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 16:45:13,441 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 16:45:32,455 INFO: Message: element not interactable
+  (Session info: chrome=80.0.3987.132)
+
+2020-03-16 16:45:34,152 INFO: Successfully Signout.
+2020-03-16 16:45:34,153 INFO:  DONE WITH LifeIsGood.Message: element not interactable
+  (Session info: chrome=80.0.3987.132)
+
+2020-03-16 16:45:35,833 INFO: Successfully SignIN To TenderCorp.
+2020-03-16 16:47:34,322 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 16:47:37,341 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 16:49:39,258 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 16:49:42,279 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 16:51:59,019 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 16:52:02,096 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 16:54:13,703 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 16:54:16,722 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 16:54:20,245 INFO: Successfully Signout.
+2020-03-16 16:54:20,246 INFO:  DONE WITH TenderCorp.None
+2020-03-16 16:54:23,128 INFO: Successfully SignIN To LipseysInc.
+2020-03-16 16:56:35,040 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 16:56:38,058 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 16:58:37,368 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 16:58:40,398 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 17:00:56,688 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 17:00:59,705 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 17:03:21,262 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 17:03:24,282 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 17:03:55,051 INFO: Successfully Signout.
+2020-03-16 17:03:55,052 INFO:  DONE WITH LipseysInc.None
+2020-03-16 17:03:56,475 INFO: Successfully SignIN To AllianceSportsGroup.
+2020-03-16 17:05:53,577 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 17:05:56,601 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 17:07:54,351 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 17:07:57,369 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 17:10:09,201 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 17:10:12,221 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 17:12:24,123 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 17:12:27,143 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 17:12:29,581 INFO: Successfully Signout.
+2020-03-16 17:12:29,581 INFO:  DONE WITH AllianceSportsGroup.None
+2020-03-16 17:12:31,149 INFO: Successfully SignIN To SmithandWesson.
+2020-03-16 17:14:29,748 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 17:14:32,768 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 17:16:31,224 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 17:16:34,243 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 17:18:46,974 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 17:18:49,994 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 17:21:01,478 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 17:21:04,506 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 17:21:07,076 INFO: Successfully Signout.
+2020-03-16 17:21:07,077 INFO:  DONE WITH SmithandWesson.None
+2020-03-16 17:21:08,800 INFO: Successfully SignIN To MarolinaOutdoorInc.
+2020-03-16 17:23:10,184 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 17:23:13,204 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 17:25:10,927 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 17:25:13,946 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 17:27:27,469 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 17:27:30,699 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 17:29:42,880 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 17:29:45,901 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 17:29:48,419 INFO: Successfully Signout.
+2020-03-16 17:29:48,419 INFO:  DONE WITH MarolinaOutdoorInc.None
+2020-03-16 17:29:48,419 INFO: Download Complete for Domo Portal
+2020-03-16 17:31:45,809 INFO: Folder created For DomoPortal.
+2020-03-16 17:31:53,177 INFO: Successfully SignIN To LifeIsGood.
+2020-03-16 17:33:53,333 INFO: Download sales Report Successfully for Basspro.
+2020-03-16 17:33:56,353 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-16 17:36:21,689 INFO: Download sales Report Successfully for Cabelas.
+2020-03-16 17:36:24,708 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-16 17:38:35,931 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-16 17:38:38,949 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-16 17:40:50,977 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-16 17:40:54,095 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-16 17:40:56,583 INFO: Successfully Signout.
+2020-03-16 17:40:56,584 INFO:  DONE WITH LifeIsGood.None
+2020-03-16 17:40:56,584 INFO: Download Complete for Domo Portal
+2020-03-16 17:43:44,328 INFO: Folder created For DomoPortal.
+2020-03-16 17:43:52,010 INFO: Successfully SignIN To LifeIsGood.
+2020-03-16 17:44:15,523 INFO: Folder created For NordstromPortal.
+2020-03-16 17:44:35,855 INFO: Successfully Login to NorthFace
+2020-03-16 17:46:18,467 INFO: Folder created For NordstromPortal.
+2020-03-16 17:46:38,784 INFO: Successfully Login to NorthFace
+2020-03-16 17:47:00,427 INFO: Folder created For NordstromPortal.
+2020-03-16 17:47:18,892 INFO: Successfully Login to NuFace
+2020-03-16 17:47:25,058 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.132)
+276
+2020-03-16 17:47:48,245 INFO: Successfully Report Downloaded for dept 276
+2020-03-16 17:47:51,247 INFO: Successfully Report Rename for dept 276
+2020-03-16 17:47:51,248 INFO: Successfully Report Move in there Respective dept  276
+2020-03-16 17:47:57,384 INFO: Successfully Logout from NuFace
+2020-03-16 17:48:18,885 INFO: Successfully Login to NuFace
+2020-03-16 17:48:48,586 INFO: Successfully Report Downloaded for dept 32
+2020-03-16 17:48:51,592 INFO: Successfully Report Rename for dept 32
+2020-03-16 17:48:51,593 INFO: Successfully Report Move in there Respective dept  32
+2020-03-16 17:48:57,733 INFO: Successfully Logout from NuFace
+2020-03-16 17:48:57,735 INFO:  Done With NuFace. None
+2020-03-16 17:50:01,609 INFO: Successfully Login to NewBalanceAthleticShoe
+2020-03-16 17:50:31,306 INFO: Successfully Report Downloaded for dept 37 - WOMENS ACTIVE SHOES-NewBalance
+2020-03-16 17:50:34,308 INFO: Successfully Report Rename for dept 37
+2020-03-16 17:50:34,309 INFO: Successfully Report Move in there Respective dept  37
+2020-03-16 17:51:06,859 INFO: Successfully Report Downloaded for dept 123 - MENS ACTIVE SHOES-NewBalance
+2020-03-16 17:51:09,861 INFO: Successfully Report Rename for dept 123
+2020-03-16 17:51:09,863 INFO: Successfully Report Move in there Respective dept  123
+2020-03-16 17:51:17,974 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.132)
+54 - KIDS SHOES-NewBalance
+2020-03-16 17:51:41,095 INFO: Successfully Report Downloaded for dept 54 - KIDS SHOES-NewBalance
+2020-03-16 17:51:44,096 INFO: Successfully Report Rename for dept 54
+2020-03-16 17:51:44,101 INFO: Successfully Report Move in there Respective dept  54
+2020-03-16 17:52:15,350 INFO: Successfully Report Downloaded for dept 16 - ACTIVEWEAR-NewBalance
+2020-03-16 17:52:18,354 INFO: Successfully Report Rename for dept 16
+2020-03-16 17:52:18,355 INFO: Successfully Report Move in there Respective dept  16
+2020-03-16 17:52:49,710 INFO: Successfully Report Downloaded for dept 588 - M ACTIVE/OUTERWER-NewBalance
+2020-03-16 17:52:52,714 INFO: Successfully Report Rename for dept 588
+2020-03-16 17:52:52,718 INFO: Successfully Report Move in there Respective dept  588
+2020-03-16 17:52:58,861 INFO: Successfully Logout from NewBalanceAthleticShoe
+2020-03-16 17:52:58,861 INFO:  Done With NewBalance. None
+2020-03-16 17:53:20,374 INFO: Successfully Login to Vans
+2020-03-16 17:56:14,405 ERROR: Exception:[WinError 183] Cannot create a file when that file already exists: 'C:\\Automation\\Nordstrom'
+2020-03-16 17:56:36,509 ERROR: Exception:[WinError 5] Access is denied: 'C:\\Automation\\Nordstrom'
+2020-03-16 17:56:46,410 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-03-16 17:58:54,411 INFO: Folder created For NordstromPortal.
+2020-03-16 17:59:13,330 INFO: Successfully Login to DECKERS
+2020-03-16 18:00:01,680 INFO: Folder created For NordstromPortal.
+2020-03-16 18:00:21,857 INFO: Successfully Login to COLEHAAN
+2020-03-16 18:01:29,467 INFO: Folder created For NordstromPortal.
+2020-03-16 18:01:50,688 INFO: Successfully Login to LANAUNLIMITED
+2020-03-16 18:02:15,314 INFO: Folder created For NordstromPortal.
+2020-03-16 18:02:33,865 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:03:03,377 INFO: Successfully Report Downloaded for dept 127 - MENS TREND SHOES-Wolverine
+2020-03-16 18:03:03,377 ERROR: Exception: list index out of range
+2020-03-16 18:03:03,378 ERROR: Exception:max() arg is an empty sequence
+2020-03-16 18:03:34,868 INFO: Successfully Report Downloaded for dept 191 - SP MENS UT/LUXURY SHOES2-Wolverine
+2020-03-16 18:03:37,873 INFO: Successfully Report Rename for dept 191
+2020-03-16 18:03:37,877 INFO: Successfully Report Move in there Respective dept  191
+2020-03-16 18:04:09,188 INFO: Successfully Report Downloaded for dept 192 - SP WOMENS UT SHOES-Wolverine
+2020-03-16 18:04:12,192 INFO: Successfully Report Rename for dept 192
+2020-03-16 18:04:12,197 INFO: Successfully Report Move in there Respective dept  192
+2020-03-16 18:04:43,488 INFO: Successfully Report Downloaded for dept 525 - COMFORT SHOES-Wolverine
+2020-03-16 18:04:46,489 INFO: Successfully Report Rename for dept 525
+2020-03-16 18:04:46,490 INFO: Successfully Report Move in there Respective dept  525
+2020-03-16 18:04:52,660 INFO: Successfully Logout from WOLVERINE
+2020-03-16 18:05:14,772 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:05:44,342 INFO: Successfully Report Downloaded for dept 103 - SP WOMENS ACTIVE SHOES-Wolverine
+2020-03-16 18:05:47,344 INFO: Successfully Report Rename for dept 103
+2020-03-16 18:05:47,348 INFO: Successfully Report Move in there Respective dept  103
+2020-03-16 18:06:18,977 INFO: Successfully Report Downloaded for dept 123 - MENS ACTIVE SHOES-Wolverine
+2020-03-16 18:06:21,979 INFO: Successfully Report Rename for dept 123
+2020-03-16 18:06:21,984 INFO: Successfully Report Move in there Respective dept  123
+2020-03-16 18:06:53,298 INFO: Successfully Report Downloaded for dept 179 - SP MEN1-Wolverine
+2020-03-16 18:06:56,299 INFO: Successfully Report Rename for dept 179
+2020-03-16 18:06:56,300 INFO: Successfully Report Move in there Respective dept  179
+2020-03-16 18:07:43,744 INFO: Folder created For NordstromPortal.
+2020-03-16 18:08:05,021 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:08:11,243 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.132)
+127 - MENS TREND SHOES-Wolverine
+2020-03-16 18:08:34,430 INFO: Successfully Report Downloaded for dept 127 - MENS TREND SHOES-Wolverine
+2020-03-16 18:08:34,431 ERROR: Exception: list index out of range
+2020-03-16 18:08:34,432 ERROR: Exception:max() arg is an empty sequence
+2020-03-16 18:09:05,965 INFO: Successfully Report Downloaded for dept 191 - SP MENS UT/LUXURY SHOES2-Wolverine
+2020-03-16 18:09:08,970 INFO: Successfully Report Rename for dept 191
+2020-03-16 18:09:08,971 INFO: Successfully Report Move in there Respective dept  191
+2020-03-16 18:09:17,937 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.132)
+192 - SP WOMENS UT SHOES-Wolverine
+2020-03-16 18:11:10,398 INFO: Folder created For NordstromPortal.
+2020-03-16 18:11:32,890 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:12:02,518 INFO: Successfully Report Downloaded for dept 127 - MENS TREND SHOES-Wolverine
+2020-03-16 18:12:05,520 INFO: Successfully Report Rename for dept 127
+2020-03-16 18:12:05,524 INFO: Successfully Report Move in there Respective dept  127
+2020-03-16 18:12:41,644 INFO: Successfully Report Downloaded for dept 191 - SP MENS UT/LUXURY SHOES2-Wolverine
+2020-03-16 18:12:44,648 INFO: Successfully Report Rename for dept 191
+2020-03-16 18:12:44,650 INFO: Successfully Report Move in there Respective dept  191
+2020-03-16 18:13:15,929 INFO: Successfully Report Downloaded for dept 192 - SP WOMENS UT SHOES-Wolverine
+2020-03-16 18:13:18,933 INFO: Successfully Report Rename for dept 192
+2020-03-16 18:13:18,934 INFO: Successfully Report Move in there Respective dept  192
+2020-03-16 18:13:50,180 INFO: Successfully Report Downloaded for dept 525 - COMFORT SHOES-Wolverine
+2020-03-16 18:13:53,184 INFO: Successfully Report Rename for dept 525
+2020-03-16 18:13:53,185 INFO: Successfully Report Move in there Respective dept  525
+2020-03-16 18:13:59,330 INFO: Successfully Logout from WOLVERINE
+2020-03-16 18:14:22,454 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:14:52,067 INFO: Successfully Report Downloaded for dept 103 - SP WOMENS ACTIVE SHOES-Wolverine
+2020-03-16 18:14:55,068 INFO: Successfully Report Rename for dept 103
+2020-03-16 18:14:55,072 INFO: Successfully Report Move in there Respective dept  103
+2020-03-16 18:15:26,687 INFO: Successfully Report Downloaded for dept 123 - MENS ACTIVE SHOES-Wolverine
+2020-03-16 18:15:29,690 INFO: Successfully Report Rename for dept 123
+2020-03-16 18:15:29,693 INFO: Successfully Report Move in there Respective dept  123
+2020-03-16 18:16:01,030 INFO: Successfully Report Downloaded for dept 179 - SP MEN1-Wolverine
+2020-03-16 18:16:04,031 INFO: Successfully Report Rename for dept 179
+2020-03-16 18:16:04,033 INFO: Successfully Report Move in there Respective dept  179
+2020-03-16 18:16:35,341 INFO: Successfully Report Downloaded for dept 525 - COMFORT SHOES2-Wolverine
+2020-03-16 18:16:38,343 INFO: Successfully Report Rename for dept 525
+2020-03-16 18:16:38,347 INFO: Successfully Report Move in there Respective dept  525
+2020-03-16 18:16:44,490 INFO: Successfully Logout from WOLVERINE
+2020-03-16 18:17:06,481 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:17:36,026 INFO: Successfully Report Downloaded for dept 103 - SP WOMENS ACTIVE SHOES2-Wolverine
+2020-03-16 18:17:39,029 INFO: Successfully Report Rename for dept 103
+2020-03-16 18:17:39,033 INFO: Successfully Report Move in there Respective dept  103
+2020-03-16 18:18:10,510 INFO: Successfully Report Downloaded for dept 123 - MENS ACTIVE SHOES2-Wolverine
+2020-03-16 18:18:13,515 INFO: Successfully Report Rename for dept 123
+2020-03-16 18:18:13,516 INFO: Successfully Report Move in there Respective dept  123
+2020-03-16 18:18:44,770 INFO: Successfully Report Downloaded for dept 179 - SP MEN2-Wolverine
+2020-03-16 18:18:47,773 INFO: Successfully Report Rename for dept 179
+2020-03-16 18:18:47,777 INFO: Successfully Report Move in there Respective dept  179
+2020-03-16 18:19:19,068 INFO: Successfully Report Downloaded for dept 525 - COMFORT SHOES3-Wolverine
+2020-03-16 18:19:22,070 INFO: Successfully Report Rename for dept 525
+2020-03-16 18:19:22,074 INFO: Successfully Report Move in there Respective dept  525
+2020-03-16 18:19:28,221 INFO: Successfully Logout from WOLVERINE
+2020-03-16 18:19:51,013 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:20:20,580 INFO: Successfully Report Downloaded for dept 54 - KIDS SHOES-Wolverine
+2020-03-16 18:20:23,585 INFO: Successfully Report Rename for dept 54
+2020-03-16 18:20:23,586 INFO: Successfully Report Move in there Respective dept  54
+2020-03-16 18:20:55,072 INFO: Successfully Report Downloaded for dept 178 - SP GIRLS SHOES-Wolverine
+2020-03-16 18:20:58,073 INFO: Successfully Report Rename for dept 178
+2020-03-16 18:20:58,076 INFO: Successfully Report Move in there Respective dept  178
+2020-03-16 18:21:04,228 INFO: Successfully Logout from WOLVERINE
+2020-03-16 18:21:26,157 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:21:55,771 INFO: Successfully Report Downloaded for dept 54 - KIDS SHOES2-Wolverine
+2020-03-16 18:21:58,775 INFO: Successfully Report Rename for dept 54
+2020-03-16 18:21:58,776 INFO: Successfully Report Move in there Respective dept  54
+2020-03-16 18:22:30,305 INFO: Successfully Report Downloaded for dept 178 - SP GIRLS SHOES2-Wolverine
+2020-03-16 18:22:33,310 INFO: Successfully Report Rename for dept 178
+2020-03-16 18:22:33,312 INFO: Successfully Report Move in there Respective dept  178
+2020-03-16 18:23:04,652 INFO: Successfully Report Downloaded for dept 607 - SP BOYS SHOES-Wolverine
+2020-03-16 18:23:07,653 INFO: Successfully Report Rename for dept 607
+2020-03-16 18:23:07,657 INFO: Successfully Report Move in there Respective dept  607
+2020-03-16 18:23:13,796 INFO: Successfully Logout from WOLVERINE
+2020-03-16 18:23:37,047 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:24:06,618 INFO: Successfully Report Downloaded for dept 54 - KIDS SHOES3-Wolverine
+2020-03-16 18:24:09,622 INFO: Successfully Report Rename for dept 54
+2020-03-16 18:24:09,624 INFO: Successfully Report Move in there Respective dept  54
+2020-03-16 18:24:41,120 INFO: Successfully Report Downloaded for dept 493 - SP BOYS ATHLETIC SHOES-Wolverine
+2020-03-16 18:24:44,124 INFO: Successfully Report Rename for dept 493
+2020-03-16 18:24:44,127 INFO: Successfully Report Move in there Respective dept  493
+2020-03-16 18:25:15,491 INFO: Successfully Report Downloaded for dept 638 - SP GIRLS ATHLETIC SHOES-Wolverine
+2020-03-16 18:25:18,495 INFO: Successfully Report Rename for dept 638
+2020-03-16 18:25:18,500 INFO: Successfully Report Move in there Respective dept  638
+2020-03-16 18:25:24,676 INFO: Successfully Logout from WOLVERINE
+2020-03-16 18:25:47,588 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:26:17,198 INFO: Successfully Report Downloaded for dept 122 - KIDS SHOES ACCESSORIES3-Wolverine
+2020-03-16 18:26:20,202 INFO: Successfully Report Rename for dept 122
+2020-03-16 18:26:20,207 INFO: Successfully Report Move in there Respective dept  122
+2020-03-16 18:26:26,359 INFO: Successfully Logout from WOLVERINE
+2020-03-16 18:26:47,659 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:27:17,240 INFO: Successfully Report Downloaded for dept 37 - WOMENS ACTIVE SHOES2-Wolverine
+2020-03-16 18:27:20,243 INFO: Successfully Report Rename for dept 37
+2020-03-16 18:27:20,247 INFO: Successfully Report Move in there Respective dept  37
+2020-03-16 18:27:54,891 INFO: Successfully Report Downloaded for dept 193 - SP JUNIOR/CONTEMPORARY SHOES-Wolverine
+2020-03-16 18:27:57,896 INFO: Successfully Report Rename for dept 193
+2020-03-16 18:27:57,897 INFO: Successfully Report Move in there Respective dept  193
+2020-03-16 18:28:04,045 INFO: Successfully Logout from WOLVERINE
+2020-03-16 18:28:26,046 INFO: Successfully Login to WOLVERINE
+2020-03-16 18:28:55,613 INFO: Successfully Report Downloaded for dept 37 - WOMENS ACTIVE SHOES3-Wolverine
+2020-03-16 18:28:58,615 INFO: Successfully Report Rename for dept 37
+2020-03-16 18:28:58,620 INFO: Successfully Report Move in there Respective dept  37
+2020-03-16 18:29:04,775 INFO: Successfully Logout from WOLVERINE
+2020-03-16 18:29:05,814 ERROR: Exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.132)
+
+2020-03-16 18:29:05,815 INFO:  Done With Wolverine. None
+2020-03-16 18:29:19,685 INFO: Successfully Login to BabyBiling
+2020-03-16 18:29:49,243 INFO: Successfully Report Downloaded for dept 64 - INFANT ACCESSORIES-BabyBiling
+2020-03-16 18:29:52,246 INFO: Successfully Report Rename for dept 64
+2020-03-16 18:29:52,247 INFO: Successfully Report Move in there Respective dept  64
+2020-03-16 18:29:58,382 INFO: Successfully Logout from BabyBiling
+2020-03-16 18:29:59,302 ERROR: Exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.132)
+
+2020-03-16 18:29:59,302 INFO:  Done With BabyBiling. None
+2020-03-16 18:30:13,067 INFO: Successfully Login to Reef
+2020-03-16 18:30:42,682 INFO: Successfully Report Downloaded for dept 37 - WOMENS ACTIVE SHOES-Reef
+2020-03-16 18:30:45,684 INFO: Successfully Report Rename for dept 37
+2020-03-16 18:30:45,689 INFO: Successfully Report Move in there Respective dept  37
+2020-03-16 18:31:18,713 INFO: Successfully Report Downloaded for dept 122 - KIDS SHOES ACCESSORIES-Reef
+2020-03-16 18:31:21,715 INFO: Successfully Report Rename for dept 122
+2020-03-16 18:31:21,720 INFO: Successfully Report Move in there Respective dept  122
+2020-03-16 18:31:52,975 INFO: Successfully Report Downloaded for dept 127 - MENS TREND SHOES-Reef
+2020-03-16 18:31:55,977 INFO: Successfully Report Rename for dept 127
+2020-03-16 18:31:55,979 INFO: Successfully Report Move in there Respective dept  127
+2020-03-16 18:32:59,362 INFO: Folder created For NordstromPortal.
+2020-03-16 18:33:50,509 INFO: Folder created For NordstromPortal.
+2020-03-16 18:34:10,039 INFO: Successfully Login to Reef
+2020-03-16 18:34:39,640 INFO: Successfully Report Downloaded for dept 37 - WOMENS ACTIVE SHOES-Reef
+2020-03-16 18:34:42,643 INFO: Successfully Report Rename for dept 37
+2020-03-16 18:34:42,917 INFO: Successfully Report Move in there Respective dept  37
+2020-03-16 18:35:16,471 INFO: Successfully Report Downloaded for dept 122 - KIDS SHOES ACCESSORIES-Reef
+2020-03-16 18:35:19,475 INFO: Successfully Report Rename for dept 122
+2020-03-16 18:35:19,476 INFO: Successfully Report Move in there Respective dept  122
+2020-03-16 18:35:50,793 INFO: Successfully Report Downloaded for dept 127 - MENS TREND SHOES-Reef
+2020-03-16 18:35:53,797 INFO: Successfully Report Rename for dept 127
+2020-03-16 18:35:53,802 INFO: Successfully Report Move in there Respective dept  127
+2020-03-16 18:36:25,094 INFO: Successfully Report Downloaded for dept 178 - SP GIRLS SHOES-Reef
+2020-03-16 18:36:28,098 INFO: Successfully Report Rename for dept 178
+2020-03-16 18:36:28,099 INFO: Successfully Report Move in there Respective dept  178
+2020-03-16 18:36:59,353 INFO: Successfully Report Downloaded for dept 193 - SP JUNIOR/CONTEMPORARY SHOES-Reef
+2020-03-16 18:37:02,356 INFO: Successfully Report Rename for dept 193
+2020-03-16 18:37:02,361 INFO: Successfully Report Move in there Respective dept  193
+2020-03-16 18:37:33,657 INFO: Successfully Report Downloaded for dept 240 - SP MENS TREND SHOES-Reef
+2020-03-16 18:37:36,659 INFO: Successfully Report Rename for dept 240
+2020-03-16 18:37:36,662 INFO: Successfully Report Move in there Respective dept  240
+2020-03-16 18:38:07,909 INFO: Successfully Report Downloaded for dept 607 - SP BOYS SHOES-Reef
+2020-03-16 18:38:10,912 INFO: Successfully Report Rename for dept 607
+2020-03-16 18:38:10,913 INFO: Successfully Report Move in there Respective dept  607
+2020-03-16 18:38:17,055 INFO: Successfully Logout from Reef
+2020-03-16 18:38:17,055 INFO:  Done With Reef. None
+2020-03-16 18:38:40,608 INFO: Successfully Login to SmartWool
+2020-03-16 18:39:10,174 INFO: Successfully Report Downloaded for dept 3 - HOSIERY-SmartWool
+2020-03-16 18:39:13,178 INFO: Successfully Report Rename for dept 3
+2020-03-16 18:39:13,183 INFO: Successfully Report Move in there Respective dept  3
+2020-03-16 18:39:44,705 INFO: Successfully Report Downloaded for dept 536 - M SPECIALIZED-SmartWool
+2020-03-16 18:39:47,706 INFO: Successfully Report Rename for dept 536
+2020-03-16 18:39:47,710 INFO: Successfully Report Move in there Respective dept  536
+2020-03-16 18:40:18,987 INFO: Successfully Report Downloaded for dept 588 - M ACTIVE/OUTERWER-SmartWool
+2020-03-16 18:40:21,991 INFO: Successfully Report Rename for dept 588
+2020-03-16 18:40:21,996 INFO: Successfully Report Move in there Respective dept  588
+2020-03-16 18:40:53,301 INFO: Successfully Report Downloaded for dept 631 - PERFORMANCE OUTERWEAR-SmartWool
+2020-03-16 18:40:56,302 INFO: Successfully Report Rename for dept 631
+2020-03-16 18:40:56,304 INFO: Successfully Report Move in there Respective dept  631
+2020-03-16 18:41:27,630 INFO: Successfully Report Downloaded for dept 267 - SP MEN-SmartWool
+2020-03-16 18:41:30,632 INFO: Successfully Report Rename for dept 267
+2020-03-16 18:41:30,633 INFO: Successfully Report Move in there Respective dept  267
+2020-03-16 18:42:01,879 INFO: Successfully Report Downloaded for dept 67 - SP HOSIERY/SOCKS-SmartWool
+2020-03-16 18:42:04,883 INFO: Successfully Report Rename for dept 67
+2020-03-16 18:42:04,885 INFO: Successfully Report Move in there Respective dept  67
+2020-03-16 18:42:11,028 INFO: Successfully Logout from SmartWool
+2020-03-16 18:42:11,028 INFO:  Done With SmartWool. None
+2020-03-16 18:42:35,063 INFO: Successfully Login to POPSOCKETS
+2020-03-16 18:43:04,668 INFO: Successfully Report Downloaded for dept 44 - YC HANDBAGS-PopSockets
+2020-03-16 18:43:04,670 ERROR: Exception: list index out of range
+2020-03-16 18:43:04,671 ERROR: Exception:max() arg is an empty sequence
+2020-03-16 18:43:35,959 INFO: Successfully Report Downloaded for dept 587 - POP IN SHOP-PopSockets
+2020-03-16 18:43:38,961 INFO: Successfully Report Rename for dept 587
+2020-03-16 18:43:38,962 INFO: Successfully Report Move in there Respective dept  587
+2020-03-16 18:43:45,101 INFO: Successfully Logout from POPSOCKETS
+2020-03-16 18:43:45,101 INFO:  Done With PopSockets. None
+2020-03-16 18:44:05,878 INFO: Successfully Login to SAXXUNDERWAER
+2020-03-16 18:44:35,457 INFO: Successfully Report Downloaded for dept 267 - SP MEN-SaxxUnderwear
+2020-03-16 18:44:38,457 INFO: Successfully Report Rename for dept 267
+2020-03-16 18:44:38,461 INFO: Successfully Report Move in there Respective dept  267
+2020-03-16 18:45:14,987 INFO: Successfully Report Downloaded for dept 536 - M SPECIALIZED-SaxxUnderwear
+2020-03-16 18:45:17,988 INFO: Successfully Report Rename for dept 536
+2020-03-16 18:45:17,993 INFO: Successfully Report Move in there Respective dept  536
+2020-03-16 18:45:49,239 INFO: Successfully Report Downloaded for dept 588 - M ACTIVE/OUTERWER-SaxxUnderwear
+2020-03-16 18:45:52,243 INFO: Successfully Report Rename for dept 588
+2020-03-16 18:45:52,244 INFO: Successfully Report Move in there Respective dept  588
+2020-03-16 18:45:58,393 INFO: Successfully Logout from SAXXUNDERWAER
+2020-03-16 18:45:58,393 INFO:  Done With PopSockets. None
+2020-03-16 18:45:58,394 INFO: Download Complete for NordstromPortal

@@ -1,0 +1,161 @@
+2020-01-21 11:07:48,325 INFO: Folder created For AmazonPortal.
+2020-01-21 11:08:30,613 INFO: Folder created For AmazonPortal.
+2020-01-21 11:09:47,858 INFO: Successfully Download Sales Report for GILDAN
+2020-01-21 11:09:47,861 INFO: Successfully Rename Sales Report for GILDAN
+2020-01-21 11:11:01,342 INFO: Successfully Download Inventory Report for GILDAN
+2020-01-21 11:11:01,344 INFO: Successfully Rename Inventory Report for GILDAN
+2020-01-21 11:11:06,705 INFO: Successfully SignOut from GILDAN
+2020-01-21 11:11:06,706 INFO:  Done With Gildan.None
+2020-01-21 11:11:06,706 INFO: Download Complete for AmazonPortal
+2020-01-21 11:17:54,003 INFO: Folder created For AmazonPortal.
+2020-01-21 11:18:26,609 INFO: Folder created For AmazonPortal.
+2020-01-21 11:20:30,814 INFO: Folder created For AmazonPortal.
+2020-01-21 11:21:12,704 ERROR: Exception: 'WebDriver' object has no attribute 'switchTo'
+2020-01-21 11:21:12,706 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200118.xlsx'
+2020-01-21 11:21:15,717 ERROR: Exception: Alert Text: 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 11:21:15,717 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Inventory Health_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_INVENTORY_20200118.xlsx'
+2020-01-21 11:21:21,085 INFO: Successfully SignOut from GILDAN
+2020-01-21 11:21:21,086 INFO:  Done With Gildan. None
+2020-01-21 11:21:21,086 INFO: Download Complete for AmazonPortal
+2020-01-21 11:27:47,536 INFO: Folder created For AmazonPortal.
+2020-01-21 11:30:25,124 INFO: Folder created For AmazonPortal.
+2020-01-21 11:30:28,885 INFO: Successfully Login to Gildan
+2020-01-21 11:38:07,456 INFO: Folder created For AmazonPortal.
+2020-01-21 11:38:15,772 INFO: Successfully Login to Gildan
+2020-01-21 11:38:42,222 ERROR: Exception: 'WebDriver' object has no attribute 'switchTo'
+2020-01-21 11:38:42,223 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200118.xlsx'
+2020-01-21 11:38:42,225 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 11:38:42,240 ERROR: Exception: Alert Text: 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 11:38:42,241 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Inventory Health_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_INVENTORY_20200118.xlsx'
+2020-01-21 11:38:42,244 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 11:38:44,747 INFO: Successfully SignOut from GILDAN
+2020-01-21 11:38:44,747 INFO:  Done With Gildan. None
+2020-01-21 11:38:44,748 INFO: Download Complete for AmazonPortal
+2020-01-21 11:39:54,988 INFO: Folder created For AmazonPortal.
+2020-01-21 11:39:59,684 INFO: Successfully Login to Gildan
+2020-01-21 11:40:36,104 ERROR: Exception: 'WebDriver' object has no attribute 'switchTo'
+2020-01-21 11:40:36,106 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200118.xlsx'
+2020-01-21 11:40:36,108 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 11:40:36,124 ERROR: Exception: Alert Text: 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 11:40:36,124 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Inventory Health_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_INVENTORY_20200118.xlsx'
+2020-01-21 11:40:36,125 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 11:40:38,532 INFO: Successfully SignOut from GILDAN
+2020-01-21 11:40:38,532 INFO:  Done With Gildan. None
+2020-01-21 11:40:38,532 INFO: Download Complete for AmazonPortal
+2020-01-21 11:41:58,526 INFO: Folder created For AmazonPortal.
+2020-01-21 11:42:06,140 INFO: Successfully Login to Gildan
+2020-01-21 11:43:37,594 INFO: Folder created For AmazonPortal.
+2020-01-21 11:43:44,888 INFO: Successfully Login to Gildan
+2020-01-21 11:43:53,511 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 11:43:53,511 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200118.xlsx'
+2020-01-21 11:43:53,511 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 11:43:53,511 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 11:43:53,511 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Inventory Health_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_INVENTORY_20200118.xlsx'
+2020-01-21 11:43:53,511 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 11:43:53,511 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 11:43:53,511 INFO:  Done With Gildan. None
+2020-01-21 11:43:53,511 INFO: Download Complete for AmazonPortal
+2020-01-21 11:44:38,213 INFO: Folder created For AmazonPortal.
+2020-01-21 11:44:44,969 INFO: Successfully Login to Gildan
+2020-01-21 11:52:15,248 INFO: Folder created For AmazonPortal.
+2020-01-21 11:52:23,475 INFO: Successfully Login to Gildan
+2020-01-21 11:54:29,662 INFO: Folder created For AmazonPortal.
+2020-01-21 11:54:36,279 INFO: Successfully Login to Gildan
+2020-01-21 11:55:40,482 ERROR: Exception: 'WebDriver' object has no attribute 'switchTo'
+2020-01-21 11:55:40,482 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200118.xlsx'
+2020-01-21 11:55:40,482 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 11:56:42,422 INFO: Folder created For AmazonPortal.
+2020-01-21 11:56:57,653 INFO: Successfully Login to Gildan
+2020-01-21 11:58:38,434 ERROR: Exception: Message: 
+
+2020-01-21 11:58:38,434 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200118.xlsx'
+2020-01-21 11:58:38,434 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 12:00:19,337 ERROR: Exception: Message: 
+
+2020-01-21 12:00:19,337 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Inventory Health_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_INVENTORY_20200118.xlsx'
+2020-01-21 12:00:19,337 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 12:01:59,344 ERROR: Exception: Message: 
+
+2020-01-21 12:01:59,344 INFO:  Done With Gildan. None
+2020-01-21 12:01:59,344 INFO: Download Complete for AmazonPortal
+2020-01-21 12:29:24,658 INFO: Folder created For AmazonPortal.
+2020-01-21 12:29:30,151 INFO: Successfully Login to Gildan
+2020-01-21 12:29:56,711 INFO: Folder created For AmazonPortal.
+2020-01-21 12:30:00,340 INFO: Successfully Login to Gildan
+2020-01-21 12:30:29,078 INFO: Folder created For AmazonPortal.
+2020-01-21 12:30:34,133 INFO: Successfully Login to Gildan
+2020-01-21 12:32:15,168 ERROR: Exception: Message: 
+
+2020-01-21 12:32:15,168 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200118.xlsx'
+2020-01-21 12:32:15,168 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 12:33:06,750 INFO: Folder created For AmazonPortal.
+2020-01-21 12:33:10,206 INFO: Successfully Login to Gildan
+2020-01-21 12:35:01,876 INFO: Folder created For AmazonPortal.
+2020-01-21 12:35:10,044 INFO: Successfully Login to Gildan
+2020-01-21 12:35:16,232 INFO: Xpath is not there
+2020-01-21 12:35:16,754 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 12:35:16,755 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200118.xlsx'
+2020-01-21 12:35:16,756 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 12:35:16,757 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 12:35:16,757 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Inventory Health_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_INVENTORY_20200118.xlsx'
+2020-01-21 12:35:16,757 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 12:35:16,757 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 12:35:16,757 INFO:  Done With Gildan. None
+2020-01-21 12:35:16,757 INFO: Download Complete for AmazonPortal
+2020-01-21 12:35:32,948 INFO: Folder created For AmazonPortal.
+2020-01-21 12:36:02,512 INFO: Folder created For AmazonPortal.
+2020-01-21 12:37:47,559 ERROR: Exception:Message: 
+
+2020-01-21 12:38:11,360 ERROR: Exception: 'WebDriver' object has no attribute 'switchTo'
+2020-01-21 12:38:11,361 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200118.xlsx'
+2020-01-21 12:38:11,362 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 12:38:11,369 ERROR: Exception: Alert Text: 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 12:38:11,369 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Inventory Health_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_INVENTORY_20200118.xlsx'
+2020-01-21 12:38:11,370 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 12:38:13,923 INFO: Successfully SignOut from GILDAN
+2020-01-21 12:38:13,923 INFO:  Done With Gildan. None
+2020-01-21 12:38:13,923 INFO: Download Complete for AmazonPortal
+2020-01-21 14:26:22,490 INFO: Folder created For AmazonPortal.
+2020-01-21 14:26:40,624 INFO: Successfully Login to Gildan
+2020-01-21 14:27:06,674 ERROR: Exception: 'WebDriver' object has no attribute 'switchTo'
+2020-01-21 14:27:06,675 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200118.xlsx'
+2020-01-21 14:27:06,676 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 14:27:06,685 ERROR: Exception: Alert Text: 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-21 14:27:06,685 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Inventory Health_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_INVENTORY_20200118.xlsx'
+2020-01-21 14:27:06,686 ERROR: Exception:max() arg is an empty sequence
+2020-01-21 14:27:09,109 INFO: Successfully SignOut from GILDAN
+2020-01-21 14:27:09,109 INFO:  Done With Gildan. None
+2020-01-21 14:27:09,109 INFO: Download Complete for AmazonPortal

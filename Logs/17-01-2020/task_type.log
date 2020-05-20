@@ -1,0 +1,29 @@
+2020-01-17 12:53:08,812 INFO: Coming
+2020-01-17 12:53:08,813 INFO: Login Done
+2020-01-17 12:53:59,185 INFO: Coming
+2020-01-17 12:53:59,185 INFO: Login Done
+2020-01-17 13:19:08,960 ERROR: Exception:Message: chrome not reachable
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-17 13:19:08,960 INFO: Login Done
+2020-01-17 13:20:07,469 ERROR: Exception:Message: chrome not reachable
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-17 13:20:07,469 INFO: Login Done
+2020-01-17 14:52:33,976 INFO: Login Done
+2020-01-17 14:53:40,148 INFO: Login Done
+2020-01-17 16:34:18,337 INFO: Successfully Login to Gildan
+2020-01-17 16:35:32,040 INFO: Successfully Login to Gildan
+2020-01-17 16:37:03,763 INFO: Successfully Login to Gildan
+2020-01-17 16:37:14,308 ERROR: Exception:Alert Text: 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-17 16:37:14,427 INFO: Successfully SignOut fromGildan
+2020-01-17 16:37:14,427 INFO: Login Done
+2020-01-17 16:42:01,928 INFO: Successfully Login to Gildan
+2020-01-17 16:42:33,291 INFO: Successfully Login to Gildan
+2020-01-17 16:44:33,722 INFO: Successfully Login to Gildan
+2020-01-17 16:45:41,708 INFO: Successfully Login to Gildan
+2020-01-17 16:47:05,087 INFO: Successfully SignOut fromGildan
+2020-01-17 16:47:05,087 INFO: Login Done

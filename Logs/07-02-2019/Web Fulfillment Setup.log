@@ -1,0 +1,71 @@
+2019-02-07 12:18:54,111 INFO: Executing Script Web Fulfillment Setup
+2019-02-07 12:18:57,539 INFO: Successful Connection
+2019-02-07 12:18:57,539 INFO: Login in to DC4 Prod
+2019-02-07 12:18:57,725 INFO: Refreshing access_token
+2019-02-07 12:18:59,573 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-07 12:19:01,219 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-07 12:23:28,023 INFO: Executing Script Web Fulfillment Setup
+2019-02-07 12:23:30,560 INFO: Successful Connection
+2019-02-07 12:23:30,560 INFO: Login in to DC4 Prod
+2019-02-07 12:23:30,706 INFO: Refreshing access_token
+2019-02-07 12:23:32,518 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-07 12:23:34,130 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-07 12:30:02,498 INFO: Executing Script Web Fulfillment Setup
+2019-02-07 12:30:05,005 INFO: Successful Connection
+2019-02-07 12:30:05,005 INFO: Login in to DC4 Prod
+2019-02-07 12:30:05,183 INFO: Refreshing access_token
+2019-02-07 12:30:07,052 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-07 12:30:08,669 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-07 12:47:45,262 INFO: Executing Script Web Fulfillment Setup
+2019-02-07 12:47:47,748 INFO: Successful Connection
+2019-02-07 12:47:47,748 INFO: Login in to DC4 Prod
+2019-02-07 12:47:47,911 INFO: Refreshing access_token
+2019-02-07 12:47:49,576 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-07 12:47:51,135 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-07 12:50:43,409 INFO: Executing Script Web Fulfillment Setup
+2019-02-07 12:50:46,014 INFO: Successful Connection
+2019-02-07 12:50:46,014 INFO: Login in to DC4 Prod
+2019-02-07 12:50:46,169 INFO: Refreshing access_token
+2019-02-07 12:50:47,777 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-07 12:50:49,513 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-07 13:00:56,057 INFO: Executing Script Web Fulfillment Setup
+2019-02-07 13:00:58,693 INFO: Successful Connection
+2019-02-07 13:00:58,693 INFO: Login in to DC4 Prod
+2019-02-07 13:00:58,864 INFO: Refreshing access_token
+2019-02-07 13:01:00,664 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-07 13:01:02,228 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-07 13:09:40,691 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'NEXCOM'
+                      ^
+
+2019-02-07 13:09:40,701 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(NEXCOM) already exists.
+
+2019-02-07 16:58:21,567 INFO: Executing Script Web Fulfillment Setup
+2019-02-07 16:58:45,282 ERROR: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "10.30.26.49" and accepting
+	TCP/IP connections on port 5432?
+
+2019-02-07 16:59:06,304 ERROR: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "172.16.18.31" and accepting
+	TCP/IP connections on port 5432?
+
+2019-02-07 16:59:27,323 ERROR: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "10.30.28.223" and accepting
+	TCP/IP connections on port 5432?
+
+2019-02-07 16:59:27,323 ERROR: DB Server is not active
+2019-02-07 17:00:11,055 INFO: Executing Script Web Fulfillment Setup
+2019-02-07 17:00:34,009 ERROR: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "10.30.26.49" and accepting
+	TCP/IP connections on port 5432?
+
+2019-02-07 17:00:55,036 ERROR: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "172.16.18.31" and accepting
+	TCP/IP connections on port 5432?
+
+2019-02-07 17:01:16,057 ERROR: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "10.30.28.223" and accepting
+	TCP/IP connections on port 5432?
+
+2019-02-07 17:01:16,057 ERROR: DB Server is not active

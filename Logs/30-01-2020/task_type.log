@@ -1,0 +1,22 @@
+2020-01-30 10:25:37,204 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-01-30 10:25:46,910 INFO: Folder created For NordstromPortal.
+2020-01-30 15:28:01,560 INFO: Folder created For NordstromPortal.
+2020-01-30 15:28:01,560 ERROR: Exception:'WebDriver' object has no attribute 'log_to_file'
+2020-01-30 15:28:11,463 INFO: Folder created For NordstromPortal.
+2020-01-30 15:28:11,463 ERROR: Exception:'WebDriver' object has no attribute 'log_to_file'
+2020-01-30 15:31:14,365 INFO: Folder created For NordstromPortal.
+2020-01-30 16:43:50,431 INFO: Folder created For NordstromPortal.
+2020-01-30 16:44:04,634 INFO: Successfully Login to NorthFace
+2020-01-30 16:44:10,007 INFO: Successfully Logout from NorthFace
+2020-01-30 16:45:34,490 INFO: Successfully Login to Wolverine
+2020-01-30 16:45:38,966 INFO: Successfully Logout from Wolverine
+2020-01-30 16:54:10,770 INFO: Folder created For NordstromPortal.
+2020-01-30 16:54:23,010 INFO: Successfully Login to NorthFace
+2020-01-30 16:54:28,653 INFO: Successfully Logout from NorthFace
+2020-01-30 16:54:35,539 INFO: Successfully Login to Wolverine
+2020-01-30 16:54:39,582 INFO: Successfully Logout from Wolverine
+2020-01-30 16:55:17,442 INFO: Folder created For NordstromPortal.
+2020-01-30 16:55:30,905 INFO: Successfully Login to NorthFace
+2020-01-30 16:55:36,893 INFO: Successfully Logout from NorthFace
+2020-01-30 16:55:53,198 INFO: Successfully Login to Wolverine
+2020-01-30 16:55:56,825 INFO: Successfully Logout from Wolverine

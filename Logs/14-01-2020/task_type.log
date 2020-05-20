@@ -1,0 +1,139 @@
+2020-01-14 14:10:31,329 INFO: Folder created For DomoPortal.
+2020-01-14 14:10:48,767 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-01-14 14:12:56,755 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 14:12:59,788 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 14:15:11,848 INFO: Download sales Report Successfully for Cabelas.
+2020-01-14 14:15:14,865 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-01-14 14:18:27,888 INFO: Download Inventory Report Successfully for Basspro.
+2020-01-14 14:18:30,931 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-01-14 14:22:17,670 INFO: Download Inventory Report Successfully for Cabelas.
+2020-01-14 14:22:17,705 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\CABELAS_COLUMBIA_INVENTORY_20200111.csv'
+2020-01-14 14:22:20,714 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-01-14 14:22:23,860 INFO: Successfully Signout.
+2020-01-14 14:22:23,860 INFO:  DONE WITH COLUMBIA SPORTWEAR.None
+2020-01-14 14:22:35,790 INFO: Successfully SignIN To VistaOutdoors.
+2020-01-14 14:24:45,295 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 14:24:48,338 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 14:27:05,196 INFO: Download sales Report Successfully for Cabelas.
+2020-01-14 14:27:08,289 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-01-14 14:30:17,592 INFO: Download Inventory Report Successfully for Basspro.
+2020-01-14 14:30:20,633 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-01-14 14:34:00,892 INFO: Download Inventory Report Successfully for Cabelas.
+2020-01-14 14:34:03,940 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-01-14 14:34:10,235 INFO: Successfully Signout.
+2020-01-14 14:34:10,236 INFO:  DONE WITH ATK.None
+2020-01-14 14:34:24,059 INFO: Successfully SignIN To LacrosseFootwear.
+2020-01-14 14:36:39,896 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 14:36:42,936 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 14:39:05,917 INFO: Download sales Report Successfully for Cabelas.
+2020-01-14 14:39:08,959 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-01-14 14:42:23,875 INFO: Download Inventory Report Successfully for Basspro.
+2020-01-14 14:42:26,919 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-01-14 14:46:08,574 INFO: Download Inventory Report Successfully for Cabelas.
+2020-01-14 14:46:11,619 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-01-14 14:46:15,391 INFO: Successfully Signout.
+2020-01-14 14:46:15,393 INFO:  DONE WITH LACROSSEFOOTWEAR.None
+2020-01-14 14:46:27,273 INFO: Successfully SignIN To GerberLegendaryBlades.
+2020-01-14 14:48:42,491 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 14:48:45,534 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 14:51:08,309 INFO: Download sales Report Successfully for Cabelas.
+2020-01-14 14:51:11,352 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-01-14 14:54:26,765 INFO: Download Inventory Report Successfully for Basspro.
+2020-01-14 14:54:29,805 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-01-14 14:58:07,680 INFO: Download Inventory Report Successfully for Cabelas.
+2020-01-14 14:58:10,721 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-01-14 14:58:15,525 INFO: Successfully Signout.
+2020-01-14 14:58:15,525 INFO:  DONE WITH GERLEGENDARYBLADES.None
+2020-01-14 14:58:28,161 INFO: Successfully SignIN To CarlZeiss.
+2020-01-14 14:58:50,625 INFO: Message: element not interactable
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 14:59:05,718 INFO: Successfully Signout.
+2020-01-14 14:59:05,718 INFO:  DONE WITH CarlZeiss.Message: element not interactable
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 14:59:18,471 INFO: Successfully SignIN To MtnOps.
+2020-01-14 15:01:33,386 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 15:01:36,429 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 15:03:56,919 INFO: Download sales Report Successfully for Cabelas.
+2020-01-14 15:03:59,971 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-01-14 15:07:15,349 INFO: Download Inventory Report Successfully for Basspro.
+2020-01-14 15:07:18,390 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-01-14 15:10:57,665 INFO: Download Inventory Report Successfully for Cabelas.
+2020-01-14 15:11:00,720 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-01-14 15:11:06,558 INFO: Successfully Signout.
+2020-01-14 15:11:06,558 INFO:  DONE WITH MTNOPS.None
+2020-01-14 15:11:21,456 INFO: Successfully SignIN To VistaOutdoor.
+2020-01-14 15:13:37,232 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 15:13:40,282 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 15:16:01,244 INFO: Download sales Report Successfully for Cabelas.
+2020-01-14 15:16:04,275 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-01-14 15:19:17,382 INFO: Download Inventory Report Successfully for Basspro.
+2020-01-14 15:19:20,423 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-01-14 15:23:00,590 INFO: Download Inventory Report Successfully for Cabelas.
+2020-01-14 15:23:03,610 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-01-14 15:23:06,841 INFO: Successfully Signout.
+2020-01-14 15:23:06,841 INFO:  DONE WITH VISTAOUTDOOR.None
+2020-01-14 15:23:18,638 INFO: Successfully SignIN To Chums.
+2020-01-14 15:25:28,105 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 15:25:31,176 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 15:27:53,715 INFO: Download sales Report Successfully for Cabelas.
+2020-01-14 15:27:56,736 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-01-14 15:31:58,672 INFO: Folder created For DomoPortal.
+2020-01-14 15:32:18,934 INFO: Successfully SignIN To Chums.
+2020-01-14 15:34:32,587 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 15:34:35,631 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 15:35:34,762 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//*[contains(@id,'dim-value-') and contains(@id,'-1')]"}
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 15:35:38,192 INFO: Successfully Signout.
+2020-01-14 15:35:38,192 INFO:  DONE WITH CHUMS.Message: no such element: Unable to locate element: {"method":"xpath","selector":".//*[contains(@id,'dim-value-') and contains(@id,'-1')]"}
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 15:35:38,192 INFO: Download Complete for Domo Portal
+2020-01-14 15:35:47,925 INFO: Folder created For DomoPortal.
+2020-01-14 15:36:07,641 INFO: Successfully SignIN To Chums.
+2020-01-14 15:38:26,344 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 15:38:29,389 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 16:20:03,712 INFO: Folder created For DomoPortal.
+2020-01-14 16:20:20,173 INFO: Successfully SignIN To Chums.
+2020-01-14 16:21:14,541 INFO: Message: element click intercepted: Element <span dm-hilite="BPS" dm-hilite-part="" use-db-extra-wrap="">...</span> is not clickable at point (101, 453). Other element would receive the click: <input type="checkbox" name="" ng-disabled="isDisabled()" ng-class="{indeterminate: isIndeterminate}">
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 16:21:17,139 INFO: Successfully Signout.
+2020-01-14 16:21:17,139 INFO:  DONE WITH CHUMS.Message: element click intercepted: Element <span dm-hilite="BPS" dm-hilite-part="" use-db-extra-wrap="">...</span> is not clickable at point (101, 453). Other element would receive the click: <input type="checkbox" name="" ng-disabled="isDisabled()" ng-class="{indeterminate: isIndeterminate}">
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 16:21:17,139 INFO: Download Complete for Domo Portal
+2020-01-14 16:21:26,579 INFO: Folder created For DomoPortal.
+2020-01-14 16:21:41,644 INFO: Successfully SignIN To Chums.
+2020-01-14 16:22:36,086 INFO: Message: element click intercepted: Element <span dm-hilite="BPS" dm-hilite-part="" use-db-extra-wrap="">...</span> is not clickable at point (101, 453). Other element would receive the click: <input type="checkbox" name="" ng-disabled="isDisabled()" ng-class="{indeterminate: isIndeterminate}">
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 16:22:38,827 INFO: Successfully Signout.
+2020-01-14 16:22:38,827 INFO:  DONE WITH CHUMS.Message: element click intercepted: Element <span dm-hilite="BPS" dm-hilite-part="" use-db-extra-wrap="">...</span> is not clickable at point (101, 453). Other element would receive the click: <input type="checkbox" name="" ng-disabled="isDisabled()" ng-class="{indeterminate: isIndeterminate}">
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 16:22:38,827 INFO: Download Complete for Domo Portal
+2020-01-14 16:24:31,229 INFO: Folder created For DomoPortal.
+2020-01-14 16:24:46,743 INFO: Successfully SignIN To Chums.
+2020-01-14 16:26:55,140 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 16:26:58,252 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 16:30:54,483 INFO: Folder created For DomoPortal.
+2020-01-14 16:31:09,899 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-01-14 16:33:20,720 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 16:33:23,738 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-14 16:35:40,362 INFO: Download sales Report Successfully for Cabelas.
+2020-01-14 16:35:43,378 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-01-14 16:36:07,276 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="0"]/div/input"}
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 16:36:07,287 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 16:36:07,288 INFO:  DONE WITH COLUMBIA SPORTWEAR.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="0"]/div/input"}
+  (Session info: chrome=79.0.3945.117)
+
+2020-01-14 16:36:19,856 INFO: Successfully SignIN To Chums.
+2020-01-14 16:38:26,088 INFO: Download sales Report Successfully for Basspro.
+2020-01-14 16:38:29,568 INFO: Successfully Rename and Move sales Report for Basspro.

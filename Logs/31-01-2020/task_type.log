@@ -1,0 +1,61 @@
+2020-01-31 11:19:22,871 INFO: Folder created For NordstromPortal.
+2020-01-31 11:19:37,373 INFO: Successfully Login to NorthFace
+2020-01-31 11:19:37,373 ERROR: Exception:DownloadReport() missing 1 required positional argument: 'dept'
+2020-01-31 11:22:17,701 INFO: Folder created For NordstromPortal.
+2020-01-31 11:22:32,503 INFO: Successfully Login to NorthFace
+2020-01-31 11:25:48,878 INFO: Folder created For NordstromPortal.
+2020-01-31 11:26:02,935 INFO: Successfully Login to NorthFace
+2020-01-31 11:27:55,521 INFO: Folder created For NordstromPortal.
+2020-01-31 11:28:10,673 INFO: Successfully Login to NorthFace
+2020-01-31 11:29:26,460 INFO: Folder created For NordstromPortal.
+2020-01-31 11:29:40,328 INFO: Successfully Login to NorthFace
+2020-01-31 11:33:09,809 INFO: Folder created For NordstromPortal.
+2020-01-31 11:33:23,092 INFO: Successfully Login to NorthFace
+2020-01-31 11:45:20,254 INFO: Folder created For NordstromPortal.
+2020-01-31 11:45:33,704 INFO: Successfully Login to NorthFace
+2020-01-31 11:45:41,199 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-31 11:45:44,636 INFO: Successfully Logout from NorthFace
+2020-01-31 11:46:14,612 INFO: Folder created For NordstromPortal.
+2020-01-31 11:46:28,803 ERROR: Exception:Message: chrome not reachable
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-31 11:46:43,017 ERROR: Exception: Message: chrome not reachable
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-31 11:48:15,983 INFO: Folder created For NordstromPortal.
+2020-01-31 11:48:29,918 INFO: Successfully Login to NorthFace
+2020-01-31 11:48:37,585 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-31 11:48:41,063 INFO: Successfully Logout from NorthFace
+2020-01-31 11:48:51,275 INFO: Folder created For NordstromPortal.
+2020-01-31 11:49:06,010 INFO: Successfully Login to NorthFace
+2020-01-31 11:49:14,151 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-31 11:49:17,579 INFO: Successfully Logout from NorthFace
+2020-01-31 11:54:00,186 INFO: Folder created For NordstromPortal.
+2020-01-31 11:54:13,632 INFO: Successfully Login to NorthFace
+2020-01-31 11:54:21,055 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-31 11:54:24,485 INFO: Successfully Logout from NorthFace
+2020-01-31 11:56:06,221 INFO: Folder created For NordstromPortal.
+2020-01-31 11:56:17,745 INFO: Successfully Login to NorthFace
+2020-01-31 11:56:55,825 INFO: Successfully Report Downloaded for NorthFace
+2020-01-31 11:56:59,257 INFO: Successfully Logout from NorthFace
+2020-01-31 12:08:23,036 INFO: Folder created For NordstromPortal.
+2020-01-31 12:08:36,871 INFO: Successfully Login to NorthFace
+2020-01-31 12:09:15,233 INFO: Successfully Report Downloaded for NorthFace
+2020-01-31 12:09:18,661 INFO: Successfully Logout from NorthFace
+2020-01-31 12:10:07,325 INFO: Folder created For NordstromPortal.
+2020-01-31 12:10:22,373 INFO: Successfully Login to NorthFace
+2020-01-31 12:11:02,261 INFO: Successfully Report Downloaded for NorthFace
+2020-01-31 12:11:08,599 INFO: Successfully Logout from NorthFace
+2020-01-31 12:11:19,175 INFO: Folder created For NordstromPortal.
+2020-01-31 12:11:20,313 ERROR: Exception:Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=79.0.3945.130)
+

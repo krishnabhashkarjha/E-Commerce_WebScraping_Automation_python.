@@ -1,0 +1,1200 @@
+2020-03-23 10:38:50,273 INFO: Folder created For NordstromPortal.
+2020-03-23 10:39:22,444 INFO: Successfully Login to NuFace
+2020-03-23 10:39:52,276 INFO: Successfully Report Downloaded for dept 276
+2020-03-23 10:39:55,282 INFO: Successfully Report Rename for dept 276
+2020-03-23 10:39:55,288 INFO: Successfully Report Move in there Respective dept  276
+2020-03-23 10:40:01,621 INFO: Successfully Logout from NuFace
+2020-03-23 10:40:24,699 INFO: Successfully Login to NuFace
+2020-03-23 10:40:54,565 INFO: Successfully Report Downloaded for dept 32
+2020-03-23 10:40:57,571 INFO: Successfully Report Rename for dept 32
+2020-03-23 10:40:57,575 INFO: Successfully Report Move in there Respective dept  32
+2020-03-23 10:41:03,924 INFO: Successfully Logout from NuFace
+2020-03-23 10:41:03,924 INFO:  Done With NuFace. None
+2020-03-23 10:41:49,289 INFO: Successfully Login to NewBalanceAthleticShoe
+2020-03-23 10:42:19,102 INFO: Successfully Report Downloaded for dept 37 - WOMENS ACTIVE SHOES-NewBalance
+2020-03-23 10:42:22,108 INFO: Successfully Report Rename for dept 37
+2020-03-23 10:42:22,113 INFO: Successfully Report Move in there Respective dept  37
+2020-03-23 10:42:53,801 INFO: Successfully Report Downloaded for dept 123 - MENS ACTIVE SHOES-NewBalance
+2020-03-23 10:42:56,809 INFO: Successfully Report Rename for dept 123
+2020-03-23 10:42:56,813 INFO: Successfully Report Move in there Respective dept  123
+2020-03-23 10:43:28,375 INFO: Successfully Report Downloaded for dept 54 - KIDS SHOES-NewBalance
+2020-03-23 10:43:31,390 INFO: Successfully Report Rename for dept 54
+2020-03-23 10:43:31,392 INFO: Successfully Report Move in there Respective dept  54
+2020-03-23 10:44:02,904 INFO: Successfully Report Downloaded for dept 16 - ACTIVEWEAR-NewBalance
+2020-03-23 10:44:05,909 INFO: Successfully Report Rename for dept 16
+2020-03-23 10:44:05,914 INFO: Successfully Report Move in there Respective dept  16
+2020-03-23 10:44:37,407 INFO: Successfully Report Downloaded for dept 588 - M ACTIVE/OUTERWER-NewBalance
+2020-03-23 10:44:40,428 INFO: Successfully Report Rename for dept 588
+2020-03-23 10:44:40,433 INFO: Successfully Report Move in there Respective dept  588
+2020-03-23 10:44:46,791 INFO: Successfully Logout from NewBalanceAthleticShoe
+2020-03-23 10:44:46,795 INFO:  Done With NewBalance. None
+2020-03-23 10:44:46,795 INFO:  Done With LanaUnlimited. None
+2020-03-23 10:45:09,243 INFO: Successfully Login to WOLVERINE
+2020-03-23 10:45:15,597 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+127 - MENS TREND SHOES-Wolverine
+2020-03-23 10:45:39,000 INFO: Successfully Report Downloaded for dept 127 - MENS TREND SHOES-Wolverine
+2020-03-23 10:45:39,002 ERROR: Exception: list index out of range
+2020-03-23 10:45:39,002 ERROR: Exception:max() arg is an empty sequence
+2020-03-23 10:46:10,502 INFO: Successfully Report Downloaded for dept 191 - SP MENS UT/LUXURY SHOES2-Wolverine
+2020-03-23 10:46:13,512 INFO: Successfully Report Rename for dept 191
+2020-03-23 10:46:13,517 INFO: Successfully Report Move in there Respective dept  191
+2020-03-23 10:46:45,186 INFO: Successfully Report Downloaded for dept 192 - SP WOMENS UT SHOES-Wolverine
+2020-03-23 10:46:48,200 INFO: Successfully Report Rename for dept 192
+2020-03-23 10:46:48,209 INFO: Successfully Report Move in there Respective dept  192
+2020-03-23 10:47:19,782 INFO: Successfully Report Downloaded for dept 525 - COMFORT SHOES-Wolverine
+2020-03-23 10:47:22,815 INFO: Successfully Report Rename for dept 525
+2020-03-23 10:47:22,819 INFO: Successfully Report Move in there Respective dept  525
+2020-03-23 10:47:29,150 INFO: Successfully Logout from WOLVERINE
+2020-03-23 10:47:53,010 INFO: Successfully Login to WOLVERINE
+2020-03-23 10:48:22,823 INFO: Successfully Report Downloaded for dept 103 - SP WOMENS ACTIVE SHOES-Wolverine
+2020-03-23 10:48:25,838 INFO: Successfully Report Rename for dept 103
+2020-03-23 10:48:25,842 INFO: Successfully Report Move in there Respective dept  103
+2020-03-23 10:48:57,503 INFO: Successfully Report Downloaded for dept 123 - MENS ACTIVE SHOES-Wolverine
+2020-03-23 10:49:00,509 INFO: Successfully Report Rename for dept 123
+2020-03-23 10:49:00,511 INFO: Successfully Report Move in there Respective dept  123
+2020-03-23 10:49:31,989 INFO: Successfully Report Downloaded for dept 179 - SP MEN1-Wolverine
+2020-03-23 10:49:34,995 INFO: Successfully Report Rename for dept 179
+2020-03-23 10:49:34,997 INFO: Successfully Report Move in there Respective dept  179
+2020-03-23 10:50:06,596 INFO: Successfully Report Downloaded for dept 525 - COMFORT SHOES2-Wolverine
+2020-03-23 10:50:09,602 INFO: Successfully Report Rename for dept 525
+2020-03-23 10:50:09,606 INFO: Successfully Report Move in there Respective dept  525
+2020-03-23 10:50:15,961 INFO: Successfully Logout from WOLVERINE
+2020-03-23 10:50:40,262 INFO: Successfully Login to WOLVERINE
+2020-03-23 10:51:10,184 INFO: Successfully Report Downloaded for dept 103 - SP WOMENS ACTIVE SHOES2-Wolverine
+2020-03-23 10:51:13,201 INFO: Successfully Report Rename for dept 103
+2020-03-23 10:51:13,454 INFO: Successfully Report Move in there Respective dept  103
+2020-03-23 10:51:45,092 INFO: Successfully Report Downloaded for dept 123 - MENS ACTIVE SHOES2-Wolverine
+2020-03-23 10:51:48,109 INFO: Successfully Report Rename for dept 123
+2020-03-23 10:51:48,113 INFO: Successfully Report Move in there Respective dept  123
+2020-03-23 10:52:19,675 INFO: Successfully Report Downloaded for dept 179 - SP MEN2-Wolverine
+2020-03-23 10:52:22,680 INFO: Successfully Report Rename for dept 179
+2020-03-23 10:52:22,681 INFO: Successfully Report Move in there Respective dept  179
+2020-03-23 10:52:54,215 INFO: Successfully Report Downloaded for dept 525 - COMFORT SHOES3-Wolverine
+2020-03-23 10:52:57,218 INFO: Successfully Report Rename for dept 525
+2020-03-23 10:52:57,220 INFO: Successfully Report Move in there Respective dept  525
+2020-03-23 10:53:03,514 INFO: Successfully Logout from WOLVERINE
+2020-03-23 10:53:27,674 INFO: Successfully Login to WOLVERINE
+2020-03-23 10:53:57,238 INFO: Successfully Report Downloaded for dept 54 - KIDS SHOES-Wolverine
+2020-03-23 10:54:00,241 INFO: Successfully Report Rename for dept 54
+2020-03-23 10:54:00,245 INFO: Successfully Report Move in there Respective dept  54
+2020-03-23 10:54:32,029 INFO: Successfully Report Downloaded for dept 178 - SP GIRLS SHOES-Wolverine
+2020-03-23 10:54:35,034 INFO: Successfully Report Rename for dept 178
+2020-03-23 10:54:35,039 INFO: Successfully Report Move in there Respective dept  178
+2020-03-23 10:54:41,344 INFO: Successfully Logout from WOLVERINE
+2020-03-23 10:55:05,195 INFO: Successfully Login to WOLVERINE
+2020-03-23 10:55:35,011 INFO: Successfully Report Downloaded for dept 54 - KIDS SHOES2-Wolverine
+2020-03-23 10:55:38,019 INFO: Successfully Report Rename for dept 54
+2020-03-23 10:55:38,024 INFO: Successfully Report Move in there Respective dept  54
+2020-03-23 10:56:09,630 INFO: Successfully Report Downloaded for dept 178 - SP GIRLS SHOES2-Wolverine
+2020-03-23 10:56:12,635 INFO: Successfully Report Rename for dept 178
+2020-03-23 10:56:12,637 INFO: Successfully Report Move in there Respective dept  178
+2020-03-23 10:56:44,221 INFO: Successfully Report Downloaded for dept 607 - SP BOYS SHOES-Wolverine
+2020-03-23 10:56:47,230 INFO: Successfully Report Rename for dept 607
+2020-03-23 10:56:47,234 INFO: Successfully Report Move in there Respective dept  607
+2020-03-23 10:56:53,582 INFO: Successfully Logout from WOLVERINE
+2020-03-23 10:57:16,161 INFO: Successfully Login to WOLVERINE
+2020-03-23 10:57:45,921 INFO: Successfully Report Downloaded for dept 54 - KIDS SHOES3-Wolverine
+2020-03-23 10:57:48,927 INFO: Successfully Report Rename for dept 54
+2020-03-23 10:57:48,932 INFO: Successfully Report Move in there Respective dept  54
+2020-03-23 10:58:20,595 INFO: Successfully Report Downloaded for dept 493 - SP BOYS ATHLETIC SHOES-Wolverine
+2020-03-23 10:58:23,614 INFO: Successfully Report Rename for dept 493
+2020-03-23 10:58:23,620 INFO: Successfully Report Move in there Respective dept  493
+2020-03-23 10:58:55,233 INFO: Successfully Report Downloaded for dept 638 - SP GIRLS ATHLETIC SHOES-Wolverine
+2020-03-23 10:58:58,251 INFO: Successfully Report Rename for dept 638
+2020-03-23 10:58:58,256 INFO: Successfully Report Move in there Respective dept  638
+2020-03-23 10:59:04,616 INFO: Successfully Logout from WOLVERINE
+2020-03-23 10:59:32,897 INFO: Successfully Login to WOLVERINE
+2020-03-23 11:00:02,646 INFO: Successfully Report Downloaded for dept 122 - KIDS SHOES ACCESSORIES3-Wolverine
+2020-03-23 11:00:05,663 INFO: Successfully Report Rename for dept 122
+2020-03-23 11:00:05,668 INFO: Successfully Report Move in there Respective dept  122
+2020-03-23 11:00:11,964 INFO: Successfully Logout from WOLVERINE
+2020-03-23 11:00:34,347 INFO: Successfully Login to WOLVERINE
+2020-03-23 11:01:04,033 INFO: Successfully Report Downloaded for dept 37 - WOMENS ACTIVE SHOES2-Wolverine
+2020-03-23 11:01:07,046 INFO: Successfully Report Rename for dept 37
+2020-03-23 11:01:07,050 INFO: Successfully Report Move in there Respective dept  37
+2020-03-23 11:01:38,737 INFO: Successfully Report Downloaded for dept 193 - SP JUNIOR/CONTEMPORARY SHOES-Wolverine
+2020-03-23 11:01:41,752 INFO: Successfully Report Rename for dept 193
+2020-03-23 11:01:41,756 INFO: Successfully Report Move in there Respective dept  193
+2020-03-23 11:01:48,085 INFO: Successfully Logout from WOLVERINE
+2020-03-23 11:02:11,135 INFO: Successfully Login to WOLVERINE
+2020-03-23 11:02:41,005 INFO: Successfully Report Downloaded for dept 37 - WOMENS ACTIVE SHOES3-Wolverine
+2020-03-23 11:02:44,009 INFO: Successfully Report Rename for dept 37
+2020-03-23 11:02:44,013 INFO: Successfully Report Move in there Respective dept  37
+2020-03-23 11:02:50,400 INFO: Successfully Logout from WOLVERINE
+2020-03-23 11:02:51,535 ERROR: Exception: Message: element click intercepted: Element <span data-test-id="login-name">...</span> is not clickable at point (1082, 31). Other element would receive the click: <div class="jss263 jss264" aria-hidden="true" style="opacity: 1; will-change: opacity; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"></div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 11:02:51,535 INFO:  Done With Wolverine. None
+2020-03-23 11:03:06,403 INFO: Successfully Login to BabyBiling
+2020-03-23 11:03:36,223 INFO: Successfully Report Downloaded for dept 64 - INFANT ACCESSORIES-BabyBiling
+2020-03-23 11:03:39,236 INFO: Successfully Report Rename for dept 64
+2020-03-23 11:03:39,241 INFO: Successfully Report Move in there Respective dept  64
+2020-03-23 11:03:45,589 INFO: Successfully Logout from BabyBiling
+2020-03-23 11:03:46,677 ERROR: Exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 11:03:46,677 INFO:  Done With BabyBiling. None
+2020-03-23 11:04:00,791 INFO: Successfully Login to Reef
+2020-03-23 11:04:30,589 INFO: Successfully Report Downloaded for dept 37 - WOMENS ACTIVE SHOES-Reef
+2020-03-23 11:04:33,594 INFO: Successfully Report Rename for dept 37
+2020-03-23 11:04:33,598 INFO: Successfully Report Move in there Respective dept  37
+2020-03-23 11:05:05,279 INFO: Successfully Report Downloaded for dept 122 - KIDS SHOES ACCESSORIES-Reef
+2020-03-23 11:05:08,283 INFO: Successfully Report Rename for dept 122
+2020-03-23 11:05:08,288 INFO: Successfully Report Move in there Respective dept  122
+2020-03-23 11:05:39,843 INFO: Successfully Report Downloaded for dept 127 - MENS TREND SHOES-Reef
+2020-03-23 11:05:42,850 INFO: Successfully Report Rename for dept 127
+2020-03-23 11:05:42,855 INFO: Successfully Report Move in there Respective dept  127
+2020-03-23 11:06:14,331 INFO: Successfully Report Downloaded for dept 178 - SP GIRLS SHOES-Reef
+2020-03-23 11:06:17,340 INFO: Successfully Report Rename for dept 178
+2020-03-23 11:06:17,344 INFO: Successfully Report Move in there Respective dept  178
+2020-03-23 11:06:48,902 INFO: Successfully Report Downloaded for dept 193 - SP JUNIOR/CONTEMPORARY SHOES-Reef
+2020-03-23 11:06:51,906 INFO: Successfully Report Rename for dept 193
+2020-03-23 11:06:51,910 INFO: Successfully Report Move in there Respective dept  193
+2020-03-23 11:07:23,462 INFO: Successfully Report Downloaded for dept 240 - SP MENS TREND SHOES-Reef
+2020-03-23 11:07:26,470 INFO: Successfully Report Rename for dept 240
+2020-03-23 11:07:26,473 INFO: Successfully Report Move in there Respective dept  240
+2020-03-23 11:07:58,197 INFO: Successfully Report Downloaded for dept 607 - SP BOYS SHOES-Reef
+2020-03-23 11:08:01,215 INFO: Successfully Report Rename for dept 607
+2020-03-23 11:08:01,219 INFO: Successfully Report Move in there Respective dept  607
+2020-03-23 11:08:07,590 INFO: Successfully Logout from Reef
+2020-03-23 11:08:07,591 INFO:  Done With Reef. None
+2020-03-23 11:09:38,703 INFO: Successfully Login to SmartWool
+2020-03-23 11:10:08,557 INFO: Successfully Report Downloaded for dept 3 - HOSIERY-SmartWool
+2020-03-23 11:10:11,565 INFO: Successfully Report Rename for dept 3
+2020-03-23 11:10:11,569 INFO: Successfully Report Move in there Respective dept  3
+2020-03-23 11:10:43,257 INFO: Successfully Report Downloaded for dept 536 - M SPECIALIZED-SmartWool
+2020-03-23 11:10:46,269 INFO: Successfully Report Rename for dept 536
+2020-03-23 11:10:46,272 INFO: Successfully Report Move in there Respective dept  536
+2020-03-23 11:11:17,864 INFO: Successfully Report Downloaded for dept 588 - M ACTIVE/OUTERWER-SmartWool
+2020-03-23 11:11:20,874 INFO: Successfully Report Rename for dept 588
+2020-03-23 11:11:20,879 INFO: Successfully Report Move in there Respective dept  588
+2020-03-23 11:11:52,518 INFO: Successfully Report Downloaded for dept 631 - PERFORMANCE OUTERWEAR-SmartWool
+2020-03-23 11:11:55,539 INFO: Successfully Report Rename for dept 631
+2020-03-23 11:11:55,544 INFO: Successfully Report Move in there Respective dept  631
+2020-03-23 11:12:27,151 INFO: Successfully Report Downloaded for dept 267 - SP MEN-SmartWool
+2020-03-23 11:12:30,168 INFO: Successfully Report Rename for dept 267
+2020-03-23 11:12:30,173 INFO: Successfully Report Move in there Respective dept  267
+2020-03-23 11:13:01,750 INFO: Successfully Report Downloaded for dept 67 - SP HOSIERY/SOCKS-SmartWool
+2020-03-23 11:13:04,757 INFO: Successfully Report Rename for dept 67
+2020-03-23 11:13:04,763 INFO: Successfully Report Move in there Respective dept  67
+2020-03-23 11:13:11,089 INFO: Successfully Logout from SmartWool
+2020-03-23 11:13:11,091 INFO:  Done With SmartWool. None
+2020-03-23 11:13:35,569 INFO: Successfully Login to POPSOCKETS
+2020-03-23 11:14:05,322 INFO: Successfully Report Downloaded for dept 44 - YC HANDBAGS-PopSockets
+2020-03-23 11:14:05,322 ERROR: Exception: list index out of range
+2020-03-23 11:14:05,325 ERROR: Exception:max() arg is an empty sequence
+2020-03-23 11:14:36,829 INFO: Successfully Report Downloaded for dept 587 - POP IN SHOP-PopSockets
+2020-03-23 11:14:39,834 INFO: Successfully Report Rename for dept 587
+2020-03-23 11:14:39,839 INFO: Successfully Report Move in there Respective dept  587
+2020-03-23 11:14:46,204 INFO: Successfully Logout from POPSOCKETS
+2020-03-23 11:14:46,204 INFO:  Done With PopSockets. None
+2020-03-23 11:15:19,138 INFO: Successfully Login to SAXXUNDERWAER
+2020-03-23 11:15:48,836 INFO: Successfully Report Downloaded for dept 267 - SP MEN-SaxxUnderwear
+2020-03-23 11:15:51,841 INFO: Successfully Report Rename for dept 267
+2020-03-23 11:15:51,846 INFO: Successfully Report Move in there Respective dept  267
+2020-03-23 11:16:23,444 INFO: Successfully Report Downloaded for dept 536 - M SPECIALIZED-SaxxUnderwear
+2020-03-23 11:16:26,462 INFO: Successfully Report Rename for dept 536
+2020-03-23 11:16:26,467 INFO: Successfully Report Move in there Respective dept  536
+2020-03-23 11:16:57,931 INFO: Successfully Report Downloaded for dept 588 - M ACTIVE/OUTERWER-SaxxUnderwear
+2020-03-23 11:17:00,940 INFO: Successfully Report Rename for dept 588
+2020-03-23 11:17:00,945 INFO: Successfully Report Move in there Respective dept  588
+2020-03-23 11:17:07,303 INFO: Successfully Logout from SAXXUNDERWAER
+2020-03-23 11:17:07,304 INFO:  Done With PopSockets. None
+2020-03-23 11:17:07,305 INFO: Download Complete for NordstromPortal
+2020-03-23 11:22:27,742 INFO: Folder created For DomoPortal.
+2020-03-23 11:22:46,354 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-03-23 11:24:47,847 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 11:24:51,232 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 11:26:31,429 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 11:26:34,447 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 11:30:03,802 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 11:30:06,853 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 11:33:32,565 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 11:33:35,582 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 11:33:40,485 INFO: Successfully Signout.
+2020-03-23 11:33:40,486 INFO:  DONE WITH COLUMBIA SPORTWEAR.None
+2020-03-23 11:33:46,845 INFO: Successfully SignIN To VistaOutdoors.
+2020-03-23 11:35:57,798 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 11:36:00,814 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 11:38:00,060 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 11:38:03,078 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 11:40:15,299 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 11:40:18,426 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 11:42:30,238 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 11:42:33,261 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 11:42:35,517 INFO: Successfully Signout.
+2020-03-23 11:42:35,517 INFO:  DONE WITH ATK.None
+2020-03-23 11:42:37,558 INFO: Successfully SignIN To KeenFootwear.
+2020-03-23 11:44:57,574 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 11:45:00,592 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 11:46:59,047 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 11:47:02,065 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 11:49:13,186 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 11:49:16,205 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 11:51:28,091 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 11:51:31,108 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 11:51:34,574 INFO: Successfully Signout.
+2020-03-23 11:51:34,574 INFO:  DONE WITH KEEN FOOTWEAR.None
+2020-03-23 11:51:36,774 INFO: Successfully SignIN To NorthFace.
+2020-03-23 11:53:36,028 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 11:53:39,046 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 11:55:37,727 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 11:55:40,753 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 11:57:56,733 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 11:57:59,789 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 12:00:11,639 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 12:00:14,687 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 12:00:16,812 INFO: Successfully Signout.
+2020-03-23 12:00:16,813 INFO:  DONE WITH NORTH FACE.None
+2020-03-23 12:00:18,573 INFO: Successfully SignIN To Crocs.
+2020-03-23 12:02:18,102 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 12:02:21,120 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 12:04:22,000 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 12:04:25,017 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 12:06:37,045 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 12:06:40,063 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 12:08:54,601 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 12:08:59,129 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 12:09:01,560 INFO: Successfully Signout.
+2020-03-23 12:09:01,561 INFO:  DONE WITH CROCS.None
+2020-03-23 12:09:03,379 INFO: Successfully SignIN To Beretta.
+2020-03-23 12:11:02,745 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 12:11:08,233 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 12:13:06,488 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 12:13:09,507 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 12:15:20,488 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 12:15:23,505 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 12:17:34,501 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 12:17:37,560 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 12:17:39,954 INFO: Successfully Signout.
+2020-03-23 12:17:39,954 INFO:  DONE WITH BERETTA.None
+2020-03-23 12:17:41,753 INFO: Successfully SignIN To PureFishing.
+2020-03-23 12:19:41,616 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 12:19:44,635 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 12:21:42,754 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 12:21:45,773 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 12:24:00,117 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 12:24:03,139 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 12:25:06,913 INFO: Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:12,253 ERROR: Exception:Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:12,254 INFO:  DONE WITH PUREFISHING.Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:13,846 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:13,860 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:13,860 INFO:  DONE WITH YETI.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:15,311 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:15,321 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:15,321 INFO:  DONE WITH PELICANPRODUCTS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:19,569 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:19,584 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:19,584 INFO:  DONE WITH GFIVEOUTDOORS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:21,319 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:21,336 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:21,336 INFO:  DONE WITH LACROSSEFOOTWEAR.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:22,865 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:22,877 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:22,877 INFO:  DONE WITH UNDERARMOUR.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:24,079 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:24,092 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:24,093 INFO:  DONE WITH GERLEGENDARYBLADES.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:25,168 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:25,189 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:25,189 INFO:  DONE WITH SITKAGEAR.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:26,093 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:26,111 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:26,111 INFO:  DONE WITH CarlZeiss.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:27,005 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:27,028 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:27,028 INFO:  DONE WITH KIMBER.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:28,050 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:28,073 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:28,073 INFO:  DONE WITH WOLVERINE.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:28,940 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:28,953 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:28,953 INFO:  DONE WITH GEARAIDINC.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:29,869 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:29,877 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:29,878 INFO:  DONE WITH GILDANAPPAREL.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:30,846 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:30,854 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:30,854 INFO:  DONE WITH MTNOPS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:32,477 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:32,492 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:32,492 INFO:  DONE WITH VISTAOUTDOOR.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:33,759 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:33,775 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:33,775 INFO:  DONE WITH AMERICANACCESSORIESINC.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:34,701 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:34,714 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:34,714 INFO:  DONE WITH BENCHMADEKNIFECO.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:37,898 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:37,911 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:37,911 INFO:  DONE WITH CHUMS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:38,796 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:38,802 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:38,802 INFO:  DONE WITH DREWBRADYCOMPANYINC.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:40,044 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:40,053 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:40,053 INFO:  DONE WITH TERVISTUMBLER.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:41,508 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:41,531 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:41,531 INFO:  DONE WITH BUCKGARDNERCALLS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:42,453 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:42,477 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:42,478 INFO:  DONE WITH ENERGIZER.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:43,333 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:43,347 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:43,347 INFO:  DONE WITH INDUSTRIALREVOLUTION.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:44,267 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:44,276 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:44,276 INFO:  DONE WITH CAMELBACK.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:45,104 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:45,118 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:45,118 INFO:  DONE WITH Carhartt.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:46,074 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:46,086 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:46,087 INFO:  DONE WITH AriatInternationalAriatInternational.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:47,341 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:47,357 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:47,357 INFO:  DONE WITH HydroFlask.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:48,287 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:48,306 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:48,307 INFO:  DONE WITH LifeIsGood.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:25:48,307 INFO: Download Complete for Domo Portal
+2020-03-23 12:42:17,278 INFO: Folder created For DomoPortal.
+2020-03-23 12:42:24,725 INFO: Successfully SignIN To PureFishing.
+2020-03-23 12:44:32,745 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 12:44:36,360 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 12:46:34,748 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 12:46:37,773 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 12:49:03,346 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 12:49:06,365 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 12:51:19,145 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 12:51:22,161 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 12:51:24,955 INFO: Successfully Signout.
+2020-03-23 12:51:24,955 INFO:  DONE WITH PUREFISHING.None
+2020-03-23 12:51:26,413 INFO: Successfully SignIN To Yeti.
+2020-03-23 12:53:25,307 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 12:53:28,324 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 12:53:45,423 INFO: Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:53:59,671 INFO: Successfully Signout.
+2020-03-23 12:53:59,671 INFO:  DONE WITH YETI.Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:02,079 INFO: Successfully SignIN To PelicanProducts.
+2020-03-23 12:54:21,715 INFO: Message: element click intercepted: Element <div id="cd-card-details-timeframe-label">...</div> is not clickable at point (123, 208). Other element would receive the click: <div id="_pendo_g_CWufLssiks4ySNKOiAYcbdr8cnI" class="_pendo-guide_ _pendo-group-id-aQbphakA3mQzvp7EbTAsVEJ8ZUw_ _pendo-guide-lb_ _pendo-guide-walkthrough_" style="width: 800px; height: 574px; top: 50%; left: 50%; margin-top: -287px; margin-left: -400px;">...</div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:22,799 ERROR: Exception:Message: element click intercepted: Element <img ng-show="userId &amp;&amp; user.avatarKey" class="ng-scope" src="/avatar/userImage/100?key=76/AB0C673F9A07FB20A1E4CA00B8B49F"> is not clickable at point (589, 30). Other element would receive the click: <img alt="" src="https://storage.googleapis.com/pendo-static-5171025482350592/aQbphakA3mQzvp7EbTAsVEJ8ZUw/guide-media-fea9ee99-ee9b-4354-8be0-b9d57b299e60">
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:22,799 INFO:  DONE WITH PELICANPRODUCTS.Message: element click intercepted: Element <div id="cd-card-details-timeframe-label">...</div> is not clickable at point (123, 208). Other element would receive the click: <div id="_pendo_g_CWufLssiks4ySNKOiAYcbdr8cnI" class="_pendo-guide_ _pendo-group-id-aQbphakA3mQzvp7EbTAsVEJ8ZUw_ _pendo-guide-lb_ _pendo-guide-walkthrough_" style="width: 800px; height: 574px; top: 50%; left: 50%; margin-top: -287px; margin-left: -400px;">...</div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:23,570 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:23,579 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:23,579 INFO:  DONE WITH GFIVEOUTDOORS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:24,710 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:24,721 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:24,721 INFO:  DONE WITH LACROSSEFOOTWEAR.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:25,915 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:25,924 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:25,924 INFO:  DONE WITH UNDERARMOUR.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:27,022 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:27,031 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:27,031 INFO:  DONE WITH GERLEGENDARYBLADES.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:29,246 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:29,261 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:29,261 INFO:  DONE WITH SITKAGEAR.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:30,309 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:30,317 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:30,317 INFO:  DONE WITH CarlZeiss.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:31,445 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:31,457 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:31,457 INFO:  DONE WITH KIMBER.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:32,550 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:32,560 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:32,560 INFO:  DONE WITH WOLVERINE.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:33,552 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:33,561 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:33,561 INFO:  DONE WITH GEARAIDINC.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:34,774 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:34,785 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:34,785 INFO:  DONE WITH GILDANAPPAREL.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:37,369 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:37,377 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:37,377 INFO:  DONE WITH MTNOPS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:39,322 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:39,336 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:39,336 INFO:  DONE WITH VISTAOUTDOOR.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:42,426 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:42,438 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:42,438 INFO:  DONE WITH AMERICANACCESSORIESINC.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:44,470 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:44,478 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:44,479 INFO:  DONE WITH BENCHMADEKNIFECO.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:46,808 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:46,826 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:46,826 INFO:  DONE WITH CHUMS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:47,961 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:47,969 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:47,969 INFO:  DONE WITH DREWBRADYCOMPANYINC.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:50,841 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:50,849 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:50,850 INFO:  DONE WITH TERVISTUMBLER.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:52,353 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:52,361 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:52,361 INFO:  DONE WITH BUCKGARDNERCALLS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:55,663 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:55,675 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:55,676 INFO:  DONE WITH ENERGIZER.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:59,343 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:59,351 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:54:59,351 INFO:  DONE WITH INDUSTRIALREVOLUTION.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:03,519 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:03,526 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:03,528 INFO:  DONE WITH CAMELBACK.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:08,169 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:08,180 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:08,181 INFO:  DONE WITH Carhartt.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:09,028 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:09,040 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:09,040 INFO:  DONE WITH AriatInternationalAriatInternational.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:09,824 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:09,838 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:09,839 INFO:  DONE WITH HydroFlask.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:10,593 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:10,602 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:10,602 INFO:  DONE WITH LifeIsGood.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 12:55:10,602 INFO: Download Complete for Domo Portal
+2020-03-23 12:58:30,250 INFO: Folder created For DomoPortal.
+2020-03-23 12:58:40,666 INFO: Successfully SignIN To Yeti.
+2020-03-23 13:00:55,661 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 13:00:58,712 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 13:07:24,059 INFO: Folder created For DomoPortal.
+2020-03-23 13:07:36,848 INFO: Successfully SignIN To Yeti.
+2020-03-23 13:10:18,368 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 13:10:21,436 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 13:12:39,262 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 13:12:42,320 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 13:15:00,167 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 13:15:03,250 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 13:17:17,648 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 13:17:20,712 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 13:17:23,573 INFO: Successfully Signout.
+2020-03-23 13:17:23,574 INFO:  DONE WITH YETI.None
+2020-03-23 13:17:25,918 INFO: Successfully SignIN To PelicanProducts.
+2020-03-23 13:19:36,010 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 13:19:39,061 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 13:21:48,617 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 13:21:51,659 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 13:24:06,220 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 13:24:09,270 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 13:26:24,154 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 13:26:27,199 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 13:26:30,302 INFO: Successfully Signout.
+2020-03-23 13:26:30,302 INFO:  DONE WITH PELICANPRODUCTS.None
+2020-03-23 13:26:32,277 INFO: Successfully SignIN To GFiveOutdoors.
+2020-03-23 13:28:41,239 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 13:28:44,284 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 13:30:52,268 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 13:30:55,318 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 13:33:10,482 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 13:33:13,533 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 13:35:28,821 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 13:35:31,866 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 13:35:35,339 INFO: Successfully Signout.
+2020-03-23 13:35:35,339 INFO:  DONE WITH GFIVEOUTDOORS.None
+2020-03-23 13:35:37,207 INFO: Successfully SignIN To LacrosseFootwear.
+2020-03-23 13:37:50,149 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 13:37:53,201 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 13:40:02,049 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 13:40:05,094 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 13:42:20,208 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 13:42:23,261 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 13:44:38,909 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 13:44:41,971 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 13:44:44,964 INFO: Successfully Signout.
+2020-03-23 13:44:44,965 INFO:  DONE WITH LACROSSEFOOTWEAR.None
+2020-03-23 13:44:47,038 INFO: Successfully SignIN To UnderArmour.
+2020-03-23 13:46:57,699 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 13:47:00,759 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 13:49:10,844 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 13:49:13,911 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 13:51:36,254 INFO: partial file download.
+2020-03-23 13:51:36,255 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 13:51:36,296 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\BASSPRODOMO_UNDERARMOUR_INVENTORY_20200321.csv'
+2020-03-23 13:51:39,354 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv.crdownload'
+2020-03-23 13:51:39,354 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 13:54:11,135 INFO: partial file download.
+2020-03-23 13:54:11,135 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 13:54:11,173 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\CABELASDOMO_UNDERARMOUR_INVENTORY_20200321.csv'
+2020-03-23 13:54:14,183 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL (1).csv.crdownload'
+2020-03-23 13:54:14,183 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 13:54:49,858 INFO: Successfully Signout.
+2020-03-23 13:54:49,862 INFO:  DONE WITH UNDERARMOUR.None
+2020-03-23 13:54:51,794 INFO: Successfully SignIN To GerberLegendaryBlades.
+2020-03-23 13:57:02,179 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 13:57:05,238 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 14:00:16,421 INFO: Folder created For DomoPortal.
+2020-03-23 14:00:27,538 INFO: Successfully SignIN To UnderArmour.
+2020-03-23 14:03:09,088 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 14:03:12,137 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 14:05:22,539 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 14:05:26,243 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 14:07:52,162 INFO: partial file download.
+2020-03-23 14:07:52,164 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 14:07:52,212 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\BASSPRODOMO_UNDERARMOUR_INVENTORY_20200321.csv'
+2020-03-23 14:07:55,274 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv.crdownload'
+2020-03-23 14:07:55,274 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 14:08:30,994 INFO: Message: element click intercepted: Element <input type="checkbox" name="" ng-disabled="isDisabled()" ng-class="{indeterminate: isIndeterminate}"> is not clickable at point (683, 553). Other element would receive the click: <div class="dm-slicer__loading-spinner ng-scope" ng-if="$ctrl.loading">...</div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 14:08:41,115 INFO: Successfully Signout.
+2020-03-23 14:08:41,116 INFO:  DONE WITH UNDERARMOUR.Message: element click intercepted: Element <input type="checkbox" name="" ng-disabled="isDisabled()" ng-class="{indeterminate: isIndeterminate}"> is not clickable at point (683, 553). Other element would receive the click: <div class="dm-slicer__loading-spinner ng-scope" ng-if="$ctrl.loading">...</div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 14:08:46,624 INFO: Successfully SignIN To GerberLegendaryBlades.
+2020-03-23 14:11:07,664 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 14:11:10,713 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 14:13:23,444 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 14:13:26,491 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 14:15:41,553 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 14:15:44,721 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 14:17:59,903 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 14:18:02,949 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 14:18:06,037 INFO: Successfully Signout.
+2020-03-23 14:18:06,037 INFO:  DONE WITH GERLEGENDARYBLADES.None
+2020-03-23 14:18:08,080 INFO: Successfully SignIN To SITKAGear.
+2020-03-23 14:20:15,090 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 14:20:18,144 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 14:22:31,182 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 14:22:34,227 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 14:24:49,708 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 14:24:52,757 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 14:27:08,475 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 14:27:11,521 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 14:27:16,678 INFO: Successfully Signout.
+2020-03-23 14:27:16,678 INFO:  DONE WITH SITKAGEAR.None
+2020-03-23 14:27:20,674 INFO: Successfully SignIN To CarlZeiss.
+2020-03-23 14:29:24,459 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 14:29:27,505 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 14:31:31,335 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 14:31:34,383 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 14:33:50,585 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 14:33:53,632 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 14:36:09,948 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 14:36:13,010 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 14:36:17,338 INFO: Successfully Signout.
+2020-03-23 14:36:17,338 INFO:  DONE WITH CarlZeiss.None
+2020-03-23 14:36:21,063 INFO: Successfully SignIN To Kimber.
+2020-03-23 14:38:36,404 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 14:38:39,451 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 14:40:45,429 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 14:40:48,481 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 14:43:04,155 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 14:43:07,252 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 14:45:22,501 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 14:45:25,545 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 14:45:30,220 INFO: Successfully Signout.
+2020-03-23 14:45:30,220 INFO:  DONE WITH KIMBER.None
+2020-03-23 14:45:33,685 INFO: Successfully SignIN To Wolverine.
+2020-03-23 14:47:40,046 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 14:47:43,093 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 14:49:54,097 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 14:49:57,148 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 14:52:15,377 INFO: partial file download.
+2020-03-23 14:52:15,380 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 14:52:15,433 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\BASSPRODOMO_WOLVERINE_INVENTORY_20200321.csv'
+2020-03-23 14:52:18,457 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv.crdownload'
+2020-03-23 14:52:18,457 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 14:54:58,605 INFO: partial file download.
+2020-03-23 14:54:58,607 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 14:55:01,695 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL (1).csv.crdownload'
+2020-03-23 14:55:01,696 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 14:55:16,678 INFO: Successfully Signout.
+2020-03-23 14:55:16,678 INFO:  DONE WITH WOLVERINE.None
+2020-03-23 14:55:27,687 INFO: Successfully SignIN To GearAid.
+2020-03-23 14:56:02,209 INFO: Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 14:56:11,863 INFO: Successfully Signout.
+2020-03-23 14:56:11,863 INFO:  DONE WITH GEARAIDINC.Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 14:56:14,048 INFO: Successfully SignIN To GildanApparel.
+2020-03-23 15:00:32,234 INFO: Folder created For DomoPortal.
+2020-03-23 15:00:48,272 INFO: Successfully SignIN To Wolverine.
+2020-03-23 15:03:46,591 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 15:03:49,638 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 15:05:57,644 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 15:06:00,686 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 15:08:17,168 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 15:08:20,741 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 15:10:37,195 INFO: partial file download.
+2020-03-23 15:10:37,196 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 15:10:37,244 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\CABELASDOMO_WOLVERINE_INVENTORY_20200321.csv'
+2020-03-23 15:10:40,285 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv.crdownload'
+2020-03-23 15:10:40,286 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 15:10:51,636 INFO: Successfully Signout.
+2020-03-23 15:10:51,637 INFO:  DONE WITH WOLVERINE.None
+2020-03-23 15:11:02,836 INFO: Successfully SignIN To GearAid.
+2020-03-23 15:13:08,048 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 15:13:11,091 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 15:15:17,173 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 15:15:20,219 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 15:17:35,950 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 15:17:35,986 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+TOTAL+INVENTORY+BY+STORE+DETAIL.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\BASSPRODOMO_GEARAIDINC_INVENTORY_20200321.csv'
+2020-03-23 15:17:38,994 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 15:19:41,406 INFO: Folder created For DomoPortal.
+2020-03-23 15:19:49,934 INFO: Successfully SignIN To GearAid.
+2020-03-23 15:22:35,586 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 15:22:38,637 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 15:24:47,495 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 15:24:50,536 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 15:27:05,660 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 15:27:08,712 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 15:29:24,016 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 15:29:27,062 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 15:29:29,889 INFO: Successfully Signout.
+2020-03-23 15:29:29,890 INFO:  DONE WITH GEARAIDINC.None
+2020-03-23 15:29:32,003 INFO: Successfully SignIN To GildanApparel.
+2020-03-23 15:31:44,388 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 15:31:47,445 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 15:33:59,994 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 15:34:03,042 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 15:36:18,417 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 15:36:21,556 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 15:38:40,101 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 15:38:43,170 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 15:38:46,357 INFO: Successfully Signout.
+2020-03-23 15:38:46,358 INFO:  DONE WITH GILDANAPPAREL.None
+2020-03-23 15:38:49,065 INFO: Successfully SignIN To MtnOps.
+2020-03-23 15:41:01,136 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 15:41:04,187 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 15:43:14,236 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 15:43:17,291 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 15:45:32,500 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 15:45:35,559 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 15:47:51,353 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 15:47:54,400 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 15:47:58,112 INFO: Successfully Signout.
+2020-03-23 15:47:58,112 INFO:  DONE WITH MTNOPS.None
+2020-03-23 15:48:00,588 INFO: Successfully SignIN To VistaOutdoor.
+2020-03-23 15:50:09,105 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 15:50:09,148 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+SALES+DETAIL+SKU+STORE+DAY.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\BASSPRODOMO_VISTAOUTDOOR_SALES_20200321.csv'
+2020-03-23 15:50:12,165 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+SALES+DETAIL+SKU+STORE+DAY.csv.crdownload'
+2020-03-23 15:50:12,166 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 15:50:50,813 INFO: Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:50:50,836 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:50:50,836 INFO:  DONE WITH VISTAOUTDOOR.Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:00,220 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:00,237 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:00,237 INFO:  DONE WITH AMERICANACCESSORIESINC.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:10,560 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:10,579 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:10,579 INFO:  DONE WITH BENCHMADEKNIFECO.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:23,363 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:23,381 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:23,381 INFO:  DONE WITH CHUMS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:34,453 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:34,470 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:34,470 INFO:  DONE WITH DREWBRADYCOMPANYINC.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:40,513 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:40,531 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:40,531 INFO:  DONE WITH TERVISTUMBLER.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:52,348 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:52,364 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:51:52,364 INFO:  DONE WITH BUCKGARDNERCALLS.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:02,518 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:02,540 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:02,540 INFO:  DONE WITH ENERGIZER.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:12,700 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:12,716 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:12,716 INFO:  DONE WITH INDUSTRIALREVOLUTION.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:23,764 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:23,784 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:23,785 INFO:  DONE WITH CAMELBACK.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:36,820 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:36,837 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:36,837 INFO:  DONE WITH Carhartt.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:42,852 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:43,068 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:43,069 INFO:  DONE WITH AriatInternationalAriatInternational.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:52,755 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:52,771 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:52:52,771 INFO:  DONE WITH HydroFlask.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:53:07,797 INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:53:07,825 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:53:07,826 INFO:  DONE WITH LifeIsGood.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login-wrapper"]/div[1]/div/div[4]/div[2]/div[2]/div/a"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 15:53:07,826 INFO: Download Complete for Domo Portal
+2020-03-23 16:09:00,551 INFO: Folder created For DomoPortal.
+2020-03-23 16:09:13,675 INFO: Successfully SignIN To VistaOutdoor.
+2020-03-23 16:12:20,964 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 16:12:21,012 ERROR: Exception:[WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+SALES+DETAIL+SKU+STORE+DAY.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\BASSPRODOMO_VISTAOUTDOOR_SALES_20200321.csv'
+2020-03-23 16:12:24,031 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+SALES+DETAIL+SKU+STORE+DAY.csv.crdownload'
+2020-03-23 16:12:24,032 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 16:12:52,893 INFO: Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 16:13:04,714 INFO: Successfully Signout.
+2020-03-23 16:13:04,715 INFO:  DONE WITH VISTAOUTDOOR.Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 16:13:13,295 INFO: Successfully SignIN To AmericanAccessoriesInc.
+2020-03-23 16:13:51,675 INFO: Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 16:14:05,143 INFO: Successfully Signout.
+2020-03-23 16:14:05,143 INFO:  DONE WITH AMERICANACCESSORIESINC.Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-23 16:14:07,479 INFO: Successfully SignIN To BenchmadeKnifeCo.
+2020-03-23 16:16:05,881 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 16:16:08,924 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 16:18:15,728 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 16:18:18,770 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 16:20:33,125 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 16:20:36,161 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 16:22:51,088 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 16:22:54,133 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 16:22:56,977 INFO: Successfully Signout.
+2020-03-23 16:22:56,978 INFO:  DONE WITH BENCHMADEKNIFECO.None
+2020-03-23 16:22:58,949 INFO: Successfully SignIN To Chums.
+2020-03-23 16:25:07,169 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 16:25:10,214 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 16:27:22,040 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 16:27:25,083 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 16:30:05,845 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 16:30:08,892 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 16:32:27,572 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 16:32:30,608 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 16:32:34,553 INFO: Successfully Signout.
+2020-03-23 16:32:34,554 INFO:  DONE WITH CHUMS.None
+2020-03-23 16:32:36,538 INFO: Successfully SignIN To DrewBradyCompanyInc.
+2020-03-23 16:34:37,227 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 16:34:40,279 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 16:36:41,950 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 16:36:44,995 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 16:39:02,321 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 16:39:05,365 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 16:41:22,303 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 16:41:25,348 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 16:41:28,270 INFO: Successfully Signout.
+2020-03-23 16:41:28,270 INFO:  DONE WITH DREWBRADYCOMPANYINC.None
+2020-03-23 16:41:30,419 INFO: Successfully SignIN To TervisTumbler.
+2020-03-23 16:43:37,794 INFO: Download sales Report Successfully for Basspro.
+2020-03-23 16:43:40,842 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-03-23 16:45:50,133 INFO: Download sales Report Successfully for Cabelas.
+2020-03-23 16:45:53,159 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-03-23 16:48:10,567 INFO: Download Inventory Report Successfully for Basspro.
+2020-03-23 16:48:13,611 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-03-23 16:50:29,426 INFO: Download Inventory Report Successfully for Cabelas.
+2020-03-23 16:50:32,467 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-03-23 16:50:39,703 INFO: Successfully Signout.
+2020-03-23 16:50:39,704 INFO:  DONE WITH TERVISTUMBLER.None
+2020-03-23 16:50:43,130 INFO: Successfully SignIN To BuckGardnerCalls.

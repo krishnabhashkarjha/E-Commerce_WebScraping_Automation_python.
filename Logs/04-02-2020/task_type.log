@@ -1,0 +1,93 @@
+2020-02-04 13:07:06,395 INFO: Folder created For NordstromPortal.
+2020-02-04 13:07:18,465 INFO: Successfully Login to NorthFace
+2020-02-04 13:07:45,550 INFO: Successfully Report Downloaded for dept588
+2020-02-04 13:07:45,550 ERROR: Exception: bad operand type for unary +: 'str'
+2020-02-04 13:07:51,694 INFO: Successfully Logout from NorthFace
+2020-02-04 13:07:51,695 INFO:  Done With NorthFace. None
+2020-02-04 13:07:51,695 INFO: Download Complete for NordstromPortal
+2020-02-04 13:12:07,138 INFO: Folder created For NordstromPortal.
+2020-02-04 13:12:18,374 INFO: Successfully Login to NorthFace
+2020-02-04 13:12:45,468 INFO: Successfully Report Downloaded for dept588
+2020-02-04 13:12:45,469 ERROR: Exception: bad operand type for unary +: 'str'
+2020-02-04 13:12:51,609 INFO: Successfully Logout from NorthFace
+2020-02-04 13:12:51,609 INFO:  Done With NorthFace. None
+2020-02-04 13:15:37,208 INFO:  Done With NorthFace. None
+2020-02-04 13:15:37,209 INFO: Download Complete for NordstromPortal
+2020-02-04 14:55:56,465 INFO: Folder created For NordstromPortal.
+2020-02-04 14:56:07,876 INFO: Successfully Login to NorthFace
+2020-02-04 14:56:35,413 INFO: Successfully Report Downloaded for dept588
+2020-02-04 14:56:35,413 INFO: Successfully Report Downloaded for dept588
+2020-02-04 14:56:41,559 INFO: Successfully Logout from NorthFace
+2020-02-04 14:56:41,559 INFO:  Done With NorthFace. None
+2020-02-04 14:56:41,560 INFO: Download Complete for NordstromPortal
+2020-02-04 15:06:33,213 INFO: Folder created For NordstromPortal.
+2020-02-04 15:06:47,372 INFO: Successfully Login to NorthFace
+2020-02-04 15:07:15,076 INFO: Successfully Report Downloaded for dept588
+2020-02-04 15:07:18,081 INFO: Successfully Report Downloaded for dept588
+2020-02-04 15:07:24,237 INFO: Successfully Logout from NorthFace
+2020-02-04 15:07:24,237 INFO:  Done With NorthFace. None
+2020-02-04 15:07:24,238 INFO: Download Complete for NordstromPortal
+2020-02-04 13:12:51,609 INFO: Download Complete for NordstromPortal
+2020-02-04 13:13:02,191 INFO: Folder created For NordstromPortal.
+2020-02-04 13:14:54,403 INFO: Folder created For NordstromPortal.
+2020-02-04 13:15:04,013 INFO: Successfully Login to NorthFace
+2020-02-04 13:15:31,055 INFO: Successfully Report Downloaded for dept588
+2020-02-04 13:15:31,056 INFO: Successfully Report Downloaded for dept588
+2020-02-04 13:15:37,208 INFO: Successfully Logout from NorthFace
+2020-02-04 15:40:52,039 ERROR: Exception:[WinError 5] Access is denied: 'C:\\Automation\\Nordstrom'
+2020-02-04 15:41:01,963 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-02-04 15:43:58,040 INFO: Folder created For NordstromPortal.
+2020-02-04 15:44:10,478 INFO: Successfully Login to NorthFace
+2020-02-04 15:44:38,354 INFO: Successfully Report Downloaded for dept16
+2020-02-04 15:44:41,356 INFO: Successfully Report Downloaded for dept16
+2020-02-04 15:44:47,543 INFO: Successfully Logout from NorthFace
+2020-02-04 15:44:47,544 INFO:  Done With NorthFace. None
+2020-02-04 15:44:47,544 INFO: Download Complete for NordstromPortal
+2020-02-04 16:29:31,269 INFO: Folder created For NordstromPortal.
+2020-02-04 16:29:43,352 INFO: Successfully Login to NorthFace
+2020-02-04 16:30:10,464 INFO: Successfully Report Downloaded for dept16
+2020-02-04 16:30:13,468 INFO: Successfully Report Downloaded for dept16
+2020-02-04 16:30:19,629 INFO: Successfully Logout from NorthFace
+2020-02-04 16:30:19,629 INFO:  Done With NorthFace. None
+2020-02-04 16:30:19,629 INFO: Download Complete for NordstromPortal
+2020-02-04 16:36:44,204 INFO: Folder created For NordstromPortal.
+2020-02-04 16:36:53,842 INFO: Successfully Login to NorthFace
+2020-02-04 16:37:21,004 INFO: Successfully Report Downloaded for dept16
+2020-02-04 16:37:24,010 INFO: Successfully Report Rename for dept 16
+2020-02-04 16:37:24,010 ERROR: Exception:[Errno 2] No such file or directory: 'C:\\Automation\\Nordstrom\\04-Feb-2020\\NorthFace'
+2020-02-04 16:37:30,198 INFO: Successfully Logout from NorthFace
+2020-02-04 16:37:30,198 INFO:  Done With NorthFace. None
+2020-02-04 16:37:30,198 INFO: Download Complete for NordstromPortal
+2020-02-04 16:41:12,715 INFO: Folder created For NordstromPortal.
+2020-02-04 16:41:22,100 INFO: Successfully Login to NorthFace
+2020-02-04 16:41:49,140 INFO: Successfully Report Downloaded for dept16
+2020-02-04 16:41:52,142 INFO: Successfully Report Rename for dept 16
+2020-02-04 16:41:52,142 INFO: Successfully Report Move in there Respective dept  16
+2020-02-04 16:41:58,282 INFO: Successfully Logout from NorthFace
+2020-02-04 16:41:58,282 INFO:  Done With NorthFace. None
+2020-02-04 16:41:58,283 INFO: Download Complete for NordstromPortal
+2020-02-04 16:45:11,355 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-02-04 16:46:16,565 INFO: Folder created For NordstromPortal.
+2020-02-04 16:46:27,810 INFO: Successfully Login to NorthFace
+2020-02-04 16:46:55,289 INFO: Successfully Report Downloaded for dept16
+2020-02-04 16:46:58,292 INFO: Successfully Report Rename for dept 16
+2020-02-04 16:46:58,297 INFO: Successfully Report Move in there Respective dept  16
+2020-02-04 16:47:04,469 INFO: Successfully Logout from NorthFace
+2020-02-04 16:47:04,469 INFO:  Done With NorthFace. None
+2020-02-04 16:47:04,469 INFO: Download Complete for NordstromPortal
+2020-02-04 16:54:20,673 INFO: Folder created For NordstromPortal.
+2020-02-04 16:54:39,275 INFO: Successfully Login to NorthFace
+2020-02-04 16:55:06,496 INFO: Successfully Report Downloaded for dept16
+2020-02-04 16:55:09,498 INFO: Successfully Report Rename for dept 16
+2020-02-04 16:55:09,504 INFO: Successfully Report Move in there Respective dept  16
+2020-02-04 16:55:15,645 INFO: Successfully Logout from NorthFace
+2020-02-04 16:55:15,645 INFO:  Done With NorthFace. None
+2020-02-04 16:55:15,645 INFO: Download Complete for NordstromPortal
+2020-02-04 17:56:36,394 INFO: Folder created For NordstromPortal.
+2020-02-04 17:56:46,450 INFO: Successfully Login to NorthFace
+2020-02-04 17:57:13,511 INFO: Successfully Report Downloaded for dept16
+2020-02-04 17:57:16,511 INFO: Successfully Report Rename for dept 16
+2020-02-04 17:57:16,512 INFO: Successfully Report Move in there Respective dept  16
+2020-02-04 17:57:22,679 INFO: Successfully Logout from NorthFace
+2020-02-04 17:57:22,679 INFO:  Done With NorthFace. None
+2020-02-04 17:57:22,679 INFO: Download Complete for NordstromPortal

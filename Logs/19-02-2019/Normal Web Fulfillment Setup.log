@@ -1,0 +1,92 @@
+2019-02-19 14:47:15,784 INFO: Executing Script Normal Web Fulfillment Setup
+2019-02-19 14:47:19,126 INFO: Successful Connection
+2019-02-19 14:47:19,126 INFO: Login in to DC4 Prod
+2019-02-19 14:47:19,398 INFO: Refreshing access_token
+2019-02-19 14:47:21,889 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 14:47:23,723 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 17:10:54,520 INFO: Executing Script Normal Web Fulfillment Setup
+2019-02-19 17:10:57,197 INFO: Successful Connection
+2019-02-19 17:10:57,197 INFO: Login in to DC4 Prod
+2019-02-19 17:10:57,412 INFO: Refreshing access_token
+2019-02-19 17:10:59,419 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 17:11:01,190 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 17:11:25,551 INFO: Refreshing access_token
+2019-02-19 17:11:26,784 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 17:11:28,248 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 17:16:01,161 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Do It B...
+                      ^
+
+2019-02-19 17:16:01,176 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Do It Best Hardware) already exists.
+
+2019-02-19 17:17:09,596 INFO: Resetting dropped connection: sheets.googleapis.com
+2019-02-19 18:37:50,590 INFO: Executing Script Normal Web Fulfillment Setup
+2019-02-19 18:37:53,169 INFO: Successful Connection
+2019-02-19 18:37:53,169 INFO: Login in to DC4 Prod
+2019-02-19 18:37:53,347 INFO: Refreshing access_token
+2019-02-19 18:37:55,304 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 18:37:56,913 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 18:38:17,740 INFO: Refreshing access_token
+2019-02-19 18:38:18,909 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 18:38:20,246 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 18:40:30,904 INFO: Executing Script Normal Web Fulfillment Setup
+2019-02-19 18:40:33,363 INFO: Successful Connection
+2019-02-19 18:40:33,364 INFO: Login in to DC4 Prod
+2019-02-19 18:40:33,525 INFO: Refreshing access_token
+2019-02-19 18:40:35,126 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 18:40:36,701 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 18:40:56,614 INFO: Refreshing access_token
+2019-02-19 18:40:57,751 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 18:40:59,079 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 18:44:41,348 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Walmart...
+                      ^
+
+2019-02-19 18:44:41,355 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Walmart Canada) already exists.
+
+2019-02-19 18:45:47,289 INFO: Resetting dropped connection: sheets.googleapis.com
+2019-02-19 19:01:38,132 INFO: Executing Script Normal Web Fulfillment Setup
+2019-02-19 19:01:40,833 INFO: Successful Connection
+2019-02-19 19:01:40,833 INFO: Login in to DC4 Prod
+2019-02-19 19:01:40,997 INFO: Refreshing access_token
+2019-02-19 19:01:42,935 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 19:01:44,635 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 19:02:04,858 INFO: Refreshing access_token
+2019-02-19 19:02:05,978 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 19:02:07,293 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 19:05:50,392 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'TARGET ...
+                      ^
+
+2019-02-19 19:05:50,398 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(TARGET Corporation) already exists.
+
+2019-02-19 19:07:07,796 INFO: Resetting dropped connection: sheets.googleapis.com
+2019-02-19 19:12:50,348 INFO: Executing Script Normal Web Fulfillment Setup
+2019-02-19 19:12:53,036 INFO: Successful Connection
+2019-02-19 19:12:53,040 INFO: Login in to DC4 Prod
+2019-02-19 19:12:53,229 INFO: Refreshing access_token
+2019-02-19 19:12:54,941 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 19:12:56,486 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 19:13:16,429 INFO: Refreshing access_token
+2019-02-19 19:13:17,542 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 19:13:18,872 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 19:40:55,698 INFO: Executing Script Normal Web Fulfillment Setup
+2019-02-19 19:40:58,332 INFO: Successful Connection
+2019-02-19 19:40:58,332 INFO: Login in to DC4 Prod
+2019-02-19 19:40:58,489 INFO: Refreshing access_token
+2019-02-19 19:41:00,642 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 19:41:02,519 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 19:41:25,196 INFO: Refreshing access_token
+2019-02-19 19:41:26,423 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-19 19:41:27,934 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-02-19 19:45:08,357 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'CVS Pha...
+                      ^
+
+2019-02-19 19:45:08,363 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(CVS Pharmacy) already exists.
+
+2019-02-19 19:46:36,547 INFO: Resetting dropped connection: sheets.googleapis.com

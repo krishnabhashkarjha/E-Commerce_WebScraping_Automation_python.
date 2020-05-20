@@ -1,0 +1,17 @@
+2019-03-20 18:01:46,572 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-20 18:01:49,184 INFO: Successful Connection
+2019-03-20 18:01:49,184 INFO: Login in to DC4 Prod
+2019-03-20 18:01:49,341 INFO: Refreshing access_token
+2019-03-20 18:01:50,073 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-20 18:01:50,813 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-20 18:02:08,516 INFO: Refreshing access_token
+2019-03-20 18:02:08,730 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-20 18:02:09,297 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-20 18:06:00,039 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Walgree...
+                      ^
+
+2019-03-20 18:06:00,070 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Walgreen CF) already exists.
+
+2019-03-20 18:07:18,392 INFO: Resetting dropped connection: sheets.googleapis.com

@@ -1,0 +1,4 @@
+2020-03-19 20:04:08,814 ERROR: Exception is : Message: element click intercepted: Element <span>...</span> is not clickable at point (71, 185). Other element would receive the click: <div disabled="" class="css-1m782jx e69zk532">...</div>
+  (Session info: chrome=80.0.3987.132)
+
+2020-03-19 20:11:35,719 INFO: Successfully LogIN .

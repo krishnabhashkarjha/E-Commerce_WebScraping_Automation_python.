@@ -1,0 +1,388 @@
+2020-02-17 11:01:11,094 INFO: Folder created For NordstromPortal.
+2020-02-17 11:01:36,980 INFO: Successfully Login to SAXXUNDERWAER
+2020-02-17 11:03:45,157 INFO: Folder created For NordstromPortal.
+2020-02-17 11:04:11,623 INFO: Successfully Login to NorthFace
+2020-02-17 11:04:37,449 INFO: Successfully Report Downloaded for dept16
+2020-02-17 11:04:40,471 INFO: Successfully Report Rename for dept 16
+2020-02-17 11:04:40,474 INFO: Successfully Report Move in there Respective dept  16
+2020-02-17 11:05:08,148 INFO: Successfully Report Downloaded for dept2
+2020-02-17 11:05:11,172 INFO: Successfully Report Rename for dept 2
+2020-02-17 11:05:11,176 INFO: Successfully Report Move in there Respective dept  2
+2020-02-17 11:05:38,746 INFO: Successfully Report Downloaded for dept631
+2020-02-17 11:05:41,760 INFO: Successfully Report Rename for dept 631
+2020-02-17 11:05:41,765 INFO: Successfully Report Move in there Respective dept  631
+2020-02-17 11:06:09,261 INFO: Successfully Report Downloaded for dept588
+2020-02-17 11:06:12,265 INFO: Successfully Report Rename for dept 588
+2020-02-17 11:06:12,265 INFO: Successfully Report Move in there Respective dept  588
+2020-02-17 11:06:39,554 INFO: Successfully Report Downloaded for dept537
+2020-02-17 11:06:42,563 INFO: Successfully Report Rename for dept 537
+2020-02-17 11:06:42,563 INFO: Successfully Report Move in there Respective dept  537
+2020-02-17 11:07:09,859 INFO: Successfully Report Downloaded for dept62
+2020-02-17 11:07:12,868 INFO: Successfully Report Rename for dept 62
+2020-02-17 11:07:13,523 INFO: Successfully Report Move in there Respective dept  62
+2020-02-17 11:07:40,859 INFO: Successfully Report Downloaded for dept61
+2020-02-17 11:07:43,868 INFO: Successfully Report Rename for dept 61
+2020-02-17 11:07:43,868 INFO: Successfully Report Move in there Respective dept  61
+2020-02-17 11:08:11,181 INFO: Successfully Report Downloaded for dept60
+2020-02-17 11:08:14,190 INFO: Successfully Report Rename for dept 60
+2020-02-17 11:08:14,190 INFO: Successfully Report Move in there Respective dept  60
+2020-02-17 11:08:41,501 INFO: Successfully Report Downloaded for dept30
+2020-02-17 11:08:44,510 INFO: Successfully Report Rename for dept 30
+2020-02-17 11:08:44,510 INFO: Successfully Report Move in there Respective dept  30
+2020-02-17 11:09:11,831 INFO: Successfully Report Downloaded for dept59
+2020-02-17 11:09:14,840 INFO: Successfully Report Rename for dept 59
+2020-02-17 11:09:14,840 INFO: Successfully Report Move in there Respective dept  59
+2020-02-17 11:09:42,154 INFO: Successfully Report Downloaded for dept58
+2020-02-17 11:09:45,163 INFO: Successfully Report Rename for dept 58
+2020-02-17 11:09:45,163 INFO: Successfully Report Move in there Respective dept  58
+2020-02-17 11:10:12,477 INFO: Successfully Report Downloaded for dept341
+2020-02-17 11:10:15,484 INFO: Successfully Report Rename for dept 341
+2020-02-17 11:10:15,484 INFO: Successfully Report Move in there Respective dept  341
+2020-02-17 11:10:42,797 INFO: Successfully Report Downloaded for dept98
+2020-02-17 11:10:45,804 INFO: Successfully Report Rename for dept 98
+2020-02-17 11:10:45,804 INFO: Successfully Report Move in there Respective dept  98
+2020-02-17 11:11:13,179 INFO: Successfully Report Downloaded for dept64
+2020-02-17 11:11:16,180 INFO: Successfully Report Rename for dept 64
+2020-02-17 11:11:16,180 INFO: Successfully Report Move in there Respective dept  64
+2020-02-17 11:11:43,480 INFO: Successfully Report Downloaded for dept37
+2020-02-17 11:11:43,480 ERROR: Exception: list index out of range
+2020-02-17 11:11:43,480 ERROR: Exception:max() arg is an empty sequence
+2020-02-17 11:12:10,775 INFO: Successfully Report Downloaded for dept123
+2020-02-17 11:12:13,788 INFO: Successfully Report Rename for dept 123
+2020-02-17 11:12:13,788 INFO: Successfully Report Move in there Respective dept  123
+2020-02-17 11:12:41,106 INFO: Successfully Report Downloaded for dept122
+2020-02-17 11:12:44,116 INFO: Successfully Report Rename for dept 122
+2020-02-17 11:12:44,116 INFO: Successfully Report Move in there Respective dept  122
+2020-02-17 11:13:11,398 INFO: Successfully Report Downloaded for dept525
+2020-02-17 11:13:14,414 INFO: Successfully Report Rename for dept 525
+2020-02-17 11:13:14,414 INFO: Successfully Report Move in there Respective dept  525
+2020-02-17 11:13:20,572 INFO: Successfully Logout from NorthFace
+2020-02-17 11:13:43,098 INFO: Successfully Login to NorthFace
+2020-02-17 11:14:08,484 INFO: Successfully Report Downloaded for dept587
+2020-02-17 11:14:11,492 INFO: Successfully Report Rename for dept 587
+2020-02-17 11:14:11,492 INFO: Successfully Report Move in there Respective dept  587
+2020-02-17 11:14:17,688 INFO: Successfully Logout from NorthFace
+2020-02-17 11:14:17,689 INFO:  Done With NorthFace. None
+2020-02-17 11:15:06,968 INFO: Successfully Login to NuFace
+2020-02-17 11:15:32,384 INFO: Successfully Report Downloaded for dept276
+2020-02-17 11:15:35,394 INFO: Successfully Report Rename for dept 276
+2020-02-17 11:15:35,394 INFO: Successfully Report Move in there Respective dept  276
+2020-02-17 11:15:41,554 INFO: Successfully Logout from NuFace
+2020-02-17 11:16:02,863 INFO: Successfully Login to NuFace
+2020-02-17 11:16:28,306 INFO: Successfully Report Downloaded for dept32
+2020-02-17 11:16:31,315 INFO: Successfully Report Rename for dept 32
+2020-02-17 11:16:31,315 INFO: Successfully Report Move in there Respective dept  32
+2020-02-17 11:16:37,496 INFO: Successfully Logout from NuFace
+2020-02-17 11:16:37,496 INFO:  Done With NuFace. None
+2020-02-17 11:17:02,795 INFO: Successfully Login to Vans
+2020-02-17 11:17:30,858 INFO: Successfully Report Downloaded for dept37 - WOMENS ACTIVE SHOES
+2020-02-17 11:17:33,868 INFO: Successfully Report Rename for dept 37
+2020-02-17 11:17:33,868 INFO: Successfully Report Move in there Respective dept  37
+2020-02-17 11:18:01,257 INFO: Successfully Report Downloaded for dept127 - MENS TREND SHOES
+2020-02-17 11:18:04,265 INFO: Successfully Report Rename for dept 127
+2020-02-17 11:18:04,265 INFO: Successfully Report Move in there Respective dept  127
+2020-02-17 11:18:31,552 INFO: Successfully Report Downloaded for dept54 - KIDS SHOES
+2020-02-17 11:18:34,560 INFO: Successfully Report Rename for dept 54
+2020-02-17 11:18:34,560 INFO: Successfully Report Move in there Respective dept  54
+2020-02-17 11:19:01,889 INFO: Successfully Report Downloaded for dept75 - YOUNG MENS CONTEMPORARY
+2020-02-17 11:19:04,899 INFO: Successfully Report Rename for dept 75
+2020-02-17 11:19:04,899 INFO: Successfully Report Move in there Respective dept  75
+2020-02-17 11:19:32,185 INFO: Successfully Report Downloaded for dept59 - BOYS 8-20
+2020-02-17 11:19:35,193 INFO: Successfully Report Rename for dept 59
+2020-02-17 11:19:35,193 INFO: Successfully Report Move in there Respective dept  59
+2020-02-17 11:20:02,480 INFO: Successfully Report Downloaded for dept627 - YC DENIM & EMERGING BRANDS
+2020-02-17 11:20:05,490 INFO: Successfully Report Rename for dept 627
+2020-02-17 11:20:05,490 INFO: Successfully Report Move in there Respective dept  627
+2020-02-17 11:20:32,841 INFO: Successfully Report Downloaded for dept58 - LITTLE BOYS
+2020-02-17 11:20:35,851 INFO: Successfully Report Rename for dept 58
+2020-02-17 11:20:35,851 INFO: Successfully Report Move in there Respective dept  58
+2020-02-17 11:21:03,176 INFO: Successfully Report Downloaded for dept98 - BOYS ACC/SLP
+2020-02-17 11:21:06,185 INFO: Successfully Report Rename for dept 98
+2020-02-17 11:21:06,185 INFO: Successfully Report Move in there Respective dept  98
+2020-02-17 11:21:33,461 INFO: Successfully Report Downloaded for dept97 - BP ACCESSORIES
+2020-02-17 11:21:36,470 INFO: Successfully Report Rename for dept 97
+2020-02-17 11:21:36,470 INFO: Successfully Report Move in there Respective dept  97
+2020-02-17 11:22:03,778 INFO: Successfully Report Downloaded for dept537 - M ACCESSORIES
+2020-02-17 11:22:06,786 INFO: Successfully Report Rename for dept 537
+2020-02-17 11:22:06,786 INFO: Successfully Report Move in there Respective dept  537
+2020-02-17 11:22:34,114 INFO: Successfully Report Downloaded for dept122 - KIDS SHOES ACCESSORIES1
+2020-02-17 11:22:37,122 INFO: Successfully Report Rename for dept 122
+2020-02-17 11:22:37,122 INFO: Successfully Report Move in there Respective dept  122
+2020-02-17 11:23:04,486 INFO: Successfully Report Downloaded for dept608 - EMERGING DESIGNERS
+2020-02-17 11:23:07,486 INFO: Successfully Report Rename for dept 608
+2020-02-17 11:23:07,487 INFO: Successfully Report Move in there Respective dept  608
+2020-02-17 11:23:13,644 INFO: Successfully Logout from Vans
+2020-02-17 11:23:13,644 INFO:  Done With Vans. None
+2020-02-17 11:23:37,569 INFO: Successfully Login to DECKERS
+2020-02-17 11:24:06,061 INFO: Successfully Report Downloaded for dept3 - HOSIERY
+2020-02-17 11:24:09,070 INFO: Successfully Report Rename for dept 3
+2020-02-17 11:24:09,070 INFO: Successfully Report Move in there Respective dept  3
+2020-02-17 11:24:36,433 INFO: Successfully Report Downloaded for dept53 - SLEEPWEAR
+2020-02-17 11:24:39,440 INFO: Successfully Report Rename for dept 53
+2020-02-17 11:24:39,440 INFO: Successfully Report Move in there Respective dept  53
+2020-02-17 11:25:06,716 INFO: Successfully Report Downloaded for dept536 - M SPECIALIZED
+2020-02-17 11:25:09,730 INFO: Successfully Report Rename for dept 536
+2020-02-17 11:25:09,730 INFO: Successfully Report Move in there Respective dept  536
+2020-02-17 11:25:37,079 INFO: Successfully Report Downloaded for dept40 - SOFT GOODS/HOLIDAY
+2020-02-17 11:25:40,088 INFO: Successfully Report Rename for dept 40
+2020-02-17 11:25:40,088 INFO: Successfully Report Move in there Respective dept  40
+2020-02-17 11:25:46,247 INFO: Successfully Logout from DECKERS
+2020-02-17 11:26:08,670 INFO: Successfully Login to DECKERS
+2020-02-17 11:26:34,116 INFO: Successfully Report Downloaded for dept631 - PERFORMANCE OUTERWEAR
+2020-02-17 11:26:37,126 INFO: Successfully Report Rename for dept 631
+2020-02-17 11:26:37,126 INFO: Successfully Report Move in there Respective dept  631
+2020-02-17 11:27:04,467 INFO: Successfully Report Downloaded for dept588 - M ACTIVE/OUTERWER
+2020-02-17 11:27:04,467 ERROR: Exception: list index out of range
+2020-02-17 11:27:04,467 ERROR: Exception:max() arg is an empty sequence
+2020-02-17 11:27:31,799 INFO: Successfully Report Downloaded for dept24 - MENS UT/MODERN SHOES
+2020-02-17 11:27:34,806 INFO: Successfully Report Rename for dept 24
+2020-02-17 11:27:35,007 INFO: Successfully Report Move in there Respective dept  24
+2020-02-17 11:28:02,365 INFO: Successfully Report Downloaded for dept122 - KIDS SHOES ACCESSORIES2
+2020-02-17 11:28:05,374 INFO: Successfully Report Rename for dept 122
+2020-02-17 11:28:05,374 INFO: Successfully Report Move in there Respective dept  122
+2020-02-17 11:28:32,676 INFO: Successfully Report Downloaded for dept526 - WOMENS UGG SHOES
+2020-02-17 11:28:35,688 INFO: Successfully Report Rename for dept 526
+2020-02-17 11:28:35,688 INFO: Successfully Report Move in there Respective dept  526
+2020-02-17 11:28:41,846 INFO: Successfully Logout from DECKERS
+2020-02-17 11:28:41,846 INFO:  Done With Deckers. None
+2020-02-17 11:29:03,737 INFO: Successfully Login to COLEHAAN
+2020-02-17 11:29:29,167 INFO: Successfully Report Downloaded for dept24 - MENS UT/MODERN SHOES2
+2020-02-17 11:29:32,175 INFO: Successfully Report Rename for dept 24
+2020-02-17 11:29:32,175 INFO: Successfully Report Move in there Respective dept  24
+2020-02-17 11:29:43,280 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.106)
+109 - WOMENS CORE SHOES
+2020-02-17 11:30:02,412 INFO: Successfully Report Downloaded for dept109 - WOMENS CORE SHOES
+2020-02-17 11:30:05,420 INFO: Successfully Report Rename for dept 109
+2020-02-17 11:30:05,420 INFO: Successfully Report Move in there Respective dept  109
+2020-02-17 11:30:37,715 INFO: Successfully Report Downloaded for dept191 - SP MENS UT/LUXURY SHOES
+2020-02-17 11:30:40,776 INFO: Successfully Report Rename for dept 191
+2020-02-17 11:30:40,776 INFO: Successfully Report Move in there Respective dept  191
+2020-02-17 11:31:15,072 INFO: Successfully Report Downloaded for dept229 - SP SALON/PROGRESSV/BRIDGE SHOE
+2020-02-17 11:31:18,422 INFO: Successfully Report Rename for dept 229
+2020-02-17 11:31:18,422 INFO: Successfully Report Move in there Respective dept  229
+2020-02-17 11:31:29,558 INFO: Successfully Logout from COLEHAAN
+2020-02-17 11:31:29,558 INFO:  Done With ColeHaan. None
+2020-02-17 11:31:57,810 INFO: Successfully Login to LANAUNLIMITED
+2020-02-17 11:32:23,202 INFO: Successfully Report Downloaded for dept574 - SP JEWELRY
+2020-02-17 11:32:26,212 INFO: Successfully Report Rename for dept 574
+2020-02-17 11:32:26,212 INFO: Successfully Report Move in there Respective dept  574
+2020-02-17 11:32:53,551 INFO: Successfully Report Downloaded for dept696 - MODERN FINE JEWELRY
+2020-02-17 11:32:56,560 INFO: Successfully Report Rename for dept 696
+2020-02-17 11:32:56,560 INFO: Successfully Report Move in there Respective dept  696
+2020-02-17 11:33:02,724 INFO: Successfully Logout from LANAUNLIMITED
+2020-02-17 11:33:02,724 INFO:  Done With LanaUnlimited. None
+2020-02-17 11:33:26,839 INFO: Successfully Login to WOLVERINE
+2020-02-17 11:35:07,689 ERROR: Exception: Message: 
+
+2020-02-17 11:35:07,689 ERROR: Exception: list index out of range
+2020-02-17 11:35:07,692 ERROR: Exception:max() arg is an empty sequence
+2020-02-17 11:36:51,270 ERROR: Exception: Message: 
+
+2020-02-17 11:36:51,270 ERROR: Exception: list index out of range
+2020-02-17 11:36:51,273 ERROR: Exception:max() arg is an empty sequence
+2020-02-17 11:38:34,707 ERROR: Exception: Message: 
+
+2020-02-17 11:38:34,709 ERROR: Exception: list index out of range
+2020-02-17 11:38:34,710 ERROR: Exception:max() arg is an empty sequence
+2020-02-17 11:40:18,230 ERROR: Exception: Message: 
+
+2020-02-17 11:40:18,230 ERROR: Exception: list index out of range
+2020-02-17 11:40:18,233 ERROR: Exception:max() arg is an empty sequence
+2020-02-17 11:42:01,497 ERROR: Exception: Message: 
+
+2020-02-17 11:42:25,858 INFO: Successfully Login to WOLVERINE
+2020-02-17 11:44:06,902 ERROR: Exception: Message: 
+
+2020-02-17 11:44:06,902 ERROR: Exception: list index out of range
+2020-02-17 11:44:06,905 ERROR: Exception:max() arg is an empty sequence
+2020-02-17 12:08:43,143 INFO: Folder created For NordstromPortal.
+2020-02-17 12:09:09,211 INFO: Successfully Login to Vans
+2020-02-17 12:09:45,133 INFO: Successfully Report Downloaded for dept37 - WOMENS ACTIVE SHOES
+2020-02-17 12:09:48,139 INFO: Successfully Report Rename for dept 37
+2020-02-17 12:09:48,145 INFO: Successfully Report Move in there Respective dept  37
+2020-02-17 12:09:59,787 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.106)
+127 - MENS TREND SHOES
+2020-02-17 12:11:01,070 INFO: Folder created For NordstromPortal.
+2020-02-17 12:11:31,038 INFO: Successfully Login to Vans
+2020-02-17 12:16:38,593 INFO: Folder created For NordstromPortal.
+2020-02-17 12:17:02,561 INFO: Successfully Login to Vans
+2020-02-17 12:17:43,020 INFO: Successfully Report Downloaded for dept37 - WOMENS ACTIVE SHOES
+2020-02-17 12:17:46,036 INFO: Successfully Report Rename for dept 37
+2020-02-17 12:17:46,042 INFO: Successfully Report Move in there Respective dept  37
+2020-02-17 12:18:33,726 INFO: Successfully Report Downloaded for dept127 - MENS TREND SHOES
+2020-02-17 12:18:36,733 INFO: Successfully Report Rename for dept 127
+2020-02-17 12:18:36,739 INFO: Successfully Report Move in there Respective dept  127
+2020-02-17 12:19:12,539 INFO: Folder created For NordstromPortal.
+2020-02-17 12:19:39,197 INFO: Successfully Login to Vans
+2020-02-17 12:19:45,561 ERROR: Exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.106)
+37 - WOMENS ACTIVE SHOES
+2020-02-17 12:20:16,657 INFO: Folder created For NordstromPortal.
+2020-02-17 12:20:41,099 INFO: Successfully Login to Vans
+2020-02-17 12:21:06,868 INFO: Successfully Report Downloaded for dept37 - WOMENS ACTIVE SHOES
+2020-02-17 12:21:09,871 INFO: Successfully Report Rename for dept 37
+2020-02-17 12:21:09,877 INFO: Successfully Report Move in there Respective dept  37
+2020-02-17 12:21:37,486 INFO: Successfully Report Downloaded for dept127 - MENS TREND SHOES
+2020-02-17 12:21:40,498 INFO: Successfully Report Rename for dept 127
+2020-02-17 12:21:40,503 INFO: Successfully Report Move in there Respective dept  127
+2020-02-17 12:22:08,081 INFO: Successfully Report Downloaded for dept54 - KIDS SHOES
+2020-02-17 12:22:11,088 INFO: Successfully Report Rename for dept 54
+2020-02-17 12:22:11,093 INFO: Successfully Report Move in there Respective dept  54
+2020-02-17 12:22:38,655 INFO: Successfully Report Downloaded for dept75 - YOUNG MENS CONTEMPORARY
+2020-02-17 12:22:41,663 INFO: Successfully Report Rename for dept 75
+2020-02-17 12:22:41,668 INFO: Successfully Report Move in there Respective dept  75
+2020-02-17 12:23:09,191 INFO: Successfully Report Downloaded for dept59 - BOYS 8-20
+2020-02-17 12:23:12,196 INFO: Successfully Report Rename for dept 59
+2020-02-17 12:23:12,201 INFO: Successfully Report Move in there Respective dept  59
+2020-02-17 12:23:39,765 INFO: Successfully Report Downloaded for dept627 - YC DENIM & EMERGING BRANDS
+2020-02-17 12:23:42,783 INFO: Successfully Report Rename for dept 627
+2020-02-17 12:23:42,789 INFO: Successfully Report Move in there Respective dept  627
+2020-02-17 12:24:10,365 INFO: Successfully Report Downloaded for dept58 - LITTLE BOYS
+2020-02-17 12:24:13,375 INFO: Successfully Report Rename for dept 58
+2020-02-17 12:24:13,380 INFO: Successfully Report Move in there Respective dept  58
+2020-02-17 12:24:40,921 INFO: Successfully Report Downloaded for dept98 - BOYS ACC/SLP
+2020-02-17 12:24:43,940 INFO: Successfully Report Rename for dept 98
+2020-02-17 12:24:43,945 INFO: Successfully Report Move in there Respective dept  98
+2020-02-17 12:25:11,477 INFO: Successfully Report Downloaded for dept97 - BP ACCESSORIES
+2020-02-17 12:25:11,477 ERROR: Exception: list index out of range
+2020-02-17 12:25:11,477 ERROR: Exception:max() arg is an empty sequence
+2020-02-17 12:25:39,023 INFO: Successfully Report Downloaded for dept537 - M ACCESSORIES
+2020-02-17 12:25:42,053 INFO: Successfully Report Rename for dept 537
+2020-02-17 12:25:42,058 INFO: Successfully Report Move in there Respective dept  537
+2020-02-17 12:26:09,663 INFO: Successfully Report Downloaded for dept122 - KIDS SHOES ACCESSORIES1
+2020-02-17 12:26:12,670 INFO: Successfully Report Rename for dept 122
+2020-02-17 12:26:12,675 INFO: Successfully Report Move in there Respective dept  122
+2020-02-17 12:26:40,217 INFO: Successfully Report Downloaded for dept608 - EMERGING DESIGNERS
+2020-02-17 12:26:43,235 INFO: Successfully Report Rename for dept 608
+2020-02-17 12:26:43,240 INFO: Successfully Report Move in there Respective dept  608
+2020-02-17 12:26:49,495 INFO: Successfully Logout from Vans
+2020-02-17 12:26:49,495 INFO:  Done With Vans. None
+2020-02-17 12:27:12,405 INFO: Successfully Login to COLEHAAN
+2020-02-17 12:27:38,204 INFO: Successfully Report Downloaded for dept24 - MENS UT/MODERN SHOES2
+2020-02-17 12:27:41,213 INFO: Successfully Report Rename for dept 24
+2020-02-17 12:27:41,213 INFO: Successfully Report Move in there Respective dept  24
+2020-02-17 12:28:11,545 INFO: Successfully Report Downloaded for dept109 - WOMENS CORE SHOES
+2020-02-17 12:28:14,554 INFO: Successfully Report Rename for dept 109
+2020-02-17 12:28:14,554 INFO: Successfully Report Move in there Respective dept  109
+2020-02-17 12:28:50,886 INFO: Successfully Report Downloaded for dept191 - SP MENS UT/LUXURY SHOES
+2020-02-17 12:28:53,889 INFO: Successfully Report Rename for dept 191
+2020-02-17 12:28:53,889 INFO: Successfully Report Move in there Respective dept  191
+2020-02-17 12:29:28,257 INFO: Successfully Report Downloaded for dept229 - SP SALON/PROGRESSV/BRIDGE SHOE
+2020-02-17 12:29:31,279 INFO: Successfully Report Rename for dept 229
+2020-02-17 12:29:31,279 INFO: Successfully Report Move in there Respective dept  229
+2020-02-17 12:29:42,444 INFO: Successfully Logout from COLEHAAN
+2020-02-17 12:29:42,444 INFO:  Done With ColeHaan. None
+2020-02-17 12:30:02,201 INFO: Successfully Login to BabyBiling
+2020-02-17 12:30:27,796 INFO: Successfully Report Downloaded for dept64 - INFANT ACCESSORIES-BabyBiling
+2020-02-17 12:30:30,804 INFO: Successfully Report Rename for dept 64
+2020-02-17 12:30:30,804 INFO: Successfully Report Move in there Respective dept  64
+2020-02-17 12:30:36,961 INFO: Successfully Logout from BabyBiling
+2020-02-17 12:30:38,061 ERROR: Exception: Message: element click intercepted: Element <span data-test-id="login-name">...</span> is not clickable at point (1231, 31). Other element would receive the click: <li tabindex="-1" class="jss96 jss134 jss137 jss141 jss142 jss265 jss10" role="menuitem" data-test-id="profileNavButton">...</li>
+  (Session info: chrome=80.0.3987.106)
+
+2020-02-17 12:30:38,061 INFO:  Done With BabyBiling. None
+2020-02-17 12:30:51,357 INFO: Successfully Login to Reef
+2020-02-17 12:31:16,797 INFO: Successfully Report Downloaded for dept37 - WOMENS ACTIVE SHOES-Reef
+2020-02-17 12:31:19,807 INFO: Successfully Report Rename for dept 37
+2020-02-17 12:31:19,807 INFO: Successfully Report Move in there Respective dept  37
+2020-02-17 12:31:47,178 INFO: Successfully Report Downloaded for dept122 - KIDS SHOES ACCESSORIES-Reef
+2020-02-17 12:31:50,187 INFO: Successfully Report Rename for dept 122
+2020-02-17 12:31:50,187 INFO: Successfully Report Move in there Respective dept  122
+2020-02-17 12:32:17,483 INFO: Successfully Report Downloaded for dept127 - MENS TREND SHOES-Reef
+2020-02-17 12:32:20,492 INFO: Successfully Report Rename for dept 127
+2020-02-17 12:32:20,492 INFO: Successfully Report Move in there Respective dept  127
+2020-02-17 12:32:47,798 INFO: Successfully Report Downloaded for dept178 - SP GIRLS SHOES-Reef
+2020-02-17 12:32:50,807 INFO: Successfully Report Rename for dept 178
+2020-02-17 12:32:50,807 INFO: Successfully Report Move in there Respective dept  178
+2020-02-17 12:33:18,117 INFO: Successfully Report Downloaded for dept193 - SP JUNIOR/CONTEMPORARY SHOES-Reef
+2020-02-17 12:33:21,126 INFO: Successfully Report Rename for dept 193
+2020-02-17 12:33:21,126 INFO: Successfully Report Move in there Respective dept  193
+2020-02-17 12:33:48,461 INFO: Successfully Report Downloaded for dept240 - SP MENS TREND SHOES-Reef
+2020-02-17 12:33:51,470 INFO: Successfully Report Rename for dept 240
+2020-02-17 12:33:51,470 INFO: Successfully Report Move in there Respective dept  240
+2020-02-17 12:34:18,783 INFO: Successfully Report Downloaded for dept607 - SP BOYS SHOES-Reef
+2020-02-17 12:34:21,787 INFO: Successfully Report Rename for dept 607
+2020-02-17 12:34:21,787 INFO: Successfully Report Move in there Respective dept  607
+2020-02-17 12:34:27,957 INFO: Successfully Logout from Reef
+2020-02-17 12:34:27,957 INFO:  Done With Reef. None
+2020-02-17 12:34:47,567 INFO: Successfully Login to SmartWool
+2020-02-17 12:43:58,825 INFO: Folder created For NordstromPortal.
+2020-02-17 12:44:21,662 INFO: Successfully Login to COLEHAAN
+2020-02-17 12:44:51,108 INFO: Successfully Report Downloaded for dept 24 - MENS UT/MODERN SHOES2
+2020-02-17 12:44:54,248 INFO: Successfully Report Rename for dept 24
+2020-02-17 12:44:54,248 INFO: Successfully Report Move in there Respective dept  24
+2020-02-17 12:45:28,580 INFO: Successfully Report Downloaded for dept 109 - WOMENS CORE SHOES
+2020-02-17 12:45:31,598 INFO: Successfully Report Rename for dept 109
+2020-02-17 12:45:31,602 INFO: Successfully Report Move in there Respective dept  109
+2020-02-17 12:46:09,912 INFO: Successfully Report Downloaded for dept 191 - SP MENS UT/LUXURY SHOES
+2020-02-17 12:46:12,926 INFO: Successfully Report Rename for dept 191
+2020-02-17 12:46:12,926 INFO: Successfully Report Move in there Respective dept  191
+2020-02-17 12:46:51,220 INFO: Successfully Report Downloaded for dept 229 - SP SALON/PROGRESSV/BRIDGE SHOE
+2020-02-17 12:46:51,222 ERROR: Exception: list index out of range
+2020-02-17 12:46:51,223 ERROR: Exception:max() arg is an empty sequence
+2020-02-17 12:47:02,382 INFO: Successfully Logout from COLEHAAN
+2020-02-17 12:47:02,382 INFO:  Done With ColeHaan. None
+2020-02-17 12:48:02,743 INFO: Folder created For NordstromPortal.
+2020-02-17 12:48:27,868 INFO: Successfully Login to COLEHAAN
+2020-02-17 12:48:57,344 INFO: Successfully Report Downloaded for dept 24 - MENS UT/MODERN SHOES2
+2020-02-17 12:49:00,352 INFO: Successfully Report Rename for dept 24
+2020-02-17 12:49:00,352 INFO: Successfully Report Move in there Respective dept  24
+2020-02-17 12:49:34,670 INFO: Successfully Report Downloaded for dept 109 - WOMENS CORE SHOES
+2020-02-17 12:49:37,678 INFO: Successfully Report Rename for dept 109
+2020-02-17 12:49:37,778 INFO: Successfully Report Move in there Respective dept  109
+2020-02-17 12:50:16,044 INFO: Successfully Report Downloaded for dept 191 - SP MENS UT/LUXURY SHOES
+2020-02-17 12:50:19,053 INFO: Successfully Report Rename for dept 191
+2020-02-17 12:50:19,053 INFO: Successfully Report Move in there Respective dept  191
+2020-02-17 12:50:55,625 INFO: Folder created For NordstromPortal.
+2020-02-17 12:51:17,146 INFO: Successfully Login to COLEHAAN
+2020-02-17 12:51:46,555 INFO: Successfully Report Downloaded for dept 24 - MENS UT/MODERN SHOES2
+2020-02-17 12:51:49,563 INFO: Successfully Report Rename for dept 24
+2020-02-17 12:51:49,563 INFO: Successfully Report Move in there Respective dept  24
+2020-02-17 12:52:23,861 INFO: Successfully Report Downloaded for dept 109 - WOMENS CORE SHOES
+2020-02-17 12:52:26,870 INFO: Successfully Report Rename for dept 109
+2020-02-17 12:52:26,870 INFO: Successfully Report Move in there Respective dept  109
+2020-02-17 12:53:05,193 INFO: Successfully Report Downloaded for dept 191 - SP MENS UT/LUXURY SHOES
+2020-02-17 12:53:08,202 INFO: Successfully Report Rename for dept 191
+2020-02-17 12:53:08,202 INFO: Successfully Report Move in there Respective dept  191
+2020-02-17 12:53:46,495 INFO: Successfully Report Downloaded for dept 229 - SP SALON/PROGRESSV/BRIDGE SHOE
+2020-02-17 12:53:49,504 INFO: Successfully Report Rename for dept 229
+2020-02-17 12:53:49,504 INFO: Successfully Report Move in there Respective dept  229
+2020-02-17 12:54:00,686 INFO: Successfully Logout from COLEHAAN
+2020-02-17 12:54:00,686 INFO:  Done With ColeHaan. None
+2020-02-17 12:55:29,259 INFO: Folder created For NordstromPortal.
+2020-02-17 12:55:50,462 INFO: Successfully Login to SAXXUNDERWAER
+2020-02-17 12:56:19,839 INFO: Successfully Report Downloaded for dept 267 - SP MEN-SaxxUnderwear
+2020-02-17 12:56:22,851 INFO: Successfully Report Rename for dept 267
+2020-02-17 12:56:22,851 INFO: Successfully Report Move in there Respective dept  267
+2020-02-17 12:56:54,153 INFO: Successfully Report Downloaded for dept 536 - M SPECIALIZED-SaxxUnderwear
+2020-02-17 12:56:57,163 INFO: Successfully Report Rename for dept 536
+2020-02-17 12:56:57,163 INFO: Successfully Report Move in there Respective dept  536
+2020-02-17 12:57:28,448 INFO: Successfully Report Downloaded for dept 588 - M ACTIVE/OUTERWER-SaxxUnderwear
+2020-02-17 12:57:31,457 INFO: Successfully Report Rename for dept 588
+2020-02-17 12:57:31,457 INFO: Successfully Report Move in there Respective dept  588
+2020-02-17 12:57:37,618 INFO: Successfully Logout from SAXXUNDERWAER
+2020-02-17 12:57:37,618 INFO:  Done With PopSockets. None
+2020-02-17 12:57:37,618 INFO: Download Complete for NordstromPortal
+2020-02-17 15:23:26,113 INFO: Folder created For DomoPortal.
+2020-02-17 15:23:41,753 INFO: Successfully SignIN To HydroFlask.
+2020-02-17 15:25:47,003 INFO: Download sales Report Successfully for Basspro.
+2020-02-17 15:25:50,130 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-17 15:28:04,853 INFO: Download sales Report Successfully for Cabelas.
+2020-02-17 15:28:07,869 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-02-17 16:46:32,401 INFO: Folder created For DomoPortal.
+2020-02-17 16:46:53,201 INFO: Successfully SignIN To HydroFlask.
+2020-02-17 16:49:02,649 INFO: Download sales Report Successfully for Basspro.
+2020-02-17 16:49:05,694 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-17 16:51:23,014 INFO: Download sales Report Successfully for Cabelas.
+2020-02-17 16:51:26,053 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-02-17 16:54:37,419 INFO: Download Inventory Report Successfully for Basspro.
+2020-02-17 16:54:40,460 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-02-17 16:58:17,756 INFO: Download Inventory Report Successfully for Cabelas.
+2020-02-17 16:58:20,803 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-02-17 16:58:26,522 ERROR: Exception:Message: element not interactable
+  (Session info: chrome=80.0.3987.106)
+
+2020-02-17 16:58:26,522 INFO:  DONE WITH HydroFlask.None
+2020-02-17 16:58:26,523 INFO: Download Complete for Domo Portal

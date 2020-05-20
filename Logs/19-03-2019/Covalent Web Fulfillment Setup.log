@@ -1,0 +1,25 @@
+2019-03-19 12:11:05,664 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-19 12:11:09,132 INFO: Successful Connection
+2019-03-19 12:11:09,132 INFO: Login in to DC4 Prod
+2019-03-19 12:11:09,397 INFO: Refreshing access_token
+2019-03-19 12:11:11,848 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-19 12:11:13,459 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-19 12:11:36,794 INFO: Refreshing access_token
+2019-03-19 12:11:37,963 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-19 12:11:39,390 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-19 12:25:46,598 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-19 12:25:49,023 INFO: Successful Connection
+2019-03-19 12:25:49,023 INFO: Login in to DC4 Prod
+2019-03-19 12:25:49,201 INFO: Refreshing access_token
+2019-03-19 12:25:51,102 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-19 12:25:52,688 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-19 12:26:16,735 INFO: Refreshing access_token
+2019-03-19 12:26:18,135 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-19 12:26:19,804 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-19 12:28:47,326 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'C&S Who...
+                      ^
+
+2019-03-19 12:28:47,347 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(C&S Wholesale) already exists.
+

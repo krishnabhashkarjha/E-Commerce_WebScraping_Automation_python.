@@ -1,0 +1,71 @@
+2019-04-09 14:57:08,613 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 14:57:41,042 INFO: Successful Connection
+2019-04-09 14:57:41,043 INFO: Login in to DC4 Prod
+2019-04-09 14:57:41,245 INFO: Refreshing access_token
+2019-04-09 14:57:43,308 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-09 14:57:44,991 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-09 14:57:52,531 INFO: Refreshing access_token
+2019-04-09 14:57:53,979 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-09 14:57:55,327 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-09 15:04:17,192 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 15:04:49,372 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 15:05:25,441 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 15:09:19,929 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 15:16:17,944 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 15:19:17,231 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 15:39:21,645 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 15:41:27,242 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 17:26:19,003 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 17:26:47,902 INFO: Successful Connection
+2019-04-09 17:26:47,902 INFO: Login in to DC4 Prod
+2019-04-09 17:26:48,117 INFO: Refreshing access_token
+2019-04-09 17:26:50,369 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-09 17:26:51,997 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-09 17:27:00,015 INFO: Refreshing access_token
+2019-04-09 17:27:01,247 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-09 17:27:02,611 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-09 17:28:56,084 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 17:29:27,810 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 17:29:34,341 INFO: Successful Connection
+2019-04-09 17:29:34,342 INFO: Login in to DC4 Prod
+2019-04-09 17:29:34,650 INFO: Refreshing access_token
+2019-04-09 17:30:00,828 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 17:30:30,140 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 17:30:58,621 INFO: Successful Connection
+2019-04-09 17:30:58,622 INFO: Login in to DC4 Prod
+2019-04-09 17:30:58,783 INFO: Refreshing access_token
+2019-04-09 17:31:00,453 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-09 17:31:02,108 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-09 17:31:28,557 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 17:31:57,756 INFO: Successful Connection
+2019-04-09 17:31:57,756 INFO: Login in to DC4 Prod
+2019-04-09 17:31:57,948 INFO: Refreshing access_token
+2019-04-09 17:31:59,590 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-09 17:32:00,953 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-09 17:32:10,242 INFO: Refreshing access_token
+2019-04-09 17:32:11,535 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-09 17:32:13,062 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-09 17:35:51,044 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'True Va...
+                      ^
+
+2019-04-09 17:35:51,051 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(True Value) already exists.
+
+2019-04-09 17:45:21,114 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-09 17:45:55,776 INFO: Successful Connection
+2019-04-09 17:45:55,776 INFO: Login in to DC4 Prod
+2019-04-09 17:45:55,959 INFO: Refreshing access_token
+2019-04-09 17:45:58,022 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-09 17:45:59,720 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-09 17:46:08,637 INFO: Refreshing access_token
+2019-04-09 17:46:09,876 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-09 17:46:11,338 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-09 17:49:12,612 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Bed Bat...
+                      ^
+
+2019-04-09 17:49:12,629 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Bed Bath & Beyond) already exists.
+
+2019-04-09 17:50:53,129 INFO: Resetting dropped connection: sheets.googleapis.com

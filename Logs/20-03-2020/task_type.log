@@ -1,0 +1,222 @@
+2020-03-20 10:58:41,492 INFO: Successfully LogIN .
+2020-03-20 11:02:24,457 INFO: Successfully LogIN .
+2020-03-20 11:03:39,398 INFO: Successfully LogIN .
+2020-03-20 11:04:41,331 ERROR: Exception is : Message: chrome not reachable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 11:15:06,429 INFO: Successfully LogIN .
+2020-03-20 11:15:31,134 ERROR: Exception is : Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 11:15:34,479 ERROR: Exception is : Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 11:51:15,066 INFO: Successfully LogIN .
+2020-03-20 11:51:36,547 ERROR: Exception is : Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 11:51:36,627 ERROR: Exception is : Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 11:55:22,125 INFO: Successfully LogIN .
+2020-03-20 11:56:26,481 ERROR: Exception is : Message: element click intercepted: Element <div title="..." class="css-181un33 e1cru1503">Adatar</div> is not clickable at point (444, 524). Other element would receive the click: <div title="..." class="css-181un33 e1cru1503">Ahborneman</div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 11:56:26,582 ERROR: Exception is : Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 12:07:35,776 INFO: Successfully LogIN .
+2020-03-20 12:07:58,951 ERROR: Exception is : Message: element click intercepted: Element <div class="css-1lkj472 ehduqni2">...</div> is not clickable at point (310, 91). Other element would receive the click: <div class="css-1nrq5jk ekakxov0"></div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 12:07:59,040 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 12:19:53,367 INFO: Successfully LogIN .
+2020-03-20 12:20:14,364 ERROR: Exception is : Message: element click intercepted: Element <div class="css-1lkj472 ehduqni2">...</div> is not clickable at point (310, 91). Other element would receive the click: <div class="css-1nrq5jk ekakxov0"></div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 12:20:14,366 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 12:30:50,798 INFO: Successfully LogIN .
+2020-03-20 12:31:09,737 INFO: selected adatar for Utilization .
+2020-03-20 12:31:09,738 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 12:33:22,239 INFO: Successfully LogIN .
+2020-03-20 12:33:41,139 INFO: selected adatar for Utilization .
+2020-03-20 12:33:45,264 ERROR: Exception is : Message: element click intercepted: Element <div class="css-1lkj472 ehduqni2">...</div> is not clickable at point (310, 91). Other element would receive the click: <div class="css-1nrq5jk ekakxov0"></div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 12:36:06,476 INFO: Successfully LogIN .
+2020-03-20 12:36:25,458 INFO: selected adatar for Utilization .
+2020-03-20 12:36:28,491 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 12:38:19,541 INFO: Successfully LogIN .
+2020-03-20 12:38:38,515 INFO: selected adatar for Utilization .
+2020-03-20 12:38:42,622 ERROR: Exception is : Message: element click intercepted: Element <div class="css-1lkj472 ehduqni2">...</div> is not clickable at point (310, 91). Other element would receive the click: <div class="css-1nrq5jk ekakxov0"></div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 12:43:07,060 INFO: Successfully LogIN .
+2020-03-20 12:43:26,500 INFO: selected adatar for Utilization .
+2020-03-20 12:43:30,686 ERROR: Exception is : Message: element click intercepted: Element <span>...</span> is not clickable at point (314, 33). Other element would receive the click: <div class="css-1nrq5jk ekakxov0"></div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 12:46:46,422 INFO: Successfully LogIN .
+2020-03-20 12:47:05,631 INFO: selected adatar for Utilization .
+2020-03-20 12:47:09,798 ERROR: Exception is : Message: element click intercepted: Element <span>...</span> is not clickable at point (314, 33). Other element would receive the click: <div class="css-1nrq5jk ekakxov0"></div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 12:49:42,914 INFO: Successfully LogIN .
+2020-03-20 12:50:03,718 ERROR: Exception is : Message: element click intercepted: Element <span>...</span> is not clickable at point (314, 33). Other element would receive the click: <div class="css-1nrq5jk ekakxov0"></div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 12:50:13,720 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 12:51:03,741 INFO: Successfully LogIN .
+2020-03-20 12:51:27,392 ERROR: Exception is : Message: element click intercepted: Element <span>...</span> is not clickable at point (314, 33). Other element would receive the click: <div class="css-1nrq5jk ekakxov0"></div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 12:51:37,395 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 12:53:50,782 INFO: Successfully LogIN .
+2020-03-20 12:54:10,035 INFO: selected adatar for Utilization .
+2020-03-20 12:54:18,866 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 12:55:12,454 INFO: Successfully LogIN .
+2020-03-20 12:55:32,642 INFO: selected adatar for Utilization .
+2020-03-20 12:55:33,184 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 12:59:34,964 INFO: Successfully LogIN .
+2020-03-20 12:59:54,047 INFO: selected adatar for Utilization .
+2020-03-20 12:59:54,757 ERROR: Exception is : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div/div/div[1]/div/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/span/span[1]"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 12:59:54,757 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 13:00:57,344 INFO: Successfully LogIN .
+2020-03-20 13:01:16,358 INFO: selected adatar for Utilization .
+2020-03-20 13:01:20,036 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 13:13:15,719 INFO: Successfully LogIN .
+2020-03-20 13:13:34,709 INFO: selected adatar for Utilization .
+2020-03-20 13:13:38,485 ERROR: Exception is : Message: element not interactable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 13:15:23,736 INFO: Successfully LogIN .
+2020-03-20 13:15:53,249 INFO: selected adatar for Utilization .
+2020-03-20 13:15:57,239 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 13:19:09,231 INFO: Successfully LogIN .
+2020-03-20 13:19:29,248 INFO: selected adatar for Utilization .
+2020-03-20 13:19:33,086 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 13:19:52,027 INFO: selected sadake for Utilization .
+2020-03-20 13:19:55,840 INFO: Successfully Calculated Utilization for sadake .
+2020-03-20 13:20:14,829 INFO: selected apawar2 for Utilization .
+2020-03-20 13:20:18,677 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-20 13:21:47,463 INFO: Successfully LogIN .
+2020-03-20 13:22:01,317 INFO: selected adatar for Utilization .
+2020-03-20 13:22:05,147 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 13:22:10,986 INFO: selected sadake for Utilization .
+2020-03-20 13:22:14,770 INFO: Successfully Calculated Utilization for sadake .
+2020-03-20 13:22:20,635 INFO: selected apawar2 for Utilization .
+2020-03-20 13:22:24,482 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-20 13:52:37,554 INFO: Successfully LogIN .
+2020-03-20 13:52:44,860 ERROR: Exception is : Message: element click intercepted: Element <span>...</span> is not clickable at point (71, 185). Other element would receive the click: <div disabled="" class="css-e6kfiy e69zk532">...</div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 13:52:52,411 INFO: selected sadake for Utilization .
+2020-03-20 13:52:56,363 INFO: Successfully Calculated Utilization for sadake .
+2020-03-20 13:53:02,158 INFO: selected apawar2 for Utilization .
+2020-03-20 13:53:06,025 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-20 13:53:06,406 INFO: Successfully LogOut .
+2020-03-20 13:55:29,176 INFO: Successfully LogIN .
+2020-03-20 13:55:35,278 ERROR: Exception is : Message: element click intercepted: Element <span>...</span> is not clickable at point (71, 185). Other element would receive the click: <div disabled="" class="css-134en5m e69zk532">...</div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 13:55:45,981 INFO: selected sadake for Utilization .
+2020-03-20 13:55:49,857 INFO: Successfully Calculated Utilization for sadake .
+2020-03-20 13:59:10,427 INFO: Successfully LogIN .
+2020-03-20 13:59:29,339 INFO: selected adatar for Utilization .
+2020-03-20 13:59:33,167 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 13:59:44,001 INFO: selected sadake for Utilization .
+2020-03-20 13:59:47,916 INFO: Successfully Calculated Utilization for sadake .
+2020-03-20 13:59:58,804 INFO: selected apawar2 for Utilization .
+2020-03-20 14:00:02,662 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-20 14:00:02,966 INFO: Successfully LogOut .
+2020-03-20 21:25:33,171 INFO: Successfully LogIN .
+2020-03-20 21:25:55,902 INFO: selected adatar for Utilization .
+2020-03-20 21:26:00,484 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 21:26:12,190 INFO: selected sadake for Utilization .
+2020-03-20 21:26:16,622 INFO: Successfully Calculated Utilization for sadake .
+2020-03-20 21:26:28,219 INFO: selected apawar2 for Utilization .
+2020-03-20 21:26:32,644 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-20 21:26:33,254 INFO: Successfully LogOut .
+2020-03-20 21:33:53,828 INFO: Successfully LogIN .
+2020-03-20 21:34:01,343 ERROR: Exception is : Message: element click intercepted: Element <span>...</span> is not clickable at point (71, 185). Other element would receive the click: <div disabled="" class="css-1gdbmkd e69zk532">...</div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-20 21:34:15,446 INFO: selected sadake for Utilization .
+2020-03-20 21:35:29,489 INFO: Successfully LogIN .
+2020-03-20 21:35:50,063 INFO: selected adatar for Utilization .
+2020-03-20 21:35:54,671 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 21:36:08,137 INFO: selected sadake for Utilization .
+2020-03-20 21:36:12,471 INFO: Successfully Calculated Utilization for sadake .
+2020-03-20 21:36:26,302 INFO: selected apawar2 for Utilization .
+2020-03-20 21:36:30,708 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-20 21:36:31,308 INFO: Successfully LogOut .
+2020-03-20 21:56:56,589 INFO: Successfully LogIN .
+2020-03-20 21:57:14,024 INFO: selected adatar for Utilization .
+2020-03-20 21:57:17,707 INFO: Successfully Calculated Utilization for adatar .
+2020-03-20 21:57:30,316 INFO: selected sadake for Utilization .
+2020-03-20 21:57:33,922 INFO: Successfully Calculated Utilization for sadake .
+2020-03-20 21:57:47,492 INFO: selected apawar2 for Utilization .
+2020-03-20 21:57:51,995 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-20 21:58:05,443 INFO: selected ainamdar for Utilization .
+2020-03-20 21:58:09,618 INFO: Successfully Calculated Utilization for ainamdar .
+2020-03-20 21:58:32,220 INFO: selected AjayChoudhary for Utilization .
+2020-03-20 21:58:36,652 INFO: Successfully Calculated Utilization for AjayChoudhary .
+2020-03-20 21:58:50,046 INFO: selected mkamble for Utilization .
+2020-03-20 21:58:54,396 INFO: Successfully Calculated Utilization for mkamble .
+2020-03-20 21:59:07,707 INFO: selected averma for Utilization .
+2020-03-20 21:59:11,886 INFO: Successfully Calculated Utilization for averma .
+2020-03-20 21:59:25,220 INFO: selected amane for Utilization .
+2020-03-20 21:59:29,364 INFO: Successfully Calculated Utilization for amane .
+2020-03-20 21:59:42,873 INFO: selected srathore for Utilization .
+2020-03-20 21:59:47,090 INFO: Successfully Calculated Utilization for srathore .
+2020-03-20 22:00:00,544 INFO: selected nmahala for Utilization .
+2020-03-20 22:00:04,619 INFO: Successfully Calculated Utilization for nmahala .
+2020-03-20 22:00:17,993 INFO: selected sswami for Utilization .
+2020-03-20 22:00:22,197 INFO: Successfully Calculated Utilization for sswami .
+2020-03-20 22:00:35,649 INFO: selected rchoudhari for Utilization .
+2020-03-20 22:00:39,914 INFO: Successfully Calculated Utilization for rchoudhari .
+2020-03-20 22:00:53,293 INFO: selected vtemkar for Utilization .
+2020-03-20 22:00:57,479 INFO: Successfully Calculated Utilization for vtemkar .
+2020-03-20 22:01:10,968 INFO: selected asarode for Utilization .
+2020-03-20 22:01:15,121 INFO: Successfully Calculated Utilization for asarode .
+2020-03-20 22:01:28,339 INFO: selected rkute for Utilization .
+2020-03-20 22:01:32,552 INFO: Successfully Calculated Utilization for rkute .
+2020-03-20 22:01:45,922 INFO: selected pshende for Utilization .
+2020-03-20 22:01:50,311 INFO: Successfully Calculated Utilization for pshende .
+2020-03-20 22:02:03,855 INFO: selected njalkote for Utilization .
+2020-03-20 22:02:08,043 INFO: Successfully Calculated Utilization for njalkote .
+2020-03-20 22:02:21,486 INFO: selected syadav for Utilization .
+2020-03-20 22:02:25,630 INFO: Successfully Calculated Utilization for syadav .
+2020-03-20 22:02:38,968 INFO: selected ssharma for Utilization .
+2020-03-20 22:02:43,017 INFO: Successfully Calculated Utilization for ssharma .
+2020-03-20 22:02:56,424 INFO: selected rsingh for Utilization .
+2020-03-20 22:03:00,715 INFO: Successfully Calculated Utilization for rsingh .
+2020-03-20 22:03:13,890 INFO: selected praut for Utilization .
+2020-03-20 22:03:18,404 INFO: Successfully Calculated Utilization for praut .
+2020-03-20 22:03:32,014 INFO: selected sjakkanawar for Utilization .
+2020-03-20 22:03:36,161 INFO: Successfully Calculated Utilization for sjakkanawar .
+2020-03-20 22:03:49,856 INFO: selected smishra2 for Utilization .
+2020-03-20 22:03:54,022 INFO: Successfully Calculated Utilization for smishra2 .
+2020-03-20 22:04:07,285 INFO: selected vsingh for Utilization .
+2020-03-20 22:04:11,429 INFO: Successfully Calculated Utilization for vsingh .
+2020-03-20 22:04:24,802 INFO: selected ymaurya for Utilization .
+2020-03-20 22:04:29,005 INFO: Successfully Calculated Utilization for ymaurya .
+2020-03-20 22:04:42,451 INFO: selected skumari2 for Utilization .
+2020-03-20 22:04:46,769 INFO: Successfully Calculated Utilization for skumari2 .
+2020-03-20 22:05:00,190 INFO: selected ktiwari for Utilization .
+2020-03-20 22:05:04,461 INFO: Successfully Calculated Utilization for ktiwari .
+2020-03-20 22:05:17,806 INFO: selected agurav for Utilization .
+2020-03-20 22:05:22,110 INFO: Successfully Calculated Utilization for agurav .
+2020-03-20 22:05:35,549 INFO: selected sshetty for Utilization .
+2020-03-20 22:05:40,123 INFO: Successfully Calculated Utilization for sshetty .
+2020-03-20 22:05:53,490 INFO: selected gpawar3 for Utilization .
+2020-03-20 22:05:57,726 INFO: Successfully Calculated Utilization for gpawar3 .
+2020-03-20 22:06:10,939 INFO: selected udhotre for Utilization .
+2020-03-20 22:06:14,510 INFO: Successfully Calculated Utilization for udhotre .
+2020-03-20 22:06:27,176 INFO: selected asalunkhe for Utilization .
+2020-03-20 22:06:30,860 INFO: Successfully Calculated Utilization for asalunkhe .
+2020-03-20 22:06:43,494 INFO: selected ashinde for Utilization .
+2020-03-20 22:06:47,078 INFO: Successfully Calculated Utilization for ashinde .
+2020-03-20 22:06:47,297 INFO: Successfully LogOut .

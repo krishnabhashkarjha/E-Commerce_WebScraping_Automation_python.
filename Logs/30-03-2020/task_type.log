@@ -1,0 +1,54 @@
+2020-03-30 15:19:07,716 ERROR: Exception is : Message: element click intercepted: Element is not clickable at point (674, 778)
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-30 15:19:07,717 ERROR: Exception is : get_value() takes 2 positional arguments but 3 were given
+2020-03-30 15:19:33,507 INFO: Successfully LogIN .
+2020-03-30 15:19:33,507 ERROR: Exception is : get_value() takes 2 positional arguments but 3 were given
+2020-03-30 15:23:22,606 INFO: Successfully LogIN .
+2020-03-30 15:28:31,644 INFO: Successfully LogIN .
+2020-03-30 15:28:31,644 ERROR: Exception is : get_value() takes 3 positional arguments but 4 were given
+2020-03-30 15:31:03,044 INFO: Successfully LogIN .
+2020-03-30 15:32:27,165 ERROR: Exception is : Message: chrome not reachable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-30 15:42:37,100 INFO: Successfully LogIN .
+2020-03-30 15:44:27,622 ERROR: Exception is : Message: 
+
+2020-03-30 15:46:46,955 INFO: Successfully LogIN .
+2020-03-30 15:50:11,446 INFO: Successfully LogIN .
+2020-03-30 15:53:28,962 INFO: Successfully LogIN .
+2020-03-30 15:57:42,415 INFO: Successfully LogIN .
+2020-03-30 15:57:42,425 ERROR: Exception is : bad operand type for unary +: 'str'
+2020-03-30 16:23:23,739 INFO: Successfully LogIN .
+2020-03-30 16:25:02,539 ERROR: Exception is : Message: chrome not reachable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-30 16:25:20,719 ERROR: Exception is : Message: chrome not reachable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-30 16:25:34,964 ERROR: Exception is : Message: chrome not reachable
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-30 16:26:57,012 INFO: Successfully LogIN .
+2020-03-30 16:29:07,764 INFO: Successfully LogIN .
+2020-03-30 16:43:09,513 INFO: Successfully LogIN .
+2020-03-30 16:43:44,083 INFO: selected adatar for Utilization .
+2020-03-30 16:43:48,275 ERROR: Exception is : can only concatenate str (not "builtin_function_or_method") to str
+2020-03-30 16:43:48,584 INFO: Successfully Calculated Utilization for adatar .
+2020-03-30 16:43:48,991 INFO: Successfully LogOut .
+2020-03-30 16:51:21,344 INFO: Successfully LogIN .
+2020-03-30 16:51:56,012 INFO: selected adatar for Utilization .
+2020-03-30 16:52:00,037 INFO: Successfully Calculated Utilization for adatar .
+2020-03-30 16:52:00,395 INFO: Successfully LogOut .
+2020-03-30 16:58:56,336 INFO: Successfully LogIN .
+2020-03-30 16:59:30,781 INFO: selected adatar for Utilization .
+2020-03-30 16:59:34,765 INFO: Successfully Calculated Utilization for adatar .
+2020-03-30 16:59:35,149 INFO: Successfully LogOut .
+2020-03-30 17:02:50,476 INFO: Successfully LogIN .
+2020-03-30 17:03:24,977 INFO: selected adatar for Utilization .
+2020-03-30 17:03:28,992 INFO: Successfully Calculated Utilization for adatar .
+2020-03-30 17:03:42,068 INFO: selected sadake for Utilization .
+2020-03-30 17:03:46,000 INFO: Successfully Calculated Utilization for sadake .
+2020-03-30 17:03:59,083 INFO: selected apawar2 for Utilization .
+2020-03-30 17:04:03,006 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-30 17:04:03,381 INFO: Successfully LogOut .

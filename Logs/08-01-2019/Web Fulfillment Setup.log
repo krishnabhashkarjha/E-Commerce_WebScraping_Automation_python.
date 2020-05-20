@@ -1,0 +1,66 @@
+2019-01-08 14:45:42,114 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 14:46:05,630 ERROR: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "10.30.26.43" and accepting
+	TCP/IP connections on port 5432?
+
+2019-01-08 14:46:26,633 ERROR: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "172.16.18.31" and accepting
+	TCP/IP connections on port 5432?
+
+2019-01-08 14:47:43,786 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 14:48:07,172 ERROR: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "10.30.26.43" and accepting
+	TCP/IP connections on port 5432?
+
+2019-01-08 14:48:41,692 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 14:49:04,991 ERROR: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "10.30.26.43" and accepting
+	TCP/IP connections on port 5432?
+
+2019-01-08 14:49:29,736 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 14:49:32,108 INFO: Login in to DC4 Prod
+2019-01-08 14:49:32,316 INFO: Refreshing access_token
+2019-01-08 14:49:34,176 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-08 14:49:36,014 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-08 15:19:24,912 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 15:19:27,329 INFO: Successful Connection
+2019-01-08 15:19:27,329 INFO: Login in to DC4 Prod
+2019-01-08 15:19:27,482 INFO: Refreshing access_token
+2019-01-08 15:19:29,302 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-08 15:19:30,997 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-08 17:30:00,895 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 17:30:03,379 INFO: Successful Connection
+2019-01-08 17:30:03,379 INFO: Login in to DC4 Prod
+2019-01-08 17:30:03,530 INFO: Refreshing access_token
+2019-01-08 17:30:05,339 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-08 17:30:06,998 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-08 17:32:39,322 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 17:32:41,674 INFO: Successful Connection
+2019-01-08 17:32:41,674 INFO: Login in to DC4 Prod
+2019-01-08 17:32:41,830 INFO: Refreshing access_token
+2019-01-08 17:32:43,407 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-08 17:32:45,050 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-08 17:36:54,520 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 17:36:56,950 INFO: Successful Connection
+2019-01-08 17:36:56,950 INFO: Login in to DC4 Prod
+2019-01-08 17:36:57,103 INFO: Refreshing access_token
+2019-01-08 17:36:58,941 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-08 17:37:00,556 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-08 18:53:10,045 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 18:53:12,704 INFO: Successful Connection
+2019-01-08 18:53:12,704 INFO: Login in to DC4 Prod
+2019-01-08 18:53:12,855 INFO: Refreshing access_token
+2019-01-08 18:53:14,638 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-08 18:53:16,343 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-08 19:02:53,705 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 19:02:56,125 INFO: Successful Connection
+2019-01-08 19:02:56,126 INFO: Login in to DC4 Prod
+2019-01-08 19:02:56,295 INFO: Refreshing access_token
+2019-01-08 19:02:58,098 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-08 19:02:59,783 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-01-08 19:05:37,216 INFO: Executing Script Web Fulfillment Setup
+2019-01-08 19:05:39,600 INFO: Successful Connection
+2019-01-08 19:05:39,600 INFO: Login in to DC4 Prod
+2019-01-08 19:05:39,759 INFO: Refreshing access_token
+2019-01-08 19:05:41,420 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-01-08 19:05:42,975 INFO: Starting new HTTPS connection (1): sheets.googleapis.com

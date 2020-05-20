@@ -1,0 +1,10 @@
+2019-03-08 15:36:24,014 INFO: Executing Script Reueue
+2019-03-08 15:36:28,255 INFO: Login in to DC4 Prod
+2019-03-08 15:36:28,510 INFO: Refreshing access_token
+2019-03-08 15:36:30,549 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-08 15:36:32,212 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-08 15:41:27,895 INFO: Executing Script Reueue
+2019-03-08 15:41:30,412 INFO: Login in to DC4 Prod
+2019-03-08 15:41:30,601 INFO: Refreshing access_token
+2019-03-08 15:41:32,537 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-08 15:41:34,427 INFO: Starting new HTTPS connection (1): sheets.googleapis.com

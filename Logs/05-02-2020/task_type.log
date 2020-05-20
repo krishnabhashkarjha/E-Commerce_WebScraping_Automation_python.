@@ -1,0 +1,284 @@
+2020-02-05 11:56:08,740 INFO: Folder created For NordstromPortal.
+2020-02-05 11:56:25,702 INFO: Successfully Login to NorthFace
+2020-02-05 11:56:54,042 INFO: Successfully Report Downloaded for dept16
+2020-02-05 11:56:57,057 INFO: Successfully Report Rename for dept 16
+2020-02-05 11:56:57,064 INFO: Successfully Report Move in there Respective dept  16
+2020-02-05 11:57:00,107 ERROR: Not Done with Northface dept 2 Exception: [WinError 183] Cannot create a file when that file already exists: 'C:\\Automation\\Nordstrom\\05-02-2020\\NorthFace_NordstromPortal_2020-02-01'
+2020-02-05 11:57:03,452 INFO: Successfully Logout from NorthFace
+2020-02-05 11:57:03,453 INFO:  Done With NorthFace. None
+2020-02-05 11:57:03,454 INFO: Download Complete for NordstromPortal
+2020-02-05 12:09:48,857 INFO: Folder created For NordstromPortal.
+2020-02-05 12:10:06,257 INFO: Successfully Login to NorthFace
+2020-02-05 12:11:22,538 INFO: Folder created For NordstromPortal.
+2020-02-05 12:11:35,828 INFO: Successfully Login to NorthFace
+2020-02-05 12:17:02,901 INFO: Folder created For NordstromPortal.
+2020-02-05 12:17:16,146 INFO: Successfully Login to NorthFace
+2020-02-05 12:18:37,206 INFO: Folder created For NordstromPortal.
+2020-02-05 12:18:53,937 INFO: Successfully Login to NorthFace
+2020-02-05 12:19:16,265 INFO: Successfully Report Downloaded for dept16
+2020-02-05 12:19:19,275 INFO: Successfully Report Rename for dept 16
+2020-02-05 12:19:19,281 INFO: Successfully Report Move in there Respective dept  16
+2020-02-05 12:40:06,067 INFO: Folder created For NordstromPortal.
+2020-02-05 12:40:25,585 INFO: Successfully Login to NorthFace
+2020-02-05 12:40:47,071 INFO: Successfully Report Downloaded for dept16
+2020-02-05 12:40:50,087 INFO: Successfully Report Rename for dept 16
+2020-02-05 12:40:50,087 INFO: Successfully Report Move in there Respective dept  16
+2020-02-05 12:41:13,442 INFO: Successfully Report Downloaded for dept2
+2020-02-05 12:41:16,447 INFO: Successfully Report Rename for dept 2
+2020-02-05 12:41:16,447 INFO: Successfully Report Move in there Respective dept  2
+2020-02-05 12:41:22,620 INFO: Successfully Logout from NorthFace
+2020-02-05 12:41:22,620 INFO:  Done With NorthFace. None
+2020-02-05 12:41:22,620 INFO: Download Complete for NordstromPortal
+2020-02-05 14:01:14,204 INFO: Folder created For NordstromPortal.
+2020-02-05 14:01:34,626 INFO: Successfully Login to NorthFace
+2020-02-05 14:01:56,091 INFO: Successfully Report Downloaded for dept16
+2020-02-05 14:01:59,092 INFO: Successfully Report Rename for dept 16
+2020-02-05 14:01:59,093 INFO: Successfully Report Move in there Respective dept  16
+2020-02-05 14:02:22,395 INFO: Successfully Report Downloaded for dept2
+2020-02-05 14:02:25,408 INFO: Successfully Report Rename for dept 2
+2020-02-05 14:02:25,408 INFO: Successfully Report Move in there Respective dept  2
+2020-02-05 14:02:48,727 INFO: Successfully Report Downloaded for dept631
+2020-02-05 14:02:51,733 INFO: Successfully Report Rename for dept 631
+2020-02-05 14:02:51,733 INFO: Successfully Report Move in there Respective dept  631
+2020-02-05 14:03:15,021 INFO: Successfully Report Downloaded for dept588
+2020-02-05 14:03:18,036 INFO: Successfully Report Rename for dept 588
+2020-02-05 14:03:18,036 INFO: Successfully Report Move in there Respective dept  588
+2020-02-05 14:03:41,334 INFO: Successfully Report Downloaded for dept537
+2020-02-05 14:03:44,349 INFO: Successfully Report Rename for dept 537
+2020-02-05 14:03:44,349 INFO: Successfully Report Move in there Respective dept  537
+2020-02-05 14:04:07,666 INFO: Successfully Report Downloaded for dept62
+2020-02-05 14:04:10,668 INFO: Successfully Report Rename for dept 62
+2020-02-05 14:04:10,668 INFO: Successfully Report Move in there Respective dept  62
+2020-02-05 14:04:33,980 INFO: Successfully Report Downloaded for dept61
+2020-02-05 14:04:36,997 INFO: Successfully Report Rename for dept 61
+2020-02-05 14:04:36,997 INFO: Successfully Report Move in there Respective dept  61
+2020-02-05 14:05:00,316 INFO: Successfully Report Downloaded for dept60
+2020-02-05 14:05:03,320 INFO: Successfully Report Rename for dept 60
+2020-02-05 14:05:03,320 INFO: Successfully Report Move in there Respective dept  60
+2020-02-05 14:05:26,636 INFO: Successfully Report Downloaded for dept30
+2020-02-05 14:05:29,641 INFO: Successfully Report Rename for dept 30
+2020-02-05 14:05:29,646 INFO: Successfully Report Move in there Respective dept  30
+2020-02-05 14:05:53,031 INFO: Successfully Report Downloaded for dept59
+2020-02-05 14:05:56,038 INFO: Successfully Report Rename for dept 59
+2020-02-05 14:05:56,038 INFO: Successfully Report Move in there Respective dept  59
+2020-02-05 14:06:19,366 INFO: Successfully Report Downloaded for dept58
+2020-02-05 14:06:22,377 INFO: Successfully Report Rename for dept 58
+2020-02-05 14:06:22,377 INFO: Successfully Report Move in there Respective dept  58
+2020-02-05 14:06:45,685 INFO: Successfully Report Downloaded for dept341
+2020-02-05 14:06:48,685 INFO: Successfully Report Rename for dept 341
+2020-02-05 14:06:48,690 INFO: Successfully Report Move in there Respective dept  341
+2020-02-05 14:07:12,013 INFO: Successfully Report Downloaded for dept98
+2020-02-05 14:07:15,034 INFO: Successfully Report Rename for dept 98
+2020-02-05 14:07:15,034 INFO: Successfully Report Move in there Respective dept  98
+2020-02-05 14:07:38,387 INFO: Successfully Report Downloaded for dept64
+2020-02-05 14:07:41,401 INFO: Successfully Report Rename for dept 64
+2020-02-05 14:07:41,401 INFO: Successfully Report Move in there Respective dept  64
+2020-02-05 14:08:04,767 INFO: Successfully Report Downloaded for dept37
+2020-02-05 14:08:04,767 ERROR: Exception: list index out of range
+2020-02-05 14:08:04,767 ERROR: Exception:max() arg is an empty sequence
+2020-02-05 14:08:28,099 INFO: Successfully Report Downloaded for dept123
+2020-02-05 14:08:31,115 INFO: Successfully Report Rename for dept 123
+2020-02-05 14:08:31,115 INFO: Successfully Report Move in there Respective dept  123
+2020-02-05 14:08:54,450 INFO: Successfully Report Downloaded for dept122
+2020-02-05 14:08:57,451 INFO: Successfully Report Rename for dept 122
+2020-02-05 14:08:57,452 INFO: Successfully Report Move in there Respective dept  122
+2020-02-05 14:09:20,791 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:09:23,801 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:09:23,801 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:17:00,175 INFO: Folder created For NordstromPortal.
+2020-02-05 14:17:20,907 INFO: Successfully Login to NorthFace
+2020-02-05 14:17:42,392 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:17:45,397 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:17:45,401 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:21:37,192 INFO: Folder created For NordstromPortal.
+2020-02-05 14:21:59,962 INFO: Successfully Login to NorthFace
+2020-02-05 14:22:21,427 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:22:24,436 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:22:24,441 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:24:04,218 INFO: Folder created For NordstromPortal.
+2020-02-05 14:24:30,335 INFO: Successfully Login to NorthFace
+2020-02-05 14:24:52,078 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:24:55,100 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:24:55,104 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:24:58,130 ERROR: Exception: Message: invalid argument
+  (Session info: chrome=79.0.3945.130)
+
+2020-02-05 14:24:58,134 ERROR: Exception: list index out of range
+2020-02-05 14:24:58,135 ERROR: Exception:max() arg is an empty sequence
+2020-02-05 14:25:04,453 INFO: Successfully Logout from NorthFace
+2020-02-05 14:25:04,454 INFO:  Done With NorthFace. None
+2020-02-05 14:25:04,454 INFO: Download Complete for NordstromPortal
+2020-02-05 14:28:00,397 INFO: Folder created For NordstromPortal.
+2020-02-05 14:28:22,143 INFO: Successfully Login to NorthFace
+2020-02-05 14:28:44,028 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:28:47,032 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:28:47,036 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:32:29,880 INFO: Folder created For NordstromPortal.
+2020-02-05 14:32:52,125 INFO: Successfully Login to NorthFace
+2020-02-05 14:33:13,869 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:33:16,893 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:33:16,899 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:37:59,778 INFO: Folder created For NordstromPortal.
+2020-02-05 14:38:23,457 INFO: Successfully Login to NorthFace
+2020-02-05 14:38:45,737 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:38:48,743 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:38:48,747 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:40:49,058 INFO: Folder created For NordstromPortal.
+2020-02-05 14:41:10,011 INFO: Successfully Login to NorthFace
+2020-02-05 14:41:35,718 INFO: Successfully Report Downloaded for dept587
+2020-02-05 14:41:38,729 INFO: Successfully Report Rename for dept 587
+2020-02-05 14:41:38,735 INFO: Successfully Report Move in there Respective dept  587
+2020-02-05 14:41:44,953 INFO: Successfully Logout from NorthFace
+2020-02-05 14:41:44,953 INFO:  Done With NorthFace. None
+2020-02-05 14:41:44,954 INFO: Download Complete for NordstromPortal
+2020-02-05 14:42:15,263 INFO: Folder created For NordstromPortal.
+2020-02-05 14:42:41,153 INFO: Successfully Login to NorthFace
+2020-02-05 14:43:02,888 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:43:05,893 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:43:05,898 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:45:56,993 INFO: Folder created For NordstromPortal.
+2020-02-05 14:46:17,678 INFO: Successfully Login to NorthFace
+2020-02-05 14:46:45,356 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:46:48,368 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:46:48,373 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:56:04,196 INFO: Folder created For NordstromPortal.
+2020-02-05 14:56:30,066 INFO: Successfully Login to NorthFace
+2020-02-05 14:56:51,821 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:56:54,835 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:56:54,838 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:57:01,127 INFO: Successfully Logout from NorthFace
+2020-02-05 14:58:50,902 INFO: Folder created For NordstromPortal.
+2020-02-05 14:59:19,189 INFO: Successfully Login to NorthFace
+2020-02-05 14:59:41,017 INFO: Successfully Report Downloaded for dept525
+2020-02-05 14:59:44,021 INFO: Successfully Report Rename for dept 525
+2020-02-05 14:59:44,026 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 14:59:50,373 INFO: Successfully Logout from NorthFace
+2020-02-05 15:00:09,611 INFO: Successfully Login to NorthFace
+2020-02-05 15:00:31,369 INFO: Successfully Report Downloaded for dept587
+2020-02-05 15:00:34,371 INFO: Successfully Report Rename for dept 587
+2020-02-05 15:00:34,379 INFO: Successfully Report Move in there Respective dept  587
+2020-02-05 15:00:40,725 INFO: Successfully Logout from NorthFace
+2020-02-05 15:00:40,725 INFO:  Done With NorthFace. None
+2020-02-05 15:00:40,725 INFO: Download Complete for NordstromPortal
+2020-02-05 15:05:21,477 INFO: Folder created For NordstromPortal.
+2020-02-05 15:05:43,707 INFO: Successfully Login to NorthFace
+2020-02-05 15:06:05,541 INFO: Successfully Report Downloaded for dept16
+2020-02-05 15:06:08,575 INFO: Successfully Report Rename for dept 16
+2020-02-05 15:06:08,581 INFO: Successfully Report Move in there Respective dept  16
+2020-02-05 15:06:32,311 INFO: Successfully Report Downloaded for dept2
+2020-02-05 15:06:35,324 INFO: Successfully Report Rename for dept 2
+2020-02-05 15:06:35,329 INFO: Successfully Report Move in there Respective dept  2
+2020-02-05 15:06:58,985 INFO: Successfully Report Downloaded for dept631
+2020-02-05 15:07:01,995 INFO: Successfully Report Rename for dept 631
+2020-02-05 15:07:02,000 INFO: Successfully Report Move in there Respective dept  631
+2020-02-05 15:07:25,601 INFO: Successfully Report Downloaded for dept588
+2020-02-05 15:07:28,607 INFO: Successfully Report Rename for dept 588
+2020-02-05 15:07:28,611 INFO: Successfully Report Move in there Respective dept  588
+2020-02-05 15:07:52,250 INFO: Successfully Report Downloaded for dept537
+2020-02-05 15:07:55,349 INFO: Successfully Report Rename for dept 537
+2020-02-05 15:07:55,351 INFO: Successfully Report Move in there Respective dept  537
+2020-02-05 15:08:18,993 INFO: Successfully Report Downloaded for dept62
+2020-02-05 15:08:22,001 INFO: Successfully Report Rename for dept 62
+2020-02-05 15:08:22,162 INFO: Successfully Report Move in there Respective dept  62
+2020-02-05 15:08:45,819 INFO: Successfully Report Downloaded for dept61
+2020-02-05 15:08:48,824 INFO: Successfully Report Rename for dept 61
+2020-02-05 15:08:48,828 INFO: Successfully Report Move in there Respective dept  61
+2020-02-05 15:09:12,465 INFO: Successfully Report Downloaded for dept60
+2020-02-05 15:09:15,470 INFO: Successfully Report Rename for dept 60
+2020-02-05 15:09:15,475 INFO: Successfully Report Move in there Respective dept  60
+2020-02-05 15:09:39,107 INFO: Successfully Report Downloaded for dept30
+2020-02-05 15:09:42,123 INFO: Successfully Report Rename for dept 30
+2020-02-05 15:09:42,127 INFO: Successfully Report Move in there Respective dept  30
+2020-02-05 15:10:05,668 INFO: Successfully Report Downloaded for dept59
+2020-02-05 15:10:08,674 INFO: Successfully Report Rename for dept 59
+2020-02-05 15:10:08,680 INFO: Successfully Report Move in there Respective dept  59
+2020-02-05 15:10:32,305 INFO: Successfully Report Downloaded for dept58
+2020-02-05 15:10:35,324 INFO: Successfully Report Rename for dept 58
+2020-02-05 15:10:35,328 INFO: Successfully Report Move in there Respective dept  58
+2020-02-05 15:10:58,882 INFO: Successfully Report Downloaded for dept341
+2020-02-05 15:11:01,890 INFO: Successfully Report Rename for dept 341
+2020-02-05 15:11:01,894 INFO: Successfully Report Move in there Respective dept  341
+2020-02-05 15:11:25,490 INFO: Successfully Report Downloaded for dept98
+2020-02-05 15:11:28,496 INFO: Successfully Report Rename for dept 98
+2020-02-05 15:11:28,501 INFO: Successfully Report Move in there Respective dept  98
+2020-02-05 15:11:51,974 INFO: Successfully Report Downloaded for dept64
+2020-02-05 15:11:54,981 INFO: Successfully Report Rename for dept 64
+2020-02-05 15:11:54,986 INFO: Successfully Report Move in there Respective dept  64
+2020-02-05 15:12:18,642 INFO: Successfully Report Downloaded for dept37
+2020-02-05 15:12:18,644 ERROR: Exception: list index out of range
+2020-02-05 15:12:18,650 ERROR: Exception:max() arg is an empty sequence
+2020-02-05 15:12:42,221 INFO: Successfully Report Downloaded for dept123
+2020-02-05 15:12:45,231 INFO: Successfully Report Rename for dept 123
+2020-02-05 15:12:45,239 INFO: Successfully Report Move in there Respective dept  123
+2020-02-05 15:13:08,851 INFO: Successfully Report Downloaded for dept122
+2020-02-05 15:13:11,857 INFO: Successfully Report Rename for dept 122
+2020-02-05 15:13:11,861 INFO: Successfully Report Move in there Respective dept  122
+2020-02-05 15:13:35,539 INFO: Successfully Report Downloaded for dept525
+2020-02-05 15:13:38,546 INFO: Successfully Report Rename for dept 525
+2020-02-05 15:13:38,551 INFO: Successfully Report Move in there Respective dept  525
+2020-02-05 15:13:44,920 INFO: Successfully Logout from NorthFace
+2020-02-05 15:14:09,574 INFO: Successfully Login to NorthFace
+2020-02-05 15:14:31,367 INFO: Successfully Report Downloaded for dept587
+2020-02-05 15:14:34,375 INFO: Successfully Report Rename for dept 587
+2020-02-05 15:14:34,379 INFO: Successfully Report Move in there Respective dept  587
+2020-02-05 15:14:40,721 INFO: Successfully Logout from NorthFace
+2020-02-05 15:14:40,722 INFO:  Done With NorthFace. None
+2020-02-05 15:14:40,722 INFO: Download Complete for NordstromPortal
+2020-02-05 16:07:06,097 INFO: Folder created For NordstromPortal.
+2020-02-05 16:07:28,651 INFO: Successfully Login to NuFace
+2020-02-05 16:40:41,995 INFO: Folder created For NordstromPortal.
+2020-02-05 16:41:07,322 INFO: Successfully Login to NuFace
+2020-02-05 16:42:28,881 INFO: Folder created For NordstromPortal.
+2020-02-05 16:42:52,373 INFO: Successfully Login to NuFace
+2020-02-05 16:43:14,911 INFO: Successfully Report Downloaded for dept276
+2020-02-05 16:43:17,912 INFO: Successfully Report Rename for dept 276
+2020-02-05 16:43:17,915 INFO: Successfully Report Move in there Respective dept  276
+2020-02-05 16:43:24,093 INFO: Successfully Logout from NuFace
+2020-02-05 16:43:45,465 INFO: Successfully Login to NuFace
+2020-02-05 16:44:06,940 INFO: Successfully Report Downloaded for dept32
+2020-02-05 16:44:09,942 INFO: Successfully Report Rename for dept 32
+2020-02-05 16:44:09,947 INFO: Successfully Report Move in there Respective dept  32
+2020-02-05 16:44:16,130 INFO: Successfully Logout from NuFace
+2020-02-05 16:44:16,130 INFO:  Done With NuFace. None
+2020-02-05 16:44:16,131 INFO: Download Complete for NordstromPortal
+2020-02-05 18:22:42,285 INFO: Folder created For NordstromPortal.
+2020-02-05 18:23:04,515 INFO: Successfully Login to Vans
+2020-02-05 18:23:25,960 INFO: Successfully Report Downloaded for dept37 - WOMENS ACTIVE SHOES
+2020-02-05 18:23:28,970 INFO: Successfully Report Rename for dept 37
+2020-02-05 18:23:28,970 INFO: Successfully Report Move in there Respective dept  37
+2020-02-05 18:23:52,342 INFO: Successfully Report Downloaded for dept127 - MENS TREND SHOES
+2020-02-05 18:23:55,354 INFO: Successfully Report Rename for dept 127
+2020-02-05 18:23:55,354 INFO: Successfully Report Move in there Respective dept  127
+2020-02-05 18:24:18,664 INFO: Successfully Report Downloaded for dept54 - KIDS SHOES
+2020-02-05 18:24:21,677 INFO: Successfully Report Rename for dept 54
+2020-02-05 18:24:21,677 INFO: Successfully Report Move in there Respective dept  54
+2020-02-05 18:24:44,971 INFO: Successfully Report Downloaded for dept75 - YOUNG MENS CONTEMPORARY
+2020-02-05 18:24:47,983 INFO: Successfully Report Rename for dept 75
+2020-02-05 18:24:47,983 INFO: Successfully Report Move in there Respective dept  75
+2020-02-05 18:25:11,283 INFO: Successfully Report Downloaded for dept59 - BOYS 8-20
+2020-02-05 18:25:14,291 INFO: Successfully Report Rename for dept 59
+2020-02-05 18:25:14,291 INFO: Successfully Report Move in there Respective dept  59
+2020-02-05 18:25:37,612 INFO: Successfully Report Downloaded for dept627 - YC DENIM & EMERGING BRANDS
+2020-02-05 18:25:40,623 INFO: Successfully Report Rename for dept 627
+2020-02-05 18:25:40,623 INFO: Successfully Report Move in there Respective dept  627
+2020-02-05 18:26:03,952 INFO: Successfully Report Downloaded for dept58 - LITTLE BOYS
+2020-02-05 18:26:06,964 INFO: Successfully Report Rename for dept 58
+2020-02-05 18:26:06,964 INFO: Successfully Report Move in there Respective dept  58
+2020-02-05 18:26:30,284 INFO: Successfully Report Downloaded for dept98 - BOYS ACC/SLP
+2020-02-05 18:26:33,295 INFO: Successfully Report Rename for dept 98
+2020-02-05 18:26:33,295 INFO: Successfully Report Move in there Respective dept  98
+2020-02-05 18:26:56,610 INFO: Successfully Report Downloaded for dept97 - BP ACCESSORIES
+2020-02-05 18:26:59,620 INFO: Successfully Report Rename for dept 97
+2020-02-05 18:26:59,620 INFO: Successfully Report Move in there Respective dept  97
+2020-02-05 18:27:22,916 INFO: Successfully Report Downloaded for dept537 - M ACCESSORIES
+2020-02-05 18:27:25,928 INFO: Successfully Report Rename for dept 537
+2020-02-05 18:27:25,928 INFO: Successfully Report Move in there Respective dept  537
+2020-02-05 18:27:49,298 INFO: Successfully Report Downloaded for dept122 - KIDS SHOES ACCESSORIES
+2020-02-05 18:27:52,313 INFO: Successfully Report Rename for dept 122
+2020-02-05 18:27:52,313 INFO: Successfully Report Move in there Respective dept  122
+2020-02-05 18:28:15,611 INFO: Successfully Report Downloaded for dept608 - EMERGING DESIGNERS
+2020-02-05 18:28:18,623 INFO: Successfully Report Rename for dept 608
+2020-02-05 18:28:18,623 INFO: Successfully Report Move in there Respective dept  608
+2020-02-05 18:28:24,819 INFO: Successfully Logout from Vans
+2020-02-05 18:28:24,819 INFO:  Done With Vans. None
+2020-02-05 18:28:24,819 INFO: Download Complete for NordstromPortal

@@ -1,0 +1,46 @@
+2019-03-05 19:17:23,676 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-05 19:17:25,945 INFO: Successful Connection
+2019-03-05 19:17:25,945 INFO: Login in to DC4 Prod
+2019-03-05 19:17:26,148 INFO: Refreshing access_token
+2019-03-05 19:17:28,132 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-05 19:17:29,844 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-05 19:20:34,204 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-05 19:20:36,762 INFO: Successful Connection
+2019-03-05 19:20:36,762 INFO: Login in to DC4 Prod
+2019-03-05 19:20:36,918 INFO: Refreshing access_token
+2019-03-05 19:20:38,811 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-05 19:20:40,537 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-05 19:21:02,256 INFO: Refreshing access_token
+2019-03-05 19:21:03,460 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-05 19:21:04,758 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-05 19:22:29,089 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-05 19:22:31,747 INFO: Successful Connection
+2019-03-05 19:22:31,747 INFO: Login in to DC4 Prod
+2019-03-05 19:22:31,966 INFO: Refreshing access_token
+2019-03-05 19:22:33,558 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-05 19:22:34,879 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-05 19:23:25,615 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-05 19:23:27,969 INFO: Successful Connection
+2019-03-05 19:23:27,969 INFO: Login in to DC4 Prod
+2019-03-05 19:23:28,168 INFO: Refreshing access_token
+2019-03-05 19:23:29,834 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-05 19:23:31,155 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-05 19:23:51,307 INFO: Refreshing access_token
+2019-03-05 19:23:52,471 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-05 19:23:54,017 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-05 19:28:03,987 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-05 19:28:06,490 INFO: Successful Connection
+2019-03-05 19:28:06,491 INFO: Login in to DC4 Prod
+2019-03-05 19:28:06,665 INFO: Refreshing access_token
+2019-03-05 19:28:08,424 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-05 19:28:10,018 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-05 19:28:35,051 INFO: Refreshing access_token
+2019-03-05 19:28:36,235 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-05 19:28:37,492 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-05 19:31:35,858 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'SUPERVA...
+                      ^
+
+2019-03-05 19:31:35,858 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(SUPERVALU) already exists.
+

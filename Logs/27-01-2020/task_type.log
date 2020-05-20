@@ -1,0 +1,30 @@
+2020-01-27 11:44:43,361 INFO: Folder created For AmazonPortal.
+2020-01-27 11:44:53,456 INFO: Successfully Login to Gildan
+2020-01-27 11:45:06,932 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-27 11:45:06,933 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Sales Diagnostic_Detail View_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_SALES_20200125.xlsx'
+2020-01-27 11:45:06,934 ERROR: Exception:max() arg is an empty sequence
+2020-01-27 11:45:06,937 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-27 11:45:06,937 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Inventory Health_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_INVENTORY_20200125.xlsx'
+2020-01-27 11:45:06,938 ERROR: Exception:max() arg is an empty sequence
+2020-01-27 11:45:06,940 ERROR: Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.130)
+
+2020-01-27 11:45:06,940 INFO:  Done With Gildan. None
+2020-01-27 11:45:06,940 INFO: Download Complete for AmazonPortal
+2020-01-27 11:47:16,445 INFO: Folder created For AmazonPortal.
+2020-01-27 11:47:26,176 INFO: Successfully Login to Gildan
+2020-01-27 11:47:53,549 ERROR: Exception: 'WebDriver' object has no attribute 'switchTo'
+2020-01-27 11:47:55,483 INFO: Successfully Rename Sales Report for GILDAN
+2020-01-27 11:48:44,617 ERROR: Exception: 'WebDriver' object has no attribute 'switchTo'
+2020-01-27 11:48:44,617 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\Inventory Health_US.xlsx' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\AMAZONPORTAL_GILDAN_INVENTORY_20200125.xlsx'
+2020-01-27 11:48:44,618 ERROR: Exception:max() arg is an empty sequence
+2020-01-27 11:48:47,739 INFO: Successfully SignOut from GILDAN
+2020-01-27 11:48:47,739 INFO:  Done With Gildan. None
+2020-01-27 11:48:47,740 INFO: Download Complete for AmazonPortal

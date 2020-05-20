@@ -1,0 +1,52 @@
+'''
+
+@ Author - Karan Pandya
+@ Creation date - 08/29/2018
+@ Description - All constant and element locators
+'''
+
+ERROR_HOSPITAL_TAB_ID1 = 'form1:menuTabs1:7:commandMenuItem1'
+ERROR_HOSPITAL_TAB_ID2 = 'menuTabs1:7:commandMenuItem1'
+ERROR_HOSPITAL_TAB_ID = 'form1:menuTabs1:7:commandMenuItem1'
+REQUEUE_PARCEL_TAB_XPATH = '//*[@id="form1:panelPage1"]/table[1]/tbody/tr[3]/td/table/tbody/tr[2]/td[5]/span[3]/a'
+REQUEUE_PARCEL_BUTTON_ID = 'form1:commandButton1'
+ERROR_HOSPITAL_TAB_XPATH = '//*[@id="_idJsp4"]/table[1]/tbody/tr[2]/td[1]/map/area[8]'
+
+TICKET_UID_ID = 'form1:inputText1'
+TITLE_ID = 'form1:inputText18'
+SENDER_NAME_ID = 'form1:inputText13'
+RECEIVER_NAME_ID = 'form1:inputText15'
+START_DATE_ID = 'form1:inputCalendar1'
+DESCRIPTION_ID = 'form1:inputText2222'
+SEARCH_BUTTON_ID = 'form1:commandButton7'
+ADHOC_ERROR_TITLE = 'AdhocReporting: document rejected'
+WEB_DOC_REJECTED_ERROR_TITLE = 'WebForms-ToService: document rejected'
+EH_SHOW_ALL_TAB_XPATH = '//*[@id="form1:table1-nb__xc_c"]/option[1]'
+EH_FIRST_TICKET_UID_XPATH = '//*[@id="form1:table1"]/table[2]/tbody/tr[2]/td[3]'
+EH_DOC_TYPE_ID = 'form1:inputText2226'
+EH_DOCTYPE_INFO_XPATH = '//*[@id="form1:_idJsp36"]'
+EH_DESCRIPTION_INFO_XPATH = '//*[@id="form1:inputText25"]'
+
+DC4_EVISION_KEY_ID = 'inputText4'
+DC4_TRADING_PARTNERSHIP_SEARCH_BUTTON_ID = 'searchCmd'
+DC4_FIRST_TRADING_PARTNERSHIP_XPATH = '//*[@id="resultTable"]/table/tbody/tr[3]/td/table/tbody/tr[2]/td[3]'
+DC4_WEBFORM_TAB_ID = 'form1:menuTabs1:3:commandMenuItem1'
+DC4_SEARCH_TRADING_PARTNERSHIP_LINK_XPATH = '//*[@id="_idJsp3"]/div/div[3]/table[2]/tbody/tr[4]/td/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[4]/td/a'
+DC4_CREATE_TRADING_PARTNERSHIP_BUTTON1 = '//*[@id="resultTable"]/table/tbody/tr[1]/td/table/tbody/tr/td[1]/table/tbody/tr/td[2]/a'
+DC4_CREATE_TRADING_PARTNERSHIP_BUTTON2 = '//*[@id="panelPage1"]/div/div[3]/a'
+
+
+DC4_ADD_TRADING_PARTNERSHIP_SENDER_TORCH = '//*[@id="_idJsp4:senderUidInput__xc_"]/tbody/tr/td[3]/a'
+DC4_ADD_TRADING_PARTNERSHIP_RECEIVER_TORCH = '//*[@id="_idJsp4:receiverUidInput__xc_"]/tbody/tr/td[3]/a/img'
+DC4_ADD_TRADING_PARTNERSHIP_EVISION_KEY_ID = '_idJsp4:_idJsp31'
+DC4_ADD_TRADING_PARTNERSHIP_FORM_NUMBER_ID = '_idJsp4:_idJsp32'
+DC4_ADD_TRADING_PARTNERSHIP_BILLING_CODE_ZERO = '//*[@id="_idJsp4:_idJsp40"]/option[2]'
+DC4_ADD_TRADING_PARTNERSHIP_BILLING_CODE_ONE = '//*[@id="_idJsp4:_idJsp40"]/option[1]'
+DC4_ADD_TRADING_PARTNERSHIP_COMPANY_NAME_SEARCH_ID = 'companyNameInput'
+DC4_ADD_TRADING_PARTNERSHIP_COMPANY_NAME_SEARCH_BUTTON = '//*[@id="searchBtn"]'
+DC4_ADD_TRADING_PARTNERSHIP_FIRST_WEB_COMPANY = '//*[@id="_idJsp13"]/table/tbody/tr[2]/td/table/tbody/tr[2]/td[2]'
+DC4_ADD_TRADING_PARTNERSHIP_SELECT_BUTTON = '//*[@id="_idJsp13"]/table/tbody/tr[1]/td/table/tbody/tr/td[1]/table/tbody/tr/td[2]/a'
+DC4_ADD_TRADING_PARTNERSHIP_SENDER_TEXT_ID = '_idJsp4:senderUidInput'
+DC4_ADD_TRADING_PARTNERSHIP_RECEIVER_TEXT_ID = '_idJsp4:receiverUidInput'
+DC4_ADD_TRADING_PARTNERSHIP_CREATE_BUTTON = '//*[@id="_idJsp4:entryForm"]/table/tbody/tr/td[2]/table/tbody/tr[12]/td/table/tbody/tr/td[3]/a'
+DC4_ADD_TRADING_PARTNERSHIP_COMPANYUID_ID = '_idJsp8'

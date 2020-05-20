@@ -1,0 +1,6 @@
+2020-02-03 11:37:51,454 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-02-03 11:38:00,791 INFO: Folder created For NordstromPortal.
+2020-02-03 11:38:13,338 INFO: Successfully Login to NorthFace
+2020-02-03 11:38:40,674 INFO: Successfully Report Downloaded for NorthFace
+2020-02-03 11:38:40,674 ERROR: Exception: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\SalesAndInventoryByDeptVpnAll_588_2020-02-03_11.38.40.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\588.csv'
+2020-02-03 11:38:46,852 INFO: Successfully Logout from NorthFace

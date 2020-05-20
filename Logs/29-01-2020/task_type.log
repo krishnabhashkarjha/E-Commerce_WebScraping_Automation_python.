@@ -1,0 +1,8 @@
+2020-01-29 17:51:13,688 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-01-29 17:51:43,593 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-01-29 17:52:59,588 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-01-29 17:53:25,132 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-01-29 17:54:39,187 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-01-29 17:54:48,771 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Automation\\Nordstrom'
+2020-01-29 17:59:13,649 INFO: Folder created For NordstromPortal.
+2020-01-29 17:59:23,237 INFO: Folder created For NordstromPortal.

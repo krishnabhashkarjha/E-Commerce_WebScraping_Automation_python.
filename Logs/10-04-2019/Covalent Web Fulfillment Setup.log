@@ -1,0 +1,33 @@
+2019-04-10 11:28:59,299 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-10 11:29:30,350 INFO: Successful Connection
+2019-04-10 11:29:30,350 INFO: Login in to DC4 Prod
+2019-04-10 11:29:30,575 INFO: Refreshing access_token
+2019-04-10 11:29:32,766 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-10 11:29:34,439 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-10 11:29:42,069 INFO: Refreshing access_token
+2019-04-10 11:29:43,194 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-10 11:29:44,474 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-10 11:32:57,066 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Do It B...
+                      ^
+
+2019-04-10 11:32:57,078 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Do It Best Hardware) already exists.
+
+2019-04-10 11:34:47,358 INFO: Resetting dropped connection: sheets.googleapis.com
+2019-04-10 12:31:27,300 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-10 12:31:56,403 INFO: Successful Connection
+2019-04-10 12:31:56,403 INFO: Login in to DC4 Prod
+2019-04-10 12:31:56,564 INFO: Refreshing access_token
+2019-04-10 12:31:58,705 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-10 12:32:00,856 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-10 12:32:05,975 INFO: Refreshing access_token
+2019-04-10 12:32:07,158 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-10 12:32:08,622 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-10 12:34:50,620 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'ACE Har...
+                      ^
+
+2019-04-10 12:34:50,639 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(ACE Hardware) already exists.
+

@@ -1,0 +1,204 @@
+2018-12-12 17:32:53,016 INFO: Executing Script Web Fulfillment Setup
+2018-12-12 17:34:51,900 INFO: Executing Script Web Fulfillment Setup
+2018-12-12 17:38:27,709 INFO: Executing Script Web Fulfillment Setup
+2018-12-12 17:38:30,151 INFO: Successfully connected to database
+2018-12-12 17:38:30,151 INFO: Successful Connection
+2018-12-12 17:38:30,151 INFO: Login in to DC4 Prod
+2018-12-12 17:38:30,390 INFO: Refreshing access_token
+2018-12-12 17:38:32,559 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2018-12-12 17:38:34,212 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2018-12-12 17:39:45,828 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Canadia...
+                      ^
+
+2018-12-12 17:39:45,829 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:45,830 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:45,830 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:45,831 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:45,832 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:45,832 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:45,833 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:59,841 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:59,842 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:59,843 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:59,843 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:59,844 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:59,844 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:59,845 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:39:59,845 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:40:13,751 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:40:13,751 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:40:13,752 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:40:13,753 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:40:13,753 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:40:13,754 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:40:13,754 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 17:40:13,755 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:35:08,208 INFO: Executing Script Web Fulfillment Setup
+2018-12-12 20:35:10,731 INFO: Successfully connected to database
+2018-12-12 20:35:10,732 INFO: Successful Connection
+2018-12-12 20:35:10,732 INFO: Login in to DC4 Prod
+2018-12-12 20:35:10,893 INFO: Refreshing access_token
+2018-12-12 20:35:11,601 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2018-12-12 20:35:12,863 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2018-12-12 20:36:01,325 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Canadia...
+                      ^
+
+2018-12-12 20:36:01,326 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:01,327 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:01,327 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:01,328 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:01,329 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:01,329 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:01,330 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:15,276 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:15,277 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:15,278 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:15,278 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:15,279 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:15,280 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:15,280 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:15,281 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:28,672 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:28,672 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:28,673 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:28,673 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:28,674 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:28,674 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:28,675 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:36:28,675 ERROR: current transaction is aborted, commands ignored until end of transaction block
+
+2018-12-12 20:39:13,232 INFO: Executing Script Web Fulfillment Setup
+2018-12-12 20:39:15,663 INFO: Successfully connected to database
+2018-12-12 20:39:15,663 INFO: Successful Connection
+2018-12-12 20:39:15,663 INFO: Login in to DC4 Prod
+2018-12-12 20:39:15,830 INFO: Refreshing access_token
+2018-12-12 20:39:16,473 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2018-12-12 20:39:17,144 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2018-12-12 20:40:07,780 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Canadia...
+                      ^
+
+2018-12-12 20:44:59,429 INFO: Executing Script Web Fulfillment Setup
+2018-12-12 20:45:01,862 INFO: Successfully connected to database
+2018-12-12 20:45:01,863 INFO: Successful Connection
+2018-12-12 20:45:01,863 INFO: Login in to DC4 Prod
+2018-12-12 20:45:02,023 INFO: Refreshing access_token
+2018-12-12 20:45:02,747 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2018-12-12 20:45:03,317 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2018-12-12 20:46:01,144 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Canadia...
+                      ^
+
+2018-12-12 20:54:21,472 INFO: Executing Script Web Fulfillment Setup
+2018-12-12 20:54:23,858 INFO: Successfully connected to database
+2018-12-12 20:54:23,862 INFO: Successful Connection
+2018-12-12 20:54:23,862 INFO: Login in to DC4 Prod
+2018-12-12 20:54:24,027 INFO: Refreshing access_token
+2018-12-12 20:54:24,791 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2018-12-12 20:54:25,391 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2018-12-12 20:55:14,720 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Canadia...
+                      ^
+
+2018-12-12 20:55:14,734 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Save On...
+                      ^
+
+2018-12-12 20:56:45,033 INFO: Executing Script Web Fulfillment Setup
+2018-12-12 20:56:47,524 INFO: Successfully connected to database
+2018-12-12 20:56:47,525 INFO: Successful Connection
+2018-12-12 20:56:47,525 INFO: Login in to DC4 Prod
+2018-12-12 20:56:47,683 INFO: Refreshing access_token
+2018-12-12 20:56:48,318 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2018-12-12 20:56:49,035 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2018-12-12 20:57:38,499 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Canadia...
+                      ^
+
+2018-12-12 20:59:25,726 INFO: Executing Script Web Fulfillment Setup
+2018-12-12 20:59:28,342 INFO: Successfully connected to database
+2018-12-12 20:59:28,342 INFO: Successful Connection
+2018-12-12 20:59:28,342 INFO: Login in to DC4 Prod
+2018-12-12 20:59:28,499 INFO: Refreshing access_token
+2018-12-12 20:59:29,171 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2018-12-12 20:59:29,752 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2018-12-12 21:00:19,237 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Canadia...
+                      ^
+
+2018-12-12 21:00:19,239 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Canadian Jerky) already exists.
+
+2018-12-12 21:00:19,248 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'Save On...
+                      ^
+
+2018-12-12 21:00:19,249 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(Save On Foods) already exists.
+
+2018-12-12 21:00:33,461 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'SPRINGS...
+                      ^
+
+2018-12-12 21:00:33,477 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = '99 Cent...
+                      ^
+
+2018-12-12 21:00:46,842 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'MR FRES...
+                      ^
+
+2018-12-12 21:00:46,850 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = '99 Cent...
+                      ^
+
+2018-12-12 21:00:46,851 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(99 Cents Only Stores) already exists.
+

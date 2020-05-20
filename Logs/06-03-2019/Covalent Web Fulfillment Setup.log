@@ -1,0 +1,34 @@
+2019-03-06 12:23:40,865 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-06 12:23:44,555 INFO: Successful Connection
+2019-03-06 12:23:44,555 INFO: Login in to DC4 Prod
+2019-03-06 12:23:44,850 INFO: Refreshing access_token
+2019-03-06 12:23:47,078 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-06 12:23:48,770 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-06 12:24:12,610 INFO: Refreshing access_token
+2019-03-06 12:24:13,820 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-06 12:24:15,205 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-06 12:24:49,841 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-06 12:24:52,333 INFO: Successful Connection
+2019-03-06 12:24:52,333 INFO: Login in to DC4 Prod
+2019-03-06 12:24:52,504 INFO: Refreshing access_token
+2019-03-06 12:24:54,183 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-06 12:24:55,835 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-06 12:25:17,332 INFO: Refreshing access_token
+2019-03-06 12:25:18,467 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-06 12:25:20,431 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-06 12:27:29,823 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-03-06 12:27:32,301 INFO: Successful Connection
+2019-03-06 12:27:32,301 INFO: Login in to DC4 Prod
+2019-03-06 12:27:32,489 INFO: Refreshing access_token
+2019-03-06 12:27:34,476 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-06 12:27:35,738 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-06 12:27:56,934 INFO: Refreshing access_token
+2019-03-06 12:27:58,094 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-03-06 12:27:59,377 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-03-06 12:29:59,317 ERROR: relation "dc4_company_name" does not exist
+LINE 1: SELECT * from dc4_company_name where company_name = 'PetSmar...
+                      ^
+
+2019-03-06 12:29:59,317 ERROR: duplicate key value violates unique constraint "dc4_company_info_pkey"
+DETAIL:  Key (company_name)=(PetSmart) already exists.
+

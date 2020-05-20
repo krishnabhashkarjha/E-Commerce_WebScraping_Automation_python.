@@ -1,0 +1,113 @@
+2020-03-24 10:46:38,522 INFO: Successfully LogIN .
+2020-03-24 10:48:43,779 INFO: Successfully LogIN .
+2020-03-24 10:48:49,694 ERROR: Exception is : Message: element click intercepted: Element <span>...</span> is not clickable at point (71, 185). Other element would receive the click: <div disabled="" class="css-1a8btsw e69zk532">...</div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-24 10:51:37,158 INFO: Successfully LogIN .
+2020-03-24 10:51:42,906 ERROR: Exception is : Message: element click intercepted: Element <span>...</span> is not clickable at point (71, 185). Other element would receive the click: <div disabled="" class="css-18xts47 e69zk532">...</div>
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-24 10:56:10,285 INFO: Successfully LogIN .
+2020-03-24 10:56:44,653 INFO: selected adatar for Utilization .
+2020-03-24 10:56:48,957 INFO: Successfully Calculated Utilization for adatar .
+2020-03-24 10:57:01,751 INFO: selected sadake for Utilization .
+2020-03-24 10:57:05,807 INFO: Successfully Calculated Utilization for sadake .
+2020-03-24 10:57:18,619 INFO: selected apawar2 for Utilization .
+2020-03-24 10:57:22,757 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-24 10:57:35,573 INFO: selected ainamdar for Utilization .
+2020-03-24 10:57:39,690 INFO: Successfully Calculated Utilization for ainamdar .
+2020-03-24 10:58:03,402 INFO: selected AjayChoudhary for Utilization .
+2020-03-24 10:58:07,555 INFO: Successfully Calculated Utilization for AjayChoudhary .
+2020-03-24 10:58:20,361 INFO: selected mkamble for Utilization .
+2020-03-24 10:58:24,446 INFO: Successfully Calculated Utilization for mkamble .
+2020-03-24 10:58:37,261 INFO: selected averma for Utilization .
+2020-03-24 10:58:41,412 INFO: Successfully Calculated Utilization for averma .
+2020-03-24 10:58:54,143 INFO: selected amane for Utilization .
+2020-03-24 10:58:58,266 INFO: Successfully Calculated Utilization for amane .
+2020-03-24 10:59:11,078 INFO: selected srathore for Utilization .
+2020-03-24 10:59:15,148 INFO: Successfully Calculated Utilization for srathore .
+2020-03-24 10:59:27,911 INFO: selected nmahala for Utilization .
+2020-03-24 10:59:32,023 INFO: Successfully Calculated Utilization for nmahala .
+2020-03-24 10:59:44,823 INFO: selected sswami for Utilization .
+2020-03-24 10:59:48,876 INFO: Successfully Calculated Utilization for sswami .
+2020-03-24 11:00:01,695 INFO: selected rchoudhari for Utilization .
+2020-03-24 11:00:05,827 INFO: Successfully Calculated Utilization for rchoudhari .
+2020-03-24 11:00:18,607 INFO: selected vtemkar for Utilization .
+2020-03-24 11:00:22,645 INFO: Successfully Calculated Utilization for vtemkar .
+2020-03-24 11:00:35,408 INFO: selected asarode for Utilization .
+2020-03-24 11:00:39,427 INFO: Successfully Calculated Utilization for asarode .
+2020-03-24 11:00:52,147 INFO: selected rkute for Utilization .
+2020-03-24 11:00:56,271 INFO: Successfully Calculated Utilization for rkute .
+2020-03-24 11:01:09,058 INFO: selected pshende for Utilization .
+2020-03-24 11:01:13,112 INFO: Successfully Calculated Utilization for pshende .
+2020-03-24 11:01:25,912 INFO: selected njalkote for Utilization .
+2020-03-24 11:01:29,965 INFO: Successfully Calculated Utilization for njalkote .
+2020-03-24 11:01:42,710 INFO: selected syadav for Utilization .
+2020-03-24 11:01:46,748 INFO: Successfully Calculated Utilization for syadav .
+2020-03-24 11:01:59,528 INFO: selected ssharma for Utilization .
+2020-03-24 11:02:03,562 INFO: Successfully Calculated Utilization for ssharma .
+2020-03-24 11:02:16,311 INFO: selected rsingh for Utilization .
+2020-03-24 11:02:20,461 INFO: Successfully Calculated Utilization for rsingh .
+2020-03-24 11:02:33,251 INFO: selected praut for Utilization .
+2020-03-24 11:02:37,280 INFO: Successfully Calculated Utilization for praut .
+2020-03-24 11:02:50,213 INFO: selected sjakkanawar for Utilization .
+2020-03-24 11:02:54,298 INFO: Successfully Calculated Utilization for sjakkanawar .
+2020-03-24 11:03:07,077 INFO: selected smishra2 for Utilization .
+2020-03-24 11:03:11,164 INFO: Successfully Calculated Utilization for smishra2 .
+2020-03-24 11:03:23,913 INFO: selected vsingh for Utilization .
+2020-03-24 11:03:27,947 INFO: Successfully Calculated Utilization for vsingh .
+2020-03-24 11:03:40,694 INFO: selected ymaurya for Utilization .
+2020-03-24 11:03:44,747 INFO: Successfully Calculated Utilization for ymaurya .
+2020-03-24 11:03:57,530 INFO: selected skumari2 for Utilization .
+2020-03-24 11:04:01,615 INFO: Successfully Calculated Utilization for skumari2 .
+2020-03-24 11:04:14,364 INFO: selected ktiwari for Utilization .
+2020-03-24 11:04:18,446 INFO: Successfully Calculated Utilization for ktiwari .
+2020-03-24 11:04:32,263 INFO: selected agurav for Utilization .
+2020-03-24 11:04:37,515 INFO: Successfully Calculated Utilization for agurav .
+2020-03-24 11:04:55,359 INFO: selected sshetty for Utilization .
+2020-03-24 11:05:00,939 INFO: Successfully Calculated Utilization for sshetty .
+2020-03-24 11:05:20,568 INFO: selected gpawar3 for Utilization .
+2020-03-24 11:05:24,599 INFO: Successfully Calculated Utilization for gpawar3 .
+2020-03-24 11:05:37,364 INFO: selected udhotre for Utilization .
+2020-03-24 11:05:41,501 INFO: Successfully Calculated Utilization for udhotre .
+2020-03-24 11:05:54,296 INFO: selected asalunkhe for Utilization .
+2020-03-24 11:05:58,369 INFO: Successfully Calculated Utilization for asalunkhe .
+2020-03-24 11:06:11,117 INFO: selected ashinde for Utilization .
+2020-03-24 11:06:15,149 INFO: Successfully Calculated Utilization for ashinde .
+2020-03-24 11:06:15,368 INFO: Successfully LogOut .
+2020-03-24 11:09:34,425 INFO: Successfully LogIN .
+2020-03-24 11:10:08,592 INFO: selected adatar for Utilization .
+2020-03-24 11:10:12,874 INFO: Successfully Calculated Utilization for adatar .
+2020-03-24 11:10:25,719 INFO: selected sadake for Utilization .
+2020-03-24 11:10:29,919 INFO: Successfully Calculated Utilization for sadake .
+2020-03-24 11:10:42,840 INFO: selected apawar2 for Utilization .
+2020-03-24 11:10:47,088 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-24 11:10:59,976 INFO: selected ainamdar for Utilization .
+2020-03-24 11:11:04,141 INFO: Successfully Calculated Utilization for ainamdar .
+2020-03-24 11:11:17,164 INFO: selected Ajay Choudhary for Utilization .
+2020-03-24 11:11:21,441 INFO: Successfully Calculated Utilization for Ajay Choudhary .
+2020-03-24 11:11:34,348 INFO: selected mkamble for Utilization .
+2020-03-24 11:11:38,580 INFO: Successfully Calculated Utilization for mkamble .
+2020-03-24 11:11:51,350 INFO: selected averma for Utilization .
+2020-03-24 11:11:55,119 INFO: Successfully Calculated Utilization for averma .
+2020-03-24 11:12:07,835 INFO: selected amane for Utilization .
+2020-03-24 11:12:11,409 INFO: Successfully Calculated Utilization for amane .
+2020-03-24 11:12:24,142 INFO: selected srathore for Utilization .
+2020-03-24 11:12:28,132 INFO: Successfully Calculated Utilization for srathore .
+2020-03-24 11:14:32,622 INFO: Successfully LogIN .
+2020-03-24 11:15:07,473 INFO: selected adatar for Utilization .
+2020-03-24 11:15:11,151 ERROR: Exception is : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div/div/div[1]/div/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/span/span[1]"}
+  (Session info: chrome=80.0.3987.149)
+
+2020-03-24 11:15:11,493 INFO: Successfully Calculated Utilization for adatar .
+2020-03-24 11:15:24,545 INFO: selected sadake for Utilization .
+2020-03-24 11:15:29,034 INFO: Successfully Calculated Utilization for sadake .
+2020-03-24 11:15:41,963 INFO: selected apawar2 for Utilization .
+2020-03-24 11:15:46,274 INFO: Successfully Calculated Utilization for apawar2 .
+2020-03-24 11:15:59,250 INFO: selected ainamdar for Utilization .
+2020-03-24 11:16:03,533 INFO: Successfully Calculated Utilization for ainamdar .
+2020-03-24 11:16:16,573 INFO: selected Ajay Choudhary for Utilization .
+2020-03-24 11:16:20,915 INFO: Successfully Calculated Utilization for Ajay Choudhary .
+2020-03-24 11:16:33,809 INFO: selected mkamble for Utilization .
+2020-03-24 11:16:38,097 INFO: Successfully Calculated Utilization for mkamble .
+2020-03-24 11:16:38,342 INFO: Successfully LogOut .

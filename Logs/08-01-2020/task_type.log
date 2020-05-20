@@ -1,0 +1,13 @@
+2020-01-08 15:34:20,690 INFO: Folder created For DomoPortal.
+2020-01-08 15:34:45,100 INFO: Successfully SignIN To Camelback.
+2020-01-08 15:36:55,269 INFO: Download sales Report Successfully for Basspro.
+2020-01-08 15:36:58,560 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-01-08 15:39:13,967 INFO: Download sales Report Successfully for Cabelas.
+2020-01-08 15:39:17,004 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-01-08 15:42:19,527 INFO: Download Inventory Report Successfully for Basspro.
+2020-01-08 15:42:22,567 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-01-08 15:45:53,333 INFO: Download Inventory Report Successfully for Cabelas.
+2020-01-08 15:45:56,410 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-01-08 15:46:00,327 INFO: Successfully Signout.
+2020-01-08 15:46:00,327 INFO:  DONE WITH CAMELBACK.None
+2020-01-08 15:46:00,328 INFO: Download Complete for Domo Portal

@@ -1,0 +1,6 @@
+2019-02-20 11:37:48,336 INFO: Executing Script Normal Web Fulfillment Setup
+2019-02-20 11:37:51,400 INFO: Successful Connection
+2019-02-20 11:37:51,400 INFO: Login in to DC4 Prod
+2019-02-20 11:37:51,623 INFO: Refreshing access_token
+2019-02-20 11:37:53,604 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-02-20 11:37:55,363 INFO: Starting new HTTPS connection (1): sheets.googleapis.com

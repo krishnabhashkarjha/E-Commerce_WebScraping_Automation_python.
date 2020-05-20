@@ -1,0 +1,18 @@
+2019-04-03 15:25:49,719 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-03 15:25:53,055 INFO: Successful Connection
+2019-04-03 15:25:53,056 INFO: Login in to DC4 Prod
+2019-04-03 15:25:53,279 INFO: Refreshing access_token
+2019-04-03 15:25:55,291 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-03 15:25:56,970 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-03 15:26:19,907 INFO: Refreshing access_token
+2019-04-03 15:26:21,058 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-03 15:26:22,463 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-03 15:45:45,264 INFO: Executing Script Covalent Web Fulfillment Setup
+2019-04-03 15:45:47,790 INFO: Successful Connection
+2019-04-03 15:45:47,791 INFO: Login in to DC4 Prod
+2019-04-03 15:45:47,951 INFO: Refreshing access_token
+2019-04-03 15:45:49,891 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-03 15:45:51,626 INFO: Starting new HTTPS connection (1): sheets.googleapis.com
+2019-04-03 15:46:14,758 INFO: Refreshing access_token
+2019-04-03 15:46:15,902 INFO: Starting new HTTPS connection (1): www.googleapis.com
+2019-04-03 15:46:17,152 INFO: Starting new HTTPS connection (1): sheets.googleapis.com

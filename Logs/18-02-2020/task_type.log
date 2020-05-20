@@ -1,0 +1,112 @@
+2020-02-18 11:24:34,187 INFO: Folder created For DomoPortal.
+2020-02-18 11:24:50,425 INFO: Successfully SignIN To HydroFlask.
+2020-02-18 11:24:50,425 INFO: module 'self' has no attribute 'lo'
+2020-02-18 11:24:52,315 INFO: Successfully Signout.
+2020-02-18 11:24:52,316 INFO:  DONE WITH HydroFlask.module 'self' has no attribute 'lo'
+2020-02-18 11:24:52,317 INFO: Download Complete for Domo Portal
+2020-02-18 11:33:52,376 INFO: Folder created For DomoPortal.
+2020-02-18 11:34:08,498 INFO: Successfully SignIN To HydroFlask.
+2020-02-18 11:36:03,554 INFO: Download sales Report Successfully for Basspro.
+2020-02-18 11:36:06,979 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-18 11:38:07,949 INFO: Download sales Report Successfully for Cabelas.
+2020-02-18 11:38:10,970 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-02-18 11:41:25,915 INFO: Download Inventory Report Successfully for Basspro.
+2020-02-18 11:41:28,942 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-02-18 11:45:08,093 INFO: Download Inventory Report Successfully for Cabelas.
+2020-02-18 11:45:11,136 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-02-18 11:45:15,288 INFO: Successfully Signout.
+2020-02-18 11:45:15,288 INFO:  DONE WITH HydroFlask.None
+2020-02-18 11:45:15,288 INFO: Download Complete for Domo Portal
+2020-02-18 12:10:21,057 INFO: Folder created For DomoPortal.
+2020-02-18 12:10:41,121 INFO: Successfully SignIN To HydroFlask.
+2020-02-18 12:10:49,900 INFO: Message: element not interactable
+  (Session info: chrome=80.0.3987.106)
+
+2020-02-18 12:10:56,009 INFO: Successfully Signout.
+2020-02-18 12:10:56,009 INFO:  DONE WITH HydroFlask.Message: element not interactable
+  (Session info: chrome=80.0.3987.106)
+
+2020-02-18 12:10:56,010 INFO: Download Complete for Domo Portal
+2020-02-18 12:15:51,188 INFO: Folder created For DomoPortal.
+2020-02-18 12:16:06,853 INFO: Successfully SignIN To HydroFlask.
+2020-02-18 12:16:11,557 INFO: Message: element not interactable
+  (Session info: chrome=80.0.3987.106)
+
+2020-02-18 12:16:18,129 INFO: Successfully Signout.
+2020-02-18 12:16:18,129 INFO:  DONE WITH HydroFlask.Message: element not interactable
+  (Session info: chrome=80.0.3987.106)
+
+2020-02-18 12:16:18,129 INFO: Download Complete for Domo Portal
+2020-02-18 12:18:11,762 INFO: Folder created For DomoPortal.
+2020-02-18 12:18:28,369 INFO: Successfully SignIN To HydroFlask.
+2020-02-18 12:27:39,248 INFO: Folder created For DomoPortal.
+2020-02-18 12:27:56,603 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-02-18 12:29:54,061 INFO: Download sales Report Successfully for Basspro.
+2020-02-18 12:29:57,287 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-18 12:31:43,211 INFO: Download sales Report Successfully for Cabelas.
+2020-02-18 12:31:46,234 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-02-18 12:33:31,207 INFO: partial file download.
+2020-02-18 12:35:01,212 INFO: Download Inventory Report Successfully for Basspro.
+2020-02-18 12:35:04,310 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-02-18 12:38:19,572 INFO: Download Inventory Report Successfully for Cabelas.
+2020-02-18 12:38:22,591 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-02-18 12:38:25,686 INFO: Successfully Signout.
+2020-02-18 12:38:25,686 INFO:  DONE WITH COLUMBIA SPORTWEAR.None
+2020-02-18 12:38:37,507 INFO: Successfully SignIN To HydroFlask.
+2020-02-18 12:40:24,000 INFO: Download sales Report Successfully for Basspro.
+2020-02-18 12:40:27,045 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-18 12:42:12,361 INFO: Download sales Report Successfully for Cabelas.
+2020-02-18 12:42:15,380 INFO: Successfully Rename and Move sales Report for Cabelas.
+2020-02-18 12:43:50,233 INFO: Download Inventory Report Successfully for Basspro.
+2020-02-18 12:43:53,250 INFO: Successfully Rename and Move Inventory Report for Basspro.
+2020-02-18 12:45:35,686 INFO: Download Inventory Report Successfully for Cabelas.
+2020-02-18 12:45:38,703 INFO: Successfully Rename and Move inventory Report for Cabelas.
+2020-02-18 12:45:40,959 INFO: Successfully Signout.
+2020-02-18 12:45:40,960 INFO:  DONE WITH HydroFlask.None
+2020-02-18 12:45:40,960 INFO: Download Complete for Domo Portal
+2020-02-18 13:51:35,560 INFO: Folder created For DomoPortal.
+2020-02-18 13:51:43,532 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-02-18 13:53:41,173 INFO: Message: 
+
+2020-02-18 13:53:41,184 ERROR: Exception:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="NotificationsPopoverToggle"]/div/div/span/div/div/img"}
+  (Session info: chrome=80.0.3987.106)
+
+2020-02-18 13:53:41,185 INFO:  DONE WITH COLUMBIA SPORTWEAR.Message: 
+
+2020-02-18 13:53:41,185 INFO: Download Complete for Domo Portal
+2020-02-18 13:54:18,560 INFO: Folder created For DomoPortal.
+2020-02-18 13:54:25,049 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-02-18 17:01:56,012 INFO: Folder created For DomoPortal.
+2020-02-18 17:02:01,900 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-02-18 17:31:21,861 INFO: Folder created For DomoPortal.
+2020-02-18 17:31:24,010 INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.106)
+
+2020-02-18 17:31:24,018 ERROR: Exception:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.106)
+
+2020-02-18 17:31:24,020 INFO:  DONE WITH COLUMBIA SPORTWEAR.Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.106)
+
+2020-02-18 17:31:24,021 INFO: Download Complete for Domo Portal
+2020-02-18 17:41:18,675 INFO: Folder created For DomoPortal.
+2020-02-18 17:41:25,500 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-02-18 17:42:11,204 INFO: Folder created For DomoPortal.
+2020-02-18 17:42:18,814 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-02-18 17:44:01,390 INFO: Download sales Report Successfully for Basspro.
+2020-02-18 17:44:01,409 ERROR: Exception:[WinError 3] The system cannot find the path specified: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+SALES+DETAIL+SKU+STORE+DAY (1).csv\\B_C+SALES+DETAIL+SKU+STORE+DAY.csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+SALES+DETAIL+SKU+STORE+DAY (1).csv\\BASSPRO_COLUMBIA_SALES_20200215.csv'
+2020-02-18 17:44:04,412 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-18 17:47:03,315 INFO: Folder created For DomoPortal.
+2020-02-18 17:47:09,332 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-02-18 17:48:51,717 INFO: Download sales Report Successfully for Basspro.
+2020-02-18 17:48:51,735 ERROR: Exception:[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+SALES+DETAIL+SKU+STORE+DAY (1).csv' -> 'C:\\Users\\Krishnabhashkar.Jha\\Downloads\\B_C+SALES+DETAIL+SKU+STORE+DAY (1).csv\\BASSPRO_COLUMBIA_SALES_20200215.csv'
+2020-02-18 17:48:54,736 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-18 17:54:45,126 INFO: Folder created For DomoPortal.
+2020-02-18 17:54:50,934 INFO: Successfully SignIN To ColumbiaSportswear.
+2020-02-18 17:56:31,834 INFO: Download sales Report Successfully for Basspro.
+2020-02-18 17:56:34,853 INFO: Successfully Rename and Move sales Report for Basspro.
+2020-02-18 17:58:45,423 INFO: Folder created For DomoPortal.
+2020-02-18 17:58:51,366 INFO: Successfully SignIN To ColumbiaSportswear.
